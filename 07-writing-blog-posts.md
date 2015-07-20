@@ -1,4 +1,5 @@
 ---
+title: Writing Blog Posts
 layout: article
 ---
 

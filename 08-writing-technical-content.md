@@ -1,4 +1,5 @@
 ---
+title: Writing Technical Content
 layout: article
 ---
 

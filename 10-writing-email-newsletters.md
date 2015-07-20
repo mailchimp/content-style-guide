@@ -1,4 +1,5 @@
 ---
+title: Writing Email Newsletters
 layout: article
 ---
 

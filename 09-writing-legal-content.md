@@ -1,4 +1,5 @@
 ---
+title: Writing Legal Content
 layout: article
 ---
 

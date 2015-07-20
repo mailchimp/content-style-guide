@@ -1,4 +1,5 @@
 ---
+title: Writing About People
 layout: article
 ---
 

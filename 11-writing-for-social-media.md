@@ -1,4 +1,5 @@
 ---
+title: Writing for Social Media
 layout: article
 ---
 

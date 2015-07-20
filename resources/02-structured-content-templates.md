@@ -1,5 +1,6 @@
 ---
+title: Structured Content Templates
 layout: article
 ---
 
-# Copy Patterns
+# Structured Content Templates

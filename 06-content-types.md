@@ -1,4 +1,5 @@
 ---
+title: Content Types
 layout: article
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Writing Principles
 layout: article
 ---
 

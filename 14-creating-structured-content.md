@@ -1,4 +1,5 @@
 ---
+title: Creating Structured Content
 layout: article
 ---
 

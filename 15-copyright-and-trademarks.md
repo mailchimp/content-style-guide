@@ -1,5 +1,6 @@
 ---
+title: Copyright and Trademarks
 layout: article
 ---
 
-# Creating Structured Content
+# Copyright and Trademarks
