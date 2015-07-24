@@ -1,0 +1,157 @@
+---
+title: Writing for Translation
+layout: article
+---
+
+MailChimp serves millions of users in hundreds of countries and territories, not just the United States. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
+
+We try to write all of our content in standard, straightforward English that can be understood by users with limited English proficiency. The Knowledge Base is available to all users in both English and Spanish, with more languages in development. Sometimes other pieces of content will be translated as well. We call the process of writing copy for translation “internationalization.”
+
+This section will address things you can do to help international audiences, including translators, better comprehend your text.
+
+Some guidelines in this section may contradict rules stated elsewhere in the MailChimp style guide. If you’re writing something to be translated, the guidelines in this section should take precedence.
+
+## Basics
+
+Keep it simple. It will be much easier for a translator to clearly communicate your ideas if you write in straightforward, uncomplicated sentences.
+
+Use the subject-verb-object sentence structure. It’s not used by all languages, but it’s widely recognized.
+
+Use active voice.
+
+Avoid double negatives.
+
+Use positive words when talking about positive situations. For example, because a question like “Don’t you think she did a great job?” begins with a negative word, a non-native English speaker may interpret its implication as negative. A better version would be “She did a good job, right?”
+
+Use contractions with caution. Many languages use them, but English contractions may not be recognizable to all translators.
+
+Avoid using a lot of synonyms for the same word in a single piece of writing. Instead of mixing it up with “campaign,” “newsletter,” “bulletin,” etc., pick one term and stick with it.
+
+## Consider cultural differences
+
+MailChimp’s voice conversational and informal. However, in some cultures, informal text may be considered offensive. Check with your translator to see if this is the case for the particular language you’re writing for. The translation company should give the option to translate in a formal or informal tone, if the language allows for it. (For example, in Spanish, it is possible to write informally where tú = you or formally where usted = you.)
+
+When writing text that will be translated, be careful about making references to things of local or regional importance. These may not be recognizable to readers outside the US.
+
+## Prioritize clarity
+
+Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to repeat or add words to make the meaning of your sentences clear to a translator.
+
+Repeat verbs that have multiple subjects.
+  - Yes: Customers who have ordered online can pick-up their food at the cashier. Walk-in customers should stop by the cashier to order their food.
+  - No: Customers who have ordered online or who are walk-ins should stop at the cashier to order or pick-up their food.
+
+
+Repeat helping verbs belonging to multiple verbs
+  - Yes: MailChimp can send your campaign on the fly or can schedule your campaign to go out at a set time.
+  - No: MailChimp can send your campaign on the fly or schedule your campaign to got out at a set time.
+
+Repeat subjects and verbs
+  - Yes: Mandrill sends transactional emails, but MailChimp does not.
+  - No: Mandrill sends transactional emails, but not MailChimp.
+
+Repeat markers in a list or series
+  - Yes: Use MailChimp to send emails campaigns, to manage your mailing lists, and to integrate with other applications.
+  - No: Use MailChimp to send email campaigns, manage your mailing lists, and integrate with other applications.
+
+Even if you think they could be cut, leave in words like “then,” “a,” “the,” “to,” and “that.”
+  - Yes: If there is not a list set up in your MailChimp account, then you’ll need to create a list before sending your first campaign.
+  - No: If there is not a list set up in your MailChimp account, you’ll need to create a list before sending your first campaign.
+
+
+ - Yes: When sending a campaign, it is necessary to have a “From:” name, a “From:” address, and a subject line.
+- No: When sending a campaign, it is necessary to have a “From:” name, “From:” address, and subject line.
+
+- Yes: Be sure that you are truly ready to send your campaign before clicking the “Send Now” button.
+- No: Be sure you are truly ready to send your campaign before clicking the “Send Now” button.
+
+Avoid unclear pronoun references.
+- Yes: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. Such action can actually cause high of rates abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
+- No: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
+
+
+## Avoid ambiguity
+
+Many words, parts of speech, and grammar mechanics we don’t think twice about have the potential to cause confusion for translators and non-native English speakers. Here are some of the big trouble spots to avoid.
+
+### -ing words
+
+In English, many different types of words end in -ing: nouns, adjectives, progressive verbs, etc. But translator who is a non-native English speaker may not be able to recognize the distinctions and may try to translate them all in the same way.
+
+Because of this, we want to avoid -ing words when possible. One exception to this rule is words like “graphic calculator” and “riding lawnmower,” where the -ing word is part of a noun’s name and can’t be worked around.
+
+Here are some other cases where you might see -ing words, and suggestions for how to edit around them.
+
+**Gerunds**
+- Yes: In this article we will talk about list subscriber collection.
+- No: In this article we will talk about getting list subscribers.
+
+
+**Adjectives**
+- Yes: At the top of the page, there is Freddie with a smile on his face.
+- No: At the top of the page, there is a smiling Freddie.
+
+**Parts of verbs**
+- Yes: Several developers are currently working on that feature.
+- No: Several developers are working on that feature. (When you can’t easily avoid the -ing word, it may help to add an adverb to clarify the meaning.)
+
+**Parts of phrases modifying nouns**
+- Yes: From our backyard, we could hear the planes that took off from the airport.
+- No: From our backyard, we could hear the planes taking off from the airport.
+
+### Words with multiple meanings
+
+“Once” (could mean “one time,” “after,” “in the past,” or “when”)
+- Yes: After you login, you will see your account’s Dashboard.
+- No: Once you login, you will see your account’s Dashboard.
+
+“Right” (could mean “correct,” “the opposite of left,” “politically conservative,” etc.)
+ - Yes: In the File Manager, click the correct image and drag it to the pane at right.
+ - No: In the File Manager, click the right image and drag it to the right pane.
+
+“Since” (could refer to a point in time, or a synonym of “because”)
+- Yes: Because you already have a complete mailing list, you can send your campaign at anytime.
+- No: Since you already have complete mailing list, you can send your campaign at anytime.
+
+“Require” plus an infinitive (could confuse the relationship between subject and object)
+- Yes: Autoresponders can be configured and sent from paid accounts.
+- No: A paid account is required to send autoresponders. (This could imply that users with paid accounts are required to send autoresponders.)
+
+“Has” or “have” plus past participle (could confuse the relationship between subject and object)
+- Yes: The folder contains sent campaigns.
+- No: The folder has sent campaigns.
+
+
+### Other words and things to avoid
+
+Slang, idioms, and cliches
+
+Shortened words, even if they’re common in English
+  - “Application,” not “app”
+
+Uncommon foreign words
+  - “Genuine,” not “bona fide”
+
+Unnecessary abbreviations
+  - “For example,” not “e.g.”
+
+Converting one part of speech into another if it isn’t already commonly used.
+  - “Search the web,” not “Google” (as a verb)
+  - “Send us an email” instead of “message us”
+
+Nonstandard or indirect verb usage
+  - “He says,” not “he’s like” or “he was all”
+
+## Numbers
+
+### Measurements
+
+When writing for an international audience, use the metric system. Spell out all units and avoid abbreviation.
+
+### Currency
+
+Many countries use the dollar for currency, but the value is going to differ between countries. The US dollar is not the same as the Canadian dollar, for example. So it’s important to specify.
+
+Indicate currency by using its three-letter abbreviation, such as USD or CAD. Don’t use currency symbols, like $ or €. We would say 25 USD, not $25.
+
+Avoid colloquial phrases that relate to money, like “five-and-dime,” “greenbacks,” or “c-notes.” These won’t translate well.
