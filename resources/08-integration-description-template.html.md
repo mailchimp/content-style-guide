@@ -1,5 +1,5 @@
 ---
-title: Integration Description
+title: Integration Description Template
 layout: article
 ---
 

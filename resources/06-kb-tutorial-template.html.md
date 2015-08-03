@@ -1,5 +1,5 @@
 ---
-title: KB Tutorial
+title: KB Tutorial Template
 layout: article
 ---
 

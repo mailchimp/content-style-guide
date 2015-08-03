@@ -1,5 +1,5 @@
 ---
-title: Marketing Guide
+title: Marketing Guide Template
 layout: article
 ---
 

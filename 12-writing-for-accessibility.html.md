@@ -3,8 +3,6 @@ title: Writing for Accessibility
 layout: article
 ---
 
-# Writing for Accessibility
-
 We’re always working to make our content more accessible and usable to the widest possible audience. Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page.
 
 ## Hierarchy
