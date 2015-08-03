@@ -20,7 +20,7 @@ Provides a bit more detail than the summary/tagline.
 
 Full explanation of what the integration does. Usually includes relevant links to the partner's website. Often uses bulleted lists to present features in an easily readable format.
 
-### Pricing 
+### Pricing
 
 Optional and depends on the integration.
 

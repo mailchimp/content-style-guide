@@ -5,7 +5,7 @@ layout: article
 
 ## Page title
 
-Titles usually display on the page as well as inside the HTML <title> tag, for consistency and search engine findability.
+Titles usually display on the page as well as inside the HTML `<title>` tag, for consistency and search engine findability.
 
 ## Subtitle
 

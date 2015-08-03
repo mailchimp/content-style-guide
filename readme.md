@@ -17,7 +17,7 @@ The `h1` of every page is generated from the `title` key in Frontmatter. All hea
 
 ### HTML Tags in Text
 
-When displaying HTML tags as text in content, be sure to wrap them in backticks, eg: \`<h3>\`.
+When displaying HTML tags as text in content, be sure to wrap them in backticks, eg: \``<h3>`\`.
 
 ### Tables
 
