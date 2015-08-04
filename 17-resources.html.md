@@ -1,3 +1,4 @@
 ---
 title: Resources
+noindex: true
 ---

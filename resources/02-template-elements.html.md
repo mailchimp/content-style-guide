@@ -1,5 +1,5 @@
 ---
-title: Templates Elements
+title: Template Elements
 layout: article
 ---
 
