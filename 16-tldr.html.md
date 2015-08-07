@@ -16,9 +16,18 @@ Good content is:
 
 ## Voice and tone
 
-MailChimp’s voice is human. It’s familiar, friendly, and straightforward. Our priority is explaining our products and helping our users get their work done so they can get on with their lives. We want to educate people without patronizing or confusing them.
+MailChimp’s voice is:
 
-Our tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind and adjust your tone accordingly. To learn more about how we adapt our tone for different situations and see some examples, check out [MailChimp’s Voice and Tone guide](http://voiceandtone.com/).
+* Human
+* Familiar
+* Friendly
+* Straightforward
+
+Our tone changes depending on the situation, but is generally informal. Humor is important, but we value clarity over entertainment.
+
+Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
+
+Related resource: The MailChimp [Voice and Tone guide](TK).
 
 ## Writing about people
 
