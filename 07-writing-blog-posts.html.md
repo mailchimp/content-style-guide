@@ -7,6 +7,8 @@ MailChimp’s [main blog](https://blog.mailchimp.com) features posts written by 
 
 This section will focus on the main MailChimp blog, but we’ve also got a few department-specific blogs for our [design](http://creative.mailchimp.com), [engineering](http://devs.mailchimp.com/blog/), and [technical content](http://docmakers.mailchimp.com) teams.
 
+## Basics 
+
 We update the main MailChimp blog a couple times every week. Here are the types of posts we generally publish:
 
 * Feature, release, and integration announcements
@@ -18,7 +20,7 @@ Our blog posts explain the "why" behind the work we do at MailChimp, while showi
 
 Our publishing process leaves plenty of room for learning as you go. Working on a blog post? Here are some tips to help you write the post and navigate WordPress Admin.
 
-## Blog writing tips
+## Guidelines
 
 ### Be casual, but smart.
 This isn’t a term paper, so there’s no need to be stuffy, but be smart. You know what you’re talking about—that’s why you’re writing the blog post. Drop some knowledge while casually engaging your readers with conversational language.
