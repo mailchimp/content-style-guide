@@ -38,12 +38,6 @@ Links should provide information on the associated action or destination. Try to
 
 Write short sentences and use familiar words. Avoid jargon and slang. If you need to use an abbreviation or acronym that people may not understand, explain what it means on first reference.
 
-### Be mindful of visual elements
-
-Aim for high contrast between your font and background colors. Tools in the resources section should help with picking accessible colors.
-
-Images should not be the only method of communication, because images may not load or may not be seen. Avoid using images when the same information could be communicated in writing. 
-
 ### Use alt text
 
 The alt tag is the most basic form of image description, and it should be included on all images. The language will depend on the purpose of the image:
@@ -57,6 +51,12 @@ Each browser handles alt tags differently. Supplement images with standard capti
 ### Make sure closed captioning is available
 
 Closed captioning or transcripts should be available for all videos. The information presented in videos should also be available in other formats.
+
+### Be mindful of visual elements
+
+Aim for high contrast between your font and background colors. Tools in the resources section should help with picking accessible colors.
+
+Images should not be the only method of communication, because images may not load or may not be seen. Avoid using images when the same information could be communicated in writing. 
 
 ## Resources
 
