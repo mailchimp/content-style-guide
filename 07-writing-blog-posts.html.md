@@ -5,7 +5,7 @@ layout: article
 
 MailChimp blog posts are written by people from all over the company, not just those with “writer” in their job title. We love having in-office experts blog about their work. The person with the knowledge is best able to convey it, and the content team can help by brainstorming and editing them as needed.
 
-Several blogs exist under the MailChimp umbrella. We have a few for specific departments, including our [design](http://creative.mailchimp.com), [engineering](http://devs.mailchimp.com/blog/), and [technical content](http://docmakers.mailchimp.com) teams. This section will focus on the main [MailChimp marketing blog](http://blog.mailchimp.com), but these guidelines apply to the other channels, too.
+Several blogs exist under the MailChimp umbrella, including ones written by our [design](http://creative.mailchimp.com), [engineering](http://devs.mailchimp.com/blog/), and [technical content](http://docmakers.mailchimp.com) teams. This section will focus on the main [MailChimp marketing blog](http://blog.mailchimp.com), it applies to the other channels, too.
 
 ## Basics 
 
