@@ -5,7 +5,7 @@ layout: article
 
 ## Goals
 
-These goals inform every piece of content we publish:
+With every piece of content we publish, we aim to:
 
 * **Empower.** We want to help people understand our products by using language that encourages them to make the most of MailChimp.
 
