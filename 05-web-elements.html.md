@@ -3,7 +3,7 @@ title: Web Elements
 layout: article
 ---
 
-Every big piece of content we write is supported by a number of smaller content elements. They serve various, specific functions, and are just as—if not more—important. This section lays out our style in regards to these web elements, plus our approach to search engine optimization (SEO).
+Every big piece of content we write is supported by a number of smaller content elements. They serve various, specific functions, and are just as—if not more—important. This section lays out our style in regards to these web elements, plus our approach the tricky art of SEO.
 
 ## Guidelines
 
