@@ -3,7 +3,7 @@ title: Web Elements
 layout: article
 ---
 
-{INTRO}
+Every big piece of content we write is supported by a number of smaller content elements. They serve various, specific functions, and are just as—if not more—important. This section lays out our style in regards to these web elements, plus our approach to search engine optimization (SEO).
 
 ## Guidelines
 
@@ -11,7 +11,7 @@ layout: article
 
 This is a way to label images, and is especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-Read more on alt text in the [Accessibility](TK) section.
+For more on how and why we use alt text, read the [Accessibility](TK) section.
 
 ### Buttons
 
@@ -107,7 +107,7 @@ Don’t use punctuation in a title unless the title is a question.
 
 ## SEO
 
-We write for humans, not machines. We don't use gross SEO techniques, like keyword stuffing, to bump search results. But we also want to make it easy for people and search engines to find and share our content. Here are some tips that help.
+We write for humans, not machines. We don't use gross SEO techniques, like keyword stuffing, to bump search results. But we also want to make it easy for people and search engines to find and share our content. Here are some not-icky ways to do this:
 
 * Organize your page around one topic. Use clear, descriptive terms in titles and headings that relate to the topic at hand.
 
