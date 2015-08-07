@@ -15,9 +15,9 @@ We try to write all of our content in standard, straightforward English that can
 
 Here are some guiding principles for writing for international audiences: 
 
-* **Use the subject-verb-object sentence structure.** It’s not used by all languages, but it’s widely recognized.
+* **Use active voice.** We always aim for this, but it's especially important when writing for translation.
 
-* **Use active voice.**
+* **Use the subject-verb-object sentence structure.** It’s not used by all languages, but it’s widely recognized.
 
 * **Use positive words when talking about positive situations.** For example, because a question like “Don’t you think she did a great job?” begins with a negative word, a non-native English speaker may interpret its implication as negative. A better version would be “She did a good job, right?”
 
