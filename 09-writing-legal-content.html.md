@@ -3,25 +3,27 @@ title: Writing Legal Content
 layout: article
 ---
 
-Millions of business around the world use MailChimp, so we publish different kinds of legal content to protect ourselves and our customers.
+We publish many different kinds of legal content to protect ourselves and our millions of customers around the world. Most of our legal content is written by the legal department with occasional help from the marketing department. 
 
-If you’re looking for information about laws that apply to non-legal content, see the following section: [Copyright and trademark]
+For information about laws that apply to non-legal content, see the [Copyright and trademark] section.
 
-## Public legal documents
+## Basics
 
-Here are the legal documents that are on our website:
+We publish several types of legal documents, each with their own processes and goals.
 
-[Terms of use](http://mailchimp.com/legal/terms/)
-[Acceptable use policy](http://mailchimp.com/legal/acceptable_use/)
-[Privacy policy](http://mailchimp.com/legal/privacy/)
-[API use policy](http://mailchimp.com/legal/api_use/)
-[Copyright policy](http://mailchimp.com/legal/copyright/)
+### Public legal documents
 
-We keep them all in one place on our [legal page](http://mailchimp.com/legal/).
+We keep these in one place on our [legal page](http://mailchimp.com/legal/):
 
-Those policies apply to all of MailChimp’s users. The legal and communication teams work together to make them as transparent and easy to read as possible. When someone signs up to use MailChimp, they must agree to all of those terms.
+* [Terms of use](http://mailchimp.com/legal/terms/)
+* [Acceptable use policy](http://mailchimp.com/legal/acceptable_use/)
+* [Privacy policy](http://mailchimp.com/legal/privacy/)
+* [API use policy](http://mailchimp.com/legal/api_use/)
+* [Copyright policy](http://mailchimp.com/legal/copyright/)
 
-These are drafted by the in-house legal team, then passed to the communications team to edit. The communications team will make edits and add comments, then pass them back to the legal team for clarifications and approval. There’s usually a lot of back-and-forth between the legal and communications teams. Once everyone is happy and signed off, the legal team sends it off to outside counsel for one last review. After all that, we have to notify all our users of the change and provide a window for them to object before the new terms go into effect.
+These policies apply to all of MailChimp’s users. The legal and communication teams work together to make them as transparent and easy to read as possible. When someone signs up to use MailChimp, they must agree to all of those terms.
+
+Our public legal documents are drafted by the in-house legal team, then passed to the communications team to edit. The communications team will make edits and add comments, then pass them back to the legal team for clarifications and approval. There’s usually a lot of back-and-forth between the legal and communications teams. Once everyone is happy and signed off, the legal team sends it off to outside counsel for one last review. After all that, we have to notify all our users of the change and provide a window for them to object before the new terms go into effect.
 
 ### Guides and articles about legal topics
 
@@ -48,7 +50,6 @@ We may have to publish communications about security, privacy, and other corpora
 The communications team works with the legal team to write and publish these documents. They’re also reviewed by the executive team.
 
 ## Creating legal content
-
 
 The writing, review, and publishing processes for legal content are a different than what we’re used to. The most important difference: All legal content either starts with or passes through the legal team.
 
