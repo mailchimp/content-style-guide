@@ -74,5 +74,3 @@ Use “low vision” to describe a person with limited vision.
 * [The Conscious Style Guide](http://consciousstyleguide.com/)
 * [GLAAD Media Reference Guide](http://www.glaad.org/reference)
 * [The National Center on Disability and Journalism’s style guide](http://ncdj.org/style-guide/)
-
-If you’re looking for accessibility guidelines, see [Writing for Accessibility](TK).
