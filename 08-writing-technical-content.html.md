@@ -69,16 +69,16 @@ We edit technicaly content based on three goals:
 
 **Digestibility**
 - Cut or tighten redundancies, gerunds, adverbs, and passive constructions.
-- Use a simpler word.
+- Use the simplest word.
 - Limit paragraphs to three sentences.
 
 **Consistency**
-- Use the labels and terminology used in MailChimp app.
+- Use the labels and terminology used in the MailChimp app.
 - Use specific, active verbs for certain tasks.
 - Choose basic words and phrases to facilitate consistency across translated content.
 
 **Helpfulness**
-- Stay conversational; use contractions when appropriate.
+- Stay conversational, using contractions when appropriate.
 - Avoid qualifiers that muddy meaning.
 - Express understanding when appropriate.
 - Craft clear transitions from section to section to orient the reader.
@@ -117,4 +117,4 @@ Only use ordered lists for step-by-step instructions. Separate steps into logica
 
 ### Unordered Lists
 
-Use unordered lists to display examples, or multiple notes in a Notes block. If an unordered list comprises more than 10 items, like language or currency lists, use a table instead.
+Use unordered lists to display examples, or multiple notes in a Notes block. If an unordered list comprises more than 10 items, use a table instead.
