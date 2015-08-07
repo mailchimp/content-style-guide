@@ -26,23 +26,25 @@ Starting with a simple outline that includes key messages can help you create a 
 
 Make true lists instead of using a paragraph or line breaks.
 
-### Forms
+### Label forms
 
 Label inputs with clear names, and use appropriate tags. Think carefully about what fields are necessary, and especially which ones you mark as required. Label required fields clearly. The shorter the form, the better.
 
-### Links
+### Use descriptive links
 
 Links should provide information on the associated action or destination. Try to avoid “click here” or “learn more.”
 
-### Plain language
+### Use plain language
 
 Write short sentences and use familiar words. Avoid jargon and slang. If you need to use an abbreviation or acronym that people may not understand, explain what it means on first reference.
 
-### Visual elements
+### Be mindful of visual elements
 
 Aim for high contrast between your font and background colors. Tools in the resources section should help with picking accessible colors.
 
 Images should not be the only method of communication, because images may not load or may not be seen. Avoid using images when the same information could be communicated in writing. 
+
+### Use alt text
 
 The alt tag is the most basic form of image description, and it should be included on all images. The language will depend on the purpose of the image:
 
@@ -51,6 +53,8 @@ The alt tag is the most basic form of image description, and it should be includ
 - If you’re sharing a chart or graph, include the data in the alt text so people have all the important information.
 
 Each browser handles alt tags differently. Supplement images with standard captions when possible.
+
+### Make sure closed captioning is available
 
 Closed captioning or transcripts should be available for all videos. The information presented in videos should also be available in other formats.
 
