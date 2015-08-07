@@ -3,7 +3,7 @@ title: Voice and Tone
 layout: article
 ---
 
-We aim to empower our customers, and one big way we do this is by being aware of our voice and our tone.
+One way we empower our customers through content is by being aware of our voice and our tone.
 
 What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone with your closest friends and family, and a different tone with your boss.
 
