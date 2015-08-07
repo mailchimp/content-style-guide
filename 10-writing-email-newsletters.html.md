@@ -5,6 +5,8 @@ layout: article
 
 We send a lot of email ourselves, and we follow our own best practices to set an example for customers. MailChimp's email newsletters help empower and inform our users. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
 
+## Basics 
+
 Here are the most common types of content we send via email:
 
 - Product and feature announcements
@@ -15,8 +17,6 @@ Here are the most common types of content we send via email:
 - Event invitations and information about online courses
 - System alerts about changes to functionality or scheduled maintenance
 - Internal newsletters
-
-## The parts of an email campaign
 
 Every email campaign is made up of these elements. Make sure they’re all in place before sending a newsletter:
 
@@ -38,22 +38,19 @@ Make the next step clear. Whether you’re asking people to buy something, read 
 ### Footer
 All campaigns follow [CAN-SPAM rules](http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns). Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
 
-## Email writing tips
+## Guidelines
 
-### Write in the third person
-Because email newsletters are sent from the company, use the third person “we.”
+Email newsletters generally follow the style points outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. Here are some additional considerations.
+
+### First person vs. third person
+
+When sending an email newsletter from MailChimp, use the third person "we." When sending a newsletter as an individual, use the first person. 
 
 ### Use a hierarchy
-Most people are scanning your emails or reading them on a small screen. Put the most important information first.
-
-### Segment your audience
-It’s exciting to send to millions of users at once, but it’s doubtful that every subscriber is interested in every topic. Segment your list to find a particular audience that’s likely to react. Once you've selected an audience, adjust the language to fit their needs. For example, users who developed custom integrations are more likely to understand and appreciate direct, technical terms.
-
-### Repurpose content
-A blog post or guide section might be perfect to share with a particular segment. Instead of transferring large blocks of text, include an excerpt or write a summary, and link to the original source.
+Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.
 
 ### Include a call to action
-Make the next step obvious, and close each campaign with a call to action. Link to a blog post, event registration, purchase page, or signup page. Add a button or include a text link in the closing paragraph.
+Make the reader's next step obvious, and close each campaign with a call to action. Link to a blog post, event registration, purchase page, or signup page. You can add a button or include a text link in the closing paragraph.
 
 ### Avoid unnecessary links
 More than 50 percent of emails are read on a mobile device. Limit links to the most important resources to focus your call to action and prevent errant taps on smaller screens.
