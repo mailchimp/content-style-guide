@@ -80,7 +80,7 @@ Because of this, we want to avoid -ing words when possible. One exception to thi
 
 Here are some other cases where you might see -ing words, and suggestions for how to edit around them.
 
-* ** Gerunds**
+* **Gerunds**
  - Yes: In this article we will talk about list subscriber collection.
  - No: In this article we will talk about getting list subscribers.
 
