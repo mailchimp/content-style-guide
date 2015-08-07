@@ -25,7 +25,7 @@ When writing for the blog, follow the style points outlined in the [Voice and to
 ### Be casual, but smart
 This isn’t a term paper, so there’s no need to be stuffy. Drop some knowledge while casually engaging your readers with conversational language. 
 
-## Be specific
+### Be specific
 If you're writing about data, put the numbers in context. If you're writing about a MailChimp customer, give the reader plenty of information about the company's stage, workflow, results, and values.
 
 ### Get to the point
