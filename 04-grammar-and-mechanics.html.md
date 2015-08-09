@@ -406,7 +406,7 @@ These words can be slippery. Here's how we write them.
 
 ### Words to avoid
 
-- automagical (we used to use this word a lot, and we’re embarrassed about it)
+- automagical (we used to say this a lot, and we’re embarrassed about it)
 - funnel, incentivize, leverage, disruption, thought leader (or other fluffy corporate terms)
 - internets, interwebs (or any other variation of the word “internet”)
 - ninja, rockstar, wizard (unless referring to a literal ninja, rockstar, or wizard)
