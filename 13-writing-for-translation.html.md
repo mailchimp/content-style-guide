@@ -96,31 +96,23 @@ Here are some other cases where you might see -ing words, and suggestions for ho
  - Yes: From our backyard, we could hear the planes that took off from the airport.
  - No: From our backyard, we could hear the planes taking off from the airport.
 
-**Other words and style points to avoid**
+**Other words and mechanics to avoid**
 
 * Slang, idioms, and cliches
-
 * Contractions
  * Many languages use them, but English contractions may not be recognizable to all translators.
-
 * Shortened words, even if they’re common in English
   - “Application,” not “app”
-
 * Uncommon foreign words
   - “Genuine,” not “bona fide”
-
 * Unnecessary abbreviations
   - “For example,” not “e.g.”
-
 * Converting one part of speech into another if it isn’t already commonly used.
   - “Search the web,” not “Google” (as a verb)
   - “Send us an email” instead of “message us”
-
 * Nonstandard or indirect verb usage
  - “He says,” not “he’s like” or “he was all”
-
 * Double negatives
-
 * Synonyms, generally. Don't use a lot of different words for the same thing in a single piece of writing. Instead of mixing it up with “campaign,” “newsletter,” “bulletin,” etc., pick one term and stick with it.
 
 ### Be aware of words with multiple meanings
