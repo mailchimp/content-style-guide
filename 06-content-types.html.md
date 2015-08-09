@@ -3,7 +3,7 @@ title: Content Types
 layout: article
 ---
 
-Content at MailChimp takes many forms. Here's a look at all the types of content we most often write, what functions they serve, and what team they're handled by.
+Content at MailChimp takes many forms. Here's a rundown of the types of content we most often write, the functions they serve, and the team they're handled by.
 
 ## Short
 
