@@ -22,7 +22,7 @@ Our email newsletters help empower and inform MailChimp users. Here are the most
 
 Email newsletters generally follow the style points outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. Here are some additional considerations.
 
-### Make sure all elements are in place
+### Consider all elements
 
 Every email newsletter is made up of the following elements. Make sure they’re all in place before clicking send:
 
