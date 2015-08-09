@@ -17,9 +17,7 @@ For each project, consider your audience’s background, goal, and current mood.
 
 We don’t want to overload a reader with unnecessary information, choices to make, or complex ideas or phrases, when we don’t have to. This is particularly critical when a user may be new and/or frustrated. When relevant, prime the reader with a brief outline of an article’s focus in introductory paragraphs or section, and stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
 
-## Guidelines
-
-### Technical content types and goals
+## Types of technical content
 
 Technical content articles vary in target audience, goal, and tone. MailChimp technical content is built from 10 templates, which serve different purposes and readers. Framework outlines, available in the [Resources section](TK), include the content components of each type, and considerations for each reader’s goal and current mood.
 
@@ -35,6 +33,8 @@ Technical content articles vary in target audience, goal, and tone. MailChimp te
 | Troubleshooting      | new, intermediate, advanced    | **Support.** Outline expected behavior and include potential causes of unexpected behavior; grouped by cause or topic. |
 | Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task, provide a roadmap and pre-requisites, plus clear step-by-step instructions. |
 | Warning              | new, intermediate, advanced    | **Assurance.** Outline warning type, explain why something happened, and what happens next. |
+
+## Guidelines 
 
 ### Drafting technical content
 
