@@ -56,10 +56,8 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 **Even if you think they could be cut, leave in words like “then,” “a,” “the,” “to,” and “that.”**
   - Yes: If there is not a list set up in your MailChimp account, then you’ll need to create a list before sending your first campaign.
   - No: If there is not a list set up in your MailChimp account, you’ll need to create a list before sending your first campaign.
-
 - Yes: When sending a campaign, it is necessary to have a “From:” name, a “From:” address, and a subject line.
 - No: When sending a campaign, it is necessary to have a “From:” name, “From:” address, and subject line.
-
 - Yes: Be sure that you are truly ready to send your campaign before clicking the “Send Now” button.
 - No: Be sure you are truly ready to send your campaign before clicking the “Send Now” button.
 
@@ -83,7 +81,7 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 * **Gerunds**
  - Yes: In this article we will talk about list subscriber collection.
  - No: In this article we will talk about getting list subscribers.
-
+ 
 * **Adjectives**
  - Yes: At the top of the page, there is Freddie with a smile on his face.
  - No: At the top of the page, there is a smiling Freddie.
@@ -99,23 +97,16 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 **Other words and mechanics to avoid**
 
 * Slang, idioms, and cliches
-* Contractions
- * Many languages use them, but English contractions may not be recognizable to all translators.
-* Shortened words, even if they’re common in English
-  - “Application,” not “app”
-* Uncommon foreign words
-  - “Genuine,” not “bona fide”
-* Unnecessary abbreviations
-  - “For example,” not “e.g.”
-* Converting one part of speech into another if it isn’t already commonly used.
-  - “Search the web,” not “Google” (as a verb)
-  - “Send us an email” instead of “message us”
-* Nonstandard or indirect verb usage
- - “He says,” not “he’s like” or “he was all”
+* Contractions (English contractions may not be recognizable to all translators)
+* Shortened words, even if they’re common in English (use “application,” not “app”)
+* Uncommon foreign words (use "genuine,” not “bona fide”
+* Unnecessary abbreviations (use "for example,” not “e.g.”)
+* Converting one part of speech into another if it isn’t already commonly used (use "Ssend us an email” instead of “message us”)
+* Nonstandard or indirect verb usage (use “he says,” not “he’s like” or “he was all”)
 * Double negatives
 * Synonyms, generally. Don't use a lot of different words for the same thing in a single piece of writing. Instead of mixing it up with “campaign,” “newsletter,” “bulletin,” etc., pick one term and stick with it.
 
-### Be aware of words with multiple meanings
+### Beware words with multiple meanings
 
 “Once” (could mean “one time,” “after,” “in the past,” or “when”)
 - Yes: After you login, you will see your account’s Dashboard.
@@ -145,7 +136,7 @@ When writing for an international audience, use the metric system. Spell out all
 
 **Currency**
 
-Many countries use the dollar for currency, but the value is going to differ between countries. The US dollar is not the same as the Canadian dollar, for example. So it’s important to specify.
+Many countries call their currency "the dollar," but the value is going to differ between countries. The US dollar is not the same as the Canadian dollar, for example. So it’s important to specify.
 
 Indicate currency by using its three-letter abbreviation, such as USD or CAD. Don’t use currency symbols, like $ or €. We would say 25 USD, not $25.
 
