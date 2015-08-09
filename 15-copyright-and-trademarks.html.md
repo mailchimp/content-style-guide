@@ -5,7 +5,7 @@ layout: article
 
 Copyright is a bundle of exclusive legal rights that vary depending on the type of work. A copyright owner can grant some or all of those rights to others through a license. This is just one type of license we interact with at MailChimp. This section will lay out our approach to copyrights, trademarks, and Creative Commons licenses.
 
-## Copyright basics
+## Basics
 
 Copyright protection applies to any original works that are fixed in a tangible medium. This includes works like drawings, recordings of a song, short stories, or paintings, but not something like a garden, since it will grow and change by nature. Copyright does not cover facts, ideas, names, or characters.
 
@@ -13,7 +13,7 @@ Copyright protection begins when the work is first created and it doesn’t requ
 
 Copyright notice on the work is not required but it *is* recommended, since it cuts off a defense of [innocent infringement](https://www.law.cornell.edu/uscode/text/17/401).
 
-### Copyright at MailChimp
+## Copyright at MailChimp
 
 Copyright law applies to nearly every piece of content we create at MailChimp, from our website to our blog posts to the gifts we make for our customers. We display proper—and prominent—copyright notice on our website site and ony other content we produce.
 
@@ -54,7 +54,7 @@ MailChimp almost always use original images in our blog posts. If you use an ima
 
 Images retrieved via Google image search are not licensed for fair use, but many images are available under license through stock photo websites, or open for use under a Creative Commons license. Flickr has a great search feature for images available under Creative Commons licenses.
 
-### Other licenses
+## Other licenses
 
 ### Creative Commons licenses
 
@@ -78,7 +78,7 @@ We usually classify MailChimp as a suggestive mark, but it could also be conside
 
 A trademark is only valid for as long as it indicates the source of that good or service, so we have to be very careful about how our marks are used. We send out cease and desist letters sometimes, because even the friendliest companies have to protect their trademarks. If a trademark is properly protected, it can last forever and may be a company's most valuable asset.
 
-### Displaying trademark notices
+**Displaying trademark notices**
 
 To note that something is a trademark, and in the case of registered marks in order to collect damages, the trademark has to be displayed with an appropriate symbol.
 
@@ -100,7 +100,7 @@ Marks are also sometimes indicated by using all caps: MAILCHIMP
 
 Our trademarks should be properly noted the first time they’re used in a press release or article, or anywhere else our trademark and copyright notice does not appear.
 
-### Registering trademarks at MailChimp
+## Registering trademarks at MailChimp
 
 We register all of our trademarks. Before we decide to use a name for a product, we perform a trademark search to make sure there aren’t any confusingly similar trademarks already in use.
 
