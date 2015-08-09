@@ -3,19 +3,25 @@ title: Writing About People
 layout: article
 ---
 
-We write the same way we build apps: with a person-first perspective. Whether you’re writing for an internal or external audience, it's important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make MailChimp a better place to work and a better steward of our values in the world. In this section we'll lay out some guidelines for writing about people with compassions, plus some resources for further learning. 
+We write the same way we build apps: with a person-first perspective. Whether you’re writing for an internal or external audience, it's important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make MailChimp a better place to work and a better steward of our values in the world. In this section we'll lay out some guidelines for writing about people with compassion, and share some resources for further learning. 
 
 ## Guidelines
 
 ### Age
 
-Don’t reference a person’s age unless it’s relevant to what you’re writing. If it’s pertinent, include the person’s specific age, offset by commas (“The CEO, 16, just got her driver’s license”). Don’t refer to people using age-related descriptors like “young,” “old,” or “elderly.”
+Don’t reference a person’s age unless it’s relevant to what you’re writing. If it *is* pertinent, include the person’s specific age, offset by commas.
+
+- The CEO, 16, just got her driver’s license.
+
+Don’t refer to people using age-related descriptors like “young,” “old,” or “elderly.”
 
 ### Disability
 
-Don’t refer to a person’s disability unless it’s relevant to what you’re writing. If you need to mention it, use language that emphasizes the person first—”she has a disability” rather than “she is disabled.”
+Don’t refer to a person’s disability unless it’s relevant to what you’re writing. If you need to mention it, use language that emphasizes the person first: ”she has a disability” rather than “she is disabled.”
 
-When writing about a person with disabilities, don’t use the words “suffer,” “victim,” or “handicapped.” (“Handicapped parking” is OK.) Don’t use the word “lame” in any context.
+When writing about a person with disabilities, don’t use the words “suffer,” “victim,” or “handicapped.” “Handicapped parking” is OK.
+
+Don’t use the word “lame” in any context.
 
 ### Gender and sexuality
 
@@ -53,7 +59,7 @@ Use “deaf” as an adjective to describe a person with significant hearing los
 
 Don’t refer to a person’s medical condition unless it’s relevant to what you’re writing.
 
-Don’t call a person with medical conditions a “victim.” If a reference to a person’s medical condition is warranted, use the same rules as writing about people with physical disabilities and emphasize the person first.
+If a reference to a person’s medical condition is warranted, use the same rules as writing about people with physical disabilities and emphasize the person first. Don’t call a person with a medical condition a “victim.” 
 
 ### Mental and cognitive conditions
 
@@ -65,9 +71,7 @@ Don’t use the words “crazy” or “schizophrenic.”
 
 ### Vision
 
-Use the adjective “blind” to describe a person who is unable to see.
-
-Use “low vision” to describe a person with limited vision.
+Use the adjective “blind” to describe a person who is unable to see. Use “low vision” to describe a person with limited vision.
 
 ## Resources
 
