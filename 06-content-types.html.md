@@ -3,7 +3,7 @@ title: Content Types
 layout: article
 ---
 
-The writing we do at MailChimp takes many forms. Here's a look at all the types of content we generally employ, what functions they serve, and what team they're handled by.
+Content at MailChimp takes many forms. Here's a look at all the types of content we most often write, what functions they serve, and what team they're handled by.
 
 ## Short
 
@@ -128,7 +128,6 @@ The writing we do at MailChimp takes many forms. Here's a look at all the types 
 **Length:** 2,000-5,000 words  
 **Owner:** Marketing  
 **Example:** [Getting Started with MailChimp](http://mailchimp.com/resources/guides/getting-started-with-mailchimp/)  
-
 ### Press release
 
 **What:** Quick, informative announcements that we send to [our media list](http://mailchimp.us6.list-manage.com/subscribe?u=4c5c956741&id=8f96c922d0) and post to [our Press Releases page](http://mailchimp.com/about/press-releases/).  
