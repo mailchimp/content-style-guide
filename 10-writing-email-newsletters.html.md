@@ -27,21 +27,27 @@ Email newsletters generally follow the style points outlined in the [Voice and t
 Every email newsletter is made up of the following elements. Make sure they’re all in place before clicking send:
 
 **From name**
+
 This is usually the company or team’s name. It identifies the sender in the recipient's inbox.
 
 **Subject line**
+
 Keep your subject line descriptive. There's no perfect length, but some email clients display only the first words. Tell what’s inside; don’t sell what’s inside. This is different from a headline, which you may want to include in the campaign itself.
 
 **Preheader text**
+
 The top line of your campaign appears beside each subject line in the inbox. Provide the info readers need when they’re deciding if they should open.
 
 **Body copy**
+
 Keep your content concise. Write with a clear purpose, and connect each paragraph to your main idea. Add images when they’re helpful.
 
 **Call to action**
+
 Make the next step clear. Whether you’re asking people to buy something, read something, share something, or respond to something, offer a clear direction to close your message so readers know what to do next.
 
 **Footer**
+
 All campaigns follow [CAN-SPAM rules](http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns). Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
 
 ### Consider your perspective
