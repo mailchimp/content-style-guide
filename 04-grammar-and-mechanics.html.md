@@ -3,17 +3,17 @@ title: Grammar and Mechanics
 layout: article
 ---
 
-Just as it's important for MailChimp content to have a consistent voice, it's also important to adhere to consistent rules of grammar and mechanics. This section will lay out MailChimp's house style, which applies to all of our content unless otherwise noted in this guide.
+One way we give MailChimp a consistent voice is by consistently following certain rules of grammar and mechanics. This section will lay out MailChimp's house style, which applies to all of our content unless otherwise noted in this guide. (This section covers a lot of ground, so feel free to use the search feature if you're looking for something in particular.)
 
 ## Basics
 
-**Write for all readers.** Some people will read every word you write. Others will just scan. Help everyone read better by grouping related ideas together and using descriptive headers and subheaders.
+**Write for all readers.** Some people will read every word you write. Others will just skim. Help everyone read better by grouping related ideas together and using descriptive headers and subheaders.
 
 **Focus your message.** Create a hierarchy of information. Lead with the main point or the most important content, in sentences, paragraphs, sections, and pages.
 
 **Be concise.** Use short words and sentences. Avoid unnecessary modifiers.
 
-**Be specific.** Avoid vague language, and cut the fluff.
+**Be specific.** Avoid vague language. Cut the fluff.
 
 **Be consistent.** Adhere to the copy patterns and style points outlined in this guide.
 
@@ -30,7 +30,7 @@ If there’s a chance your reader won’t recognize an abbreviation or acronym, 
 
 If the abbreviation or acronym is well known, like API or HTML, use it instead (and don’t worry about spelling it out).
 
-###Active voice
+### Active voice
 
 Use active voice. Avoid passive voice.
 
@@ -293,7 +293,9 @@ When quoting someone in a blog post or other publication, use the present tense.
 
 The first time you mention a person in writing, refer to them by their first and last names. On all other mentions, refer to them by their first name.
 
-Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies.
+Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies. 
+
+Don't refer to someone as a "ninja," "rockstar," or "wizard" unless they literally are one. Make them show you their papers.
 
 **Schools**
 
@@ -338,6 +340,12 @@ Honor companies’ own names for themselves and their products. Go by what’s u
 
 Refer to a company or product as “it” (not “they”).
 
+### Slang and jargon
+
+Write in plain English. If you need to use a technical term, briefly define it so lay readers can understand.
+
+- MailChimp's ops team is constantly scaling our servers to ensure our users have a great experience with our products. One way we do this is with shards, or partitions that help us better horizontally scale our database infrastructure.
+
 ### Text formatting
 
 Use italics to indicate the title of a long work (like a book, movie, or album), to emphasize a word, or to cite an example.
@@ -349,6 +357,13 @@ Use bold formatting when referencing button and navigation labels in step-by-ste
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
+### Write positively
+
+Use positive language rather than negative language. One way to detect negative language is to look for words like “can’t,” “don’t,” etc.
+
+- Yes: To get a donut, stand in line.
+- No: You can’t get a donut if you don’t stand in line.
+- 
 ## Word list
 
 These words can be slippery. Here's how we write them.
@@ -395,6 +410,9 @@ These words can be slippery. Here's how we write them.
 - funnel, incentivize, leverage, disruption, thought leader (or other fluffy corporate terms)
 - internets, interwebs (or any other variation of the word “internet”)
 - ninja, rockstar, wizard (unless referring to a literal ninja, rockstar, or wizard)
+- young, old, elderly (or any other word describing a person's age)
+- lame, sufferer, victim, handicapped, mentally ill (or any other word describing a person's physical or mental condition)
+- crazy, schizophrenic (not in reference to a person, or anything else)
 - any reference to politics, religion, or other controversial subjects
 
 
