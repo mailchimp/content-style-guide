@@ -30,6 +30,21 @@ If there’s a chance your reader won’t recognize an abbreviation or acronym, 
 
 If the abbreviation or acronym is well known, like API or HTML, use it instead (and don’t worry about spelling it out).
 
+###Active voice
+
+Use active voice. Avoid passive voice.
+
+In active voice, the subject of the sentence does the action. In passive voice, the subject of the sentence has the action done to it.
+
+- Yes: Kate logged into the account.
+- No: The account was logged into by Kate.
+
+Words like “was” and “by” may indicate that you’re writing in passive voice. Scan for these words and rework sentences where they appear.
+
+One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
+
+- Your account was flagged by our abuse team.
+ 
 ### Capitalization
 
 We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
