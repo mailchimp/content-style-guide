@@ -63,12 +63,12 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 ### Avoid ambiguity and confusion
 
+Many words, parts of speech, and grammar mechanics we don’t think twice about have the potential to cause confusion for translators and non-native English speakers. Here are some of the big trouble spots to avoid.
+
 **Avoid unclear pronoun references**
 
 - Yes: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. Such action can actually cause high of rates abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
 - No: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
-
-Many words, parts of speech, and grammar mechanics we don’t think twice about have the potential to cause confusion for translators and non-native English speakers. Here are some of the big trouble spots to avoid.
 
 **Avoid -ing words**
 
