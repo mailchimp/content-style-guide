@@ -3,7 +3,7 @@ title: Grammar and Mechanics
 layout: article
 ---
 
-## General style tips
+## Basics
 
 - Some people will read every word you write. Others will just scan. Help everyone read better by grouping related ideas together and using descriptive headers and subheaders.
 - Focus your message, and create a hierarchy of information. Lead with the main point or the most important content, in sentences, paragraphs, sections, and pages.
@@ -11,15 +11,17 @@ layout: article
 - Be specific. Avoid vague language, and cut the fluff.
 - Be consistent. Adhere to the copy patterns and style points outlined in this guide.
 
-## Contractions
+## Guidelines
+
+### Contractions
 
 They’re great! They give your writing an informal, friendly tone. There’s no hard and fast rule about—use contractions as you see fit. If you’re writing specifically for an international audience or preparing content for translation, leave them out.
 
-## Emoji
+### Emoji
 
 Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately. ![:wink:](/assets/images/wink.png)
 
-## Text formatting
+### Text formatting
 
 Use italics to indicate the title of a long work (like a book, movie, or album), to emphasize a word, or to cite an example.
 
@@ -30,9 +32,9 @@ Use bold when referencing button and navigation labels in step-by-step instructi
 
 Don’t use underline, and don’t use any combination of italic, bold, caps, and underline.
 
-## Numbers
+### Numbers
 
-### Basics
+**Basics**
 
 Spell out a number when it begins a sentence. Otherwise, use the numeral. This includes ordinals, too.
 
@@ -49,7 +51,7 @@ Numbers over three digits get commas:
 
 Write out big numbers in full. Abbreviate them if there are space restraints, as in a tweet or a chart: 1k, 150k.
 
-### Dates
+**Dates**
 
 Spell out the day of the week and abbreviate the month, unless you’re just referring to the month or the month and the year.
 
@@ -57,7 +59,7 @@ Spell out the day of the week and abbreviate the month, unless you’re just ref
 - Saturday, Jan. 24, 2015
 - January 2015
 
-### Decimals and fractions
+**Decimals and fractions**
 
 Spell out fractions.
 
@@ -66,17 +68,17 @@ Spell out fractions.
 
 Use decimal points when a number can’t be easily written out as a fraction, like 1.375 or 47.2.
 
-### Percentages
+**Percentages**
 
 Don’t use the % symbol. Spell out the word “percent.”
 
-### Ranges and spans
+**Ranges and spans**
 
 Use a hyphen (-) to indicate a range or span of numbers.
 
 - It takes 20-30 days.
 
-### Money and currency
+**Money and currency**
 
 When writing about U.S. currency, use the dollar sign before the amount. Include a decimal and number of cents if more than 0.
 
@@ -88,20 +90,20 @@ When writing about other currencies, follow the same symbol-amount format:
 - ¥1
 - €1
 
-### Telephone numbers
+**Telephone numbers**
 
 Use periods without spaces between numbers (no parentheses or dashes). Use a country code if your reader is in another country.
 
 - 555.867.5309
 - +1.404.123.4567
 
-### Temperature
+**Temperature**
 
 Use the degree symbol and the capital F abbreviation for Fahrenheit.
 
 - 98°F
 
-### Time
+**Time**
 
 Use numerals and am or pm without a space. Don’t use minutes for on-the-hour time. 
 
@@ -133,9 +135,9 @@ When referring to decades more than 100 years ago, be more specific:
 - the 1900s
 - the 1890s
 
-# Punctuation
+### Punctuation
 
-### Apostrophes
+**Apostrophes**
 
 The apostrophe’s most common use is making a word possessive. If the word already ends in an s and it’s singular, you also add an ‘s. If the word ends in an s and is plural, just add an apostrophe.
 
@@ -145,7 +147,7 @@ The apostrophe’s most common use is making a word possessive. If the word alre
 
 Apostrophes can also be used to denote that you’ve dropped some letters from a word, usually for humor or emphasis. This is fine, but do it sparingly.
 
-### Colons
+**Colons**
 
 Use a colon (rather than an ellipses, em dash, or comma) to offset a list.
 
@@ -155,7 +157,7 @@ You can also use a colon to join two related phrases. If a complete sentence fol
 
 - I was faced with a dilemma: I wanted a donut, but I’d just eaten a bagel.
 
-### Commas
+**Commas**
 
 When writing a list, use the serial comma (also known as the Oxford comma). 
 
@@ -164,7 +166,7 @@ When writing a list, use the serial comma (also known as the Oxford comma). 
 
 Otherwise, use common sense. If you’re unsure, read the sentence out loud. Where you find yourself taking a breath, use a comma.
 
-### Dashes and Hyphens
+**Dashes and hyphens**
 
 Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range. 
 
@@ -178,11 +180,11 @@ Use a true em dash, not hyphens (- or --).
 - Multivariate testing—just one of our new Pro features—can help grow your business.
 - Austin thought Brad was the donut thief, but he was wrong—it was Lain.
 
-### Ellipses
+**Ellipses**
 
 Ellipses (...) can be used to indicate that you’re omitting words in a quote or trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
 
-### Periods
+**Periods**
 
 Periods go inside quotation marks. They go outside parentheses when the parenthetical is part of a larger sentence, and inside parentheses when the parenthetical stands alone.
 
@@ -190,11 +192,11 @@ Periods go inside quotation marks. They go outside parentheses when the parenthe
 - I ate a donut (and I ate a bagel, too).
 - I ate a donut and a bagel. (The donut was Sam’s.)
 
-### Question marks
+**Question marks**
 
 Question marks go inside quotation marks if they’re part of the quote. Like periods, they go outside parentheses when the parenthetical is part of a larger sentence, and inside parentheses when the parenthetical stands alone.
 
-### Exclamation points
+**Exclamation points**
 
 Use exclamation points sparingly, and never more than one at a time. They’re like high-fives: A well-timed one is great, but too many can be annoying.
 
@@ -202,7 +204,7 @@ Exclamation points go inside quotation marks. Like periods and question marks, t
 
 Never use exclamation points in failure messages or alerts. When in doubt, avoid!
 
-### Quotation marks
+**Quotation marks**
 
 Use quotes to refer to words and letters, titles of short works (like articles and poems), and direct quotations.
 
@@ -213,20 +215,20 @@ Use single quotation marks for quotes within quotes.
 - Who was it that said, “A fool and his donut are easily parted”?
 - Brad said, “A wise man once told me, ‘A fool and his donut are easily parted.’”
 
-### Semicolons
+**Semicolons**
 
 Go easy on semicolons. They usually support long, complicated sentences that could easily be simplified. Try an em dash (—) instead, or simply start a new sentence.
 
-### Ampersands
+**Ampersands**
 
 Don't use ampersands unless one is part of a company or brand name.
 
 - Ben and Dan
 - Ben & Jerry’s
 
-## Capitalization and Abbreviations
+### Capitalization and Abbreviations
 
-### Abbreviations and acronyms
+**Abbreviations and acronyms**
 
 If there’s a chance your reader won’t recognize an abbreviation or acronym, spell it out the first time you mention it. Then use the short version for all other references. If the abbreviation isn’t clearly related to the full version, specify in parentheses.
 
@@ -237,7 +239,7 @@ If there’s a chance your reader won’t recognize an abbreviation or acronym, 
 
 If the abbreviation or acronym is well known, like API or HTML, use it instead (and don’t worry about spelling it out).
 
-### Capitalization
+**Capitalization**
 
 We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
 
@@ -253,9 +255,9 @@ Avoid capitalizing random words in sentences. Here are some words that we never 
 - online
 - email
 
-## People, Places, and Things
+### People, Places, and Things
 
-### File extensions
+**File extensions**
 
 When referring generally to a file extension type, use all lowercase without a period.
 
@@ -269,30 +271,32 @@ When referring to a specific file, write it as it appears:
 - MCBenefits.pdf
 - ben-twitter-profile.jpg
 
-### Pronouns
+**Pronouns**
 
 If your subject’s gender is unknown or irrelevant, it’s fine to use “they,” “them,” and “their” as a singular pronoun. Use “hehim/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
 
 For more on writing about gender, see [Writing about people](TK).
 
-### Quotes
+**Quotes**
 
 When quoting someone in a blog post or other publication, use the present tense.
 
 - “Using MailChimp has helped our business grow,” says Jamie Smith.
 
-### References
+*Names and titles**
 
 The first time you mention a person in writing, refer to them by their first and last names. On all other mentions, refer to them by their first name.
 
-### Schools
+Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies.
+
+**Schools**
 
 The first time you mention a school, college, or university in a piece of writing, refer to it by its full official name. On all other mentions, use its more common abbreviation.
 
 - Georgia Institute of Technology, Georgia Tech
 - Georgia State University, GSU
 
-### States, cities, and countries
+**States, cities, and countries**
 
 Spell out all city and state names. Don’t abbreviate city names.
 
@@ -300,17 +304,13 @@ Per AP Style, all cities should be accompanied by their state, with the exceptio
 
 On first mention, write out United States. On subsequent mentions, US is fine. The same rule applies to any other country or federation with a common abbreviation (European Union, EU; United Kingdom, UK).
 
-### URLs and websites
+**URLs and websites**
 
 Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-### Work titles
-
-Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies.
-
-### Writing about MailChimp
+**Writing about MailChimp**
 
 Always capitalize the first “M” and the “C” in MailChimp.
 
@@ -322,7 +322,7 @@ Capitalize the proper names of MailChimp products, features, pages, and tools.
 - Inbox Inspector
 - Look What You Can Do
 
-### Writing about other companies
+**Writing about other companies**
 
 Honor companies’ own names for themselves and their products. Go by what’s used on their official website. Don't use ™ or ® or © symbols.
 
@@ -334,7 +334,7 @@ Refer to a company or product as “it” (not “they”).
 
 ## Word list
 
-- add-on (noun, adjective), add on (verb) ,
+- add-on (noun, adjective), add on (verb)
 - back end (noun), back-end (adjective)
 - beta
 - checkbox 
@@ -375,7 +375,7 @@ Refer to a company or product as “it” (not “they”).
 - automagical (we used to use this word a lot, and we’re embarrassed about it)
 - fluffy corporate terms like solutions, funnel, incentivize, leverage, disruption, thought leader, etc.
 - internets, interwebs, or any other variation of “internet”
-- anything related to politics 
+- anything related to politics
 - anything related to religion
 
 
