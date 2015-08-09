@@ -3,7 +3,7 @@ title: Writing Legal Content
 layout: article
 ---
 
-We publish many different kinds of legal content to protect ourselves and our millions of customers around the world. Most of our legal content is written by the legal department with occasional help from the marketing department. 
+MailChimp publishes many different kinds of legal content to protect ourselves and our millions of customers around the world. Most of our legal content is written by the legal department with occasional help from the marketing department. This section gives a general overview of the types of legal content we publish and how those documents are written.
 
 For information about laws that apply to non-legal content, see the [Copyright and trademark] section.
 
