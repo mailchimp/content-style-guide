@@ -5,36 +5,54 @@ layout: article
 
 ## Basics
 
-- Some people will read every word you write. Others will just scan. Help everyone read better by grouping related ideas together and using descriptive headers and subheaders.
-- Focus your message, and create a hierarchy of information. Lead with the main point or the most important content, in sentences, paragraphs, sections, and pages.
-- Use short words and sentences. Avoid unnecessary modifiers.
-- Be specific. Avoid vague language, and cut the fluff.
-- Be consistent. Adhere to the copy patterns and style points outlined in this guide.
+**Write for all readers.** Some people will read every word you write. Others will just scan. Help everyone read better by grouping related ideas together and using descriptive headers and subheaders.
+
+**Focus your message.** Create a hierarchy of information. Lead with the main point or the most important content, in sentences, paragraphs, sections, and pages.
+
+**Be concise.** Use short words and sentences. Avoid unnecessary modifiers.
+
+**Be specific.** Avoid vague language, and cut the fluff.
+
+**Be consistent.** Adhere to the copy patterns and style points outlined in this guide.
 
 ## Guidelines
 
+### Abbreviations and acronyms
+
+If there’s a chance your reader won’t recognize an abbreviation or acronym, spell it out the first time you mention it. Then use the short version for all other references. If the abbreviation isn’t clearly related to the full version, specify in parentheses.
+
+- First use: Network Operations Center
+- Second use: NOC
+- First use: Coordinated Universal Time (UTC)
+- Second use: UTC
+
+If the abbreviation or acronym is well known, like API or HTML, use it instead (and don’t worry about spelling it out).
+
+### Capitalization
+
+We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
+
+When writing out an email address or website URL, use all lowercase.
+
+- freddie@mailchimp.com
+- mailchimp.com
+
+Avoid capitalizing random words in sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](TK).
+
+- website
+- internet
+- online
+- email
+
 ### Contractions
 
-They’re great! They give your writing an informal, friendly tone. There’s no hard and fast rule about—use contractions as you see fit. If you’re writing specifically for an international audience or preparing content for translation, leave them out.
+They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit. Avoid them if you're writing content that will be [translated for an international audience](TK).
 
 ### Emoji
 
 Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately. ![:wink:](/assets/images/wink.png)
 
-### Text formatting
-
-Use italics to indicate the title of a long work (like a book, movie, or album), to emphasize a word, or to cite an example.
-
-- *Dunston Checks In*
-- Brandon *really* loves *Dunston Checks In*.
-
-Use bold when referencing button and navigation labels in step-by-step instructions.
-
-Don’t use underline, and don’t use any combination of italic, bold, caps, and underline.
-
 ### Numbers
-
-**Basics**
 
 Spell out a number when it begins a sentence. Otherwise, use the numeral. This includes ordinals, too.
 
@@ -226,35 +244,6 @@ Don't use ampersands unless one is part of a company or brand name.
 - Ben and Dan
 - Ben & Jerry’s
 
-### Capitalization and Abbreviations
-
-**Abbreviations and acronyms**
-
-If there’s a chance your reader won’t recognize an abbreviation or acronym, spell it out the first time you mention it. Then use the short version for all other references. If the abbreviation isn’t clearly related to the full version, specify in parentheses.
-
-- First use: Network Operations Center
-- Second use: NOC
-- First use: Coordinated Universal Time (UTC)
-- Second use: UTC
-
-If the abbreviation or acronym is well known, like API or HTML, use it instead (and don’t worry about spelling it out).
-
-**Capitalization**
-
-We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
-
-When writing out an email address or website URL, use all lowercase.
-
-- freddie@mailchimp.com
-- mailchimp.com
-
-Avoid capitalizing random words in sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](TK).
-
-- website
-- internet
-- online
-- email
-
 ### People, Places, and Things
 
 **File extensions**
@@ -332,35 +321,48 @@ Honor companies’ own names for themselves and their products. Go by what’s u
 
 Refer to a company or product as “it” (not “they”).
 
+### Text formatting
+
+Use italics to indicate the title of a long work (like a book, movie, or album), to emphasize a word, or to cite an example.
+
+- *Dunston Checks In*
+- Brandon *really* loves *Dunston Checks In*.
+
+Use bold formatting when referencing button and navigation labels in step-by-step instructions.
+
+Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
+
 ## Word list
+
+These words can be slippery. Here's how we write them.
 
 - add-on (noun, adjective), add on (verb)
 - back end (noun), back-end (adjective)
 - beta
-- checkbox 
+- checkbox
 - coworker
 - double-click
-- drop-down 
-- e-commerce  (the industry)
+- drop-down
+- e-commerce (the industry)
 - eCommerce360 (the MailChimp feature)
-- ePub 
+- ePub
 - email (never hyphenate, never capitalize unless it begins a sentence)
   - To name
   - From name
   - Reply-to name
   - Subject line
   - Cc, Bcc
-- front end (noun), front-end (adjective) 
+- front end (noun), front-end (adjective)
 - geolocation
-- hashtag 
-- homepage 
+- hashtag
+- homepage
 - integrate
 - internet (never capitalize unless it begins a sentence)
-- login (noun, adjective), log in (verb) 
+- login (noun, adjective), log in (verb)
 - like (the social media activity)
 - OK
-- online  (never capitalize unless it begins a sentence)
-- opt-in (noun, adjective) , opt in (verb) 
+- online (never capitalize unless it begins a sentence)
+- opt-in (noun, adjective) , opt in (verb)
 - pop-up (noun, adjective), pop up (verb)
 - signup (noun, adjective), sign up (verb)
 - sync
@@ -370,12 +372,12 @@ Refer to a company or product as “it” (not “they”).
 - website 
 - WiFi
 
-### Words not to use
+### Words to avoid
 
 - automagical (we used to use this word a lot, and we’re embarrassed about it)
-- fluffy corporate terms like solutions, funnel, incentivize, leverage, disruption, thought leader, etc.
-- internets, interwebs, or any other variation of “internet”
-- anything related to politics
-- anything related to religion
+- funnel, incentivize, leverage, disruption, thought leader (or other fluffy corporate terms)
+- internets, interwebs (or any other variation of the word “internet”)
+- ninja, rockstar, wizard (unless referring to a literal ninja, rockstar, or wizard)
+- any reference to politics, religion, or other controversial subjects
 
 
