@@ -3,6 +3,8 @@ title: Grammar and Mechanics
 layout: article
 ---
 
+Just as it's important for MailChimp content to have a consistent voice, it's also important to adhere to consistent rules of grammar and mechanics. This section will lay out MailChimp's house style, which applies to all of our content unless otherwise noted in this guide.
+
 ## Basics
 
 **Write for all readers.** Some people will read every word you write. Others will just scan. Help everyone read better by grouping related ideas together and using descriptive headers and subheaders.
@@ -96,9 +98,9 @@ Use a hyphen (-) to indicate a range or span of numbers.
 
 - It takes 20-30 days.
 
-**Money and currency**
+**Money**
 
-When writing about U.S. currency, use the dollar sign before the amount. Include a decimal and number of cents if more than 0.
+When writing about US currency, use the dollar sign before the amount. Include a decimal and number of cents if more than 0.
 
 - $20
 - $19.99
