@@ -3,7 +3,7 @@ title: Grammar and Mechanics
 layout: article
 ---
 
-One way we give MailChimp a consistent voice is by consistently following certain rules of grammar and mechanics. This section will lay out MailChimp's house style, which applies to all of our content unless otherwise noted in this guide. (This section covers a lot of ground, so feel free to use the search feature if you're looking for something in particular.)
+One way we give MailChimp a consistent voice is by adhering to certain rules of grammar and mechanics. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (This section covers a lot of ground—the search feature will help if you're looking for something in particular.)
 
 ## Basics
 
