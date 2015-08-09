@@ -295,7 +295,7 @@ The first time you mention a person in writing, refer to them by their first and
 
 Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies. 
 
-Don't refer to someone as a "ninja," "rockstar," or "wizard" unless they literally are one. Make them show you their papers.
+Don't refer to someone as a "ninja," "rockstar," or "wizard" unless they literally are one.
 
 **Schools**
 
