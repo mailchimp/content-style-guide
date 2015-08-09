@@ -31,13 +31,13 @@ If you're writing about data, put the numbers in context. If you're writing abou
 ### Get to the point
 Get to the important stuff right away, and don’t bury the kicker. Blog posts should be scannable and easy to digest. Break up your paragraphs into short chunks of three or four sentences, and use subheads. Our users are busy, and we should always keep that in mind.
 
-### Links
+### Link it up
 Feel free to link away from MailChimp if it helps you explain something.
 
-### LOL
+### Make 'em LOL
 MailChimp is a fun company, and we want our blog to reflect this. Feel free to throw in a joke here and there, or link out to a funny .GIF or YouTube video when appropriate. Just don't overdo it.
 
-### Tags
+### Use tags and keywords
 In WordPress, add keywords that apply to your article. Look through existing posts for common tags. If you’re not sure if a word should be a tag, it probably shouldn’t.
 
 ### Use pictures
