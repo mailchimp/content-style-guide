@@ -40,10 +40,10 @@ To learn more about how we adapt our tone for different situations and see some 
 
 ### Style tips
 
-Here are a few general guidelines for writing in MailChimp’s voice. For more, see the [Grammar and mechanics section](TK).
+Here are a few key elements of writing MailChimp’s voice. For more, see the [Grammar and mechanics section](TK).
 
 * [**Active voice**](TK) Use active voice. Avoid passive voice.
-* [**Slang and jargon**](TK) Write in plain English.
+* [**Avoid slang and jargon**](TK) Write in plain English.
 * [**Write positively**](TK) Use positive language rather than negative language.
 
 ### A note about Freddie
