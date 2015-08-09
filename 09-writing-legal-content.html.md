@@ -59,7 +59,7 @@ Occasionally we may have to publish communications about security, privacy, and 
 
 The communications team works with the legal team to write and publish these documents, and the executive team reviews them.
 
-### Guidelines
+## Guidelines
 
 When writing legal content, generally follow the style points outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. Here are some more general considerations, too.
 
