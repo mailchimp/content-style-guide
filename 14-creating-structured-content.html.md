@@ -20,7 +20,7 @@ Consider using a template if:
 
 All educational content at MailChimp relies heavily on content templates. We use templates for Knowledge Base articles, Integration Directory descriptions, marketing guides, and more.
 
-Find all of our structured content templates in the [Resources section](TK).
+Find all of our structured content templates in the [Resources section](/resources).
 
 ## Guidelines
 
@@ -49,4 +49,4 @@ You may prefer to write a draft first, then outline later based on how the parts
 
 Create your template by listing out the elements you identify in your outline or draft. Consider each element and what it contributes to the meaning of the piece. Is its purpose important enough that every content of this type should include it? If so, make it part of your template.
 
-Our [template glossary](TK) includes sections and items you may want to include. If you create a template you feel should be included in this guide’s resources section, contact a manager on the technical content team (for user or API documentation) or the marketing team (for any other kind of content).
+Our [template elements](/resources/template-elements) glossary includes sections and items you may want to include. If you create a template you feel should be included in this guide’s resources section, contact a manager on the technical content team (for user or API documentation) or the marketing team (for any other kind of content).
