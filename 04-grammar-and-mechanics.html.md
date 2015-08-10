@@ -277,7 +277,7 @@ When referring generally to a file extension type, use all uppercase without a p
 - PDF
 - JPGs
 
-When referring to a specific file, write it as it appears:
+When referring to a specific file, the filename should be lowercase:
 
 - slowclap.gif
 - MCBenefits.pdf
