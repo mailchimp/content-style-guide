@@ -69,8 +69,6 @@ If a link comes at the end of a sentence or before a comma, don’t link the pun
 
 Don’t say things like “Click here!” or “Click for more information” or “Read this.” Write the sentence as you normally would, and link relevant keywords.
 
-When you’re linking anchors within a single piece, wait to do so until the piece is done. This will help you make sure all the links are necessary and streamline the process.
-
 Links should look different than regular copy, strong text, or emphasis text. They should have a hover state that communicates they’re interactive, and should have a distinct active and visited state. When setting the hover state of links, be sure to include focus state as well, to help readers using assistive technologies and touch devices.
 
 ### Lists
