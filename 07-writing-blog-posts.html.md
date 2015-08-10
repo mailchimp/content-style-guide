@@ -26,7 +26,7 @@ When writing for the blog, follow the style points outlined in the [Voice and to
 This isn’t a term paper, so there’s no need to be stuffy. Drop some knowledge while casually engaging your readers with conversational language. 
 
 ### Be specific
-If you're writing about data, put the numbers in context. If you're writing about a MailChimp customer, give the reader plenty of information about the company's stage, workflow, results, and values.
+If you're writing about data, put the numbers in context. If you're writing about a MailChimp user, give the reader plenty of information about the company's stage, workflow, results, and values.
 
 ### Get to the point
 Get to the important stuff right away, and don’t bury the kicker. Blog posts should be scannable and easy to digest. Break up your paragraphs into short chunks of three or four sentences, and use subheads. Our users are busy, and we should always keep that in mind.
