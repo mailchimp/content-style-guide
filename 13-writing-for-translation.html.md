@@ -15,7 +15,7 @@ We try to write all of our content in standard, straightforward English that can
 
 Here are some guiding principles for writing for international audiences: 
 
-* **Use active voice.** We always aim for this, but it's especially important when writing for translation.
+* **Use [active voice](TK).** We always aim for this, but it's especially important when writing for translation.
 
 * **Use the subject-verb-object sentence structure.** It’s not used by all languages, but it’s widely recognized.
 
