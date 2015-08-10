@@ -17,9 +17,9 @@ Copyright notice on the work is not required but it *is* recommended, since it c
 
 Copyright law applies to nearly every piece of content we create at MailChimp, from our website to our blog posts to the gifts we make for our users. We display proper—and prominent—copyright notice on our website site and ony other content we produce.
 
-At minimum, these copyright notices read, “© [YEAR] MailChimp.”
+At minimum, these copyright notices read, “&copy; [YEAR] MailChimp.”
 
-At the bottom of every page of our website, we also include a longer notice to make it clear that all rights are reserved and our marks are registered: “© 2001-2015 All Rights Reserved. MailChimp® is a registered trademark of The Rocket Science Group.”
+At the bottom of every page of our website, we also include a longer notice to make it clear that all rights are reserved and our marks are registered: “&copy; 2001-2015 All Rights Reserved. MailChimp<sup>&reg;</sup> is a registered trademark of The Rocket Science Group.”
 
 ### Other creators’ copyrights
 
@@ -84,17 +84,17 @@ To note that something is a trademark, and in the case of registered marks in or
 
 Here are the various trademark symbols and when to use them:
 
-- For unregistered trademarks of goods, use ™
-- For unregistered trademarks of services, use ℠
-- For trademarks granted registration by the United States Patent and Trademark Office, use ®
-  - Note that using ® on marks that haven’t been registered by the USPTO can be considered fraud, so if you’re not sure if a trademark is registered, don’t use ® .
+- For unregistered trademarks of goods, use &trade;
+- For unregistered trademarks of services, use &#8480;
+- For trademarks granted registration by the United States Patent and Trademark Office, use &reg;
+  - Note that using &reg; on marks that haven’t been registered by the USPTO can be considered fraud, so if you’re not sure if a trademark is registered, don’t use &reg; .
 
 The trademark symbol should appear as close to the mark as possible.
 
 Here’s how to indicate MailChimp’s trademark:
 
-- Include the ® symbol in the upper right-hand corner, above the word: MailChimp® this use is preferable.
-- Include the ® symbol in the lower right-hand corner, below the word: MailChimp®
+- Include the &reg; symbol in the upper right-hand corner, above the word: MailChimp<sup>&reg;</sup> this use is preferable.
+- Include the &reg; symbol in the lower right-hand corner, below the word: MailChimp<sub>&reg;</sub>
 
 Marks are also sometimes indicated by using all caps: MAILCHIMP
 
