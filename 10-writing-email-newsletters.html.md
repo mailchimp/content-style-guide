@@ -66,5 +66,10 @@ More than 50 percent of emails are read on a mobile device. Limit links to the m
 ### Use alt text
 Some email clients disable images by default. Include an alt tag to describe the information in the image for people who aren’t able to see it.
 
+### Segment your audience
+It’s exciting to send to millions of users at once, but it’s doubtful that every subscriber is interested in every topic. Segment your list to find a particular audience that’s likely to react. 
+
+Once you've selected an audience, adjust the language to fit their needs. For example, users who developed custom integrations are more likely to understand and appreciate direct, technical terms.
+
 ### Test your campaigns
 Use the preview mode to begin, and run an Inbox Inspection to see your newsletter in different email clients. Read your campaign out loud to yourself, then send a test to a coworker for a second look.
