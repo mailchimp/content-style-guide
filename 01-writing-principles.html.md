@@ -15,7 +15,7 @@ With every piece of content we publish, we aim to:
 
 * **Guide.** Think of yourself as a tour guide for readers. Whether you’re showing them through our marketing website, apps, or educational materials, communicate in a friendly and helpful way.
 
-* **Speak truth.** Understand our place in our customers’ lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
+* **Speak truth.** Understand our place in our users’ lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
 
 ## Principles
 
