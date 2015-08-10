@@ -44,7 +44,7 @@ Words like “was” and “by” may indicate that you’re writing in passive 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
 - Your account was flagged by our abuse team.
-
+ 
 ### Capitalization
 
 We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
@@ -67,7 +67,7 @@ They’re great! They give your writing an informal, friendly tone. In most case
 
 ### Emoji
 
-Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately.
+Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately. ![:wink:](/assets/images/wink.png)
 
 ### Numbers
 
@@ -217,7 +217,7 @@ Use a true em dash, not hyphens (- or --).
 
 #### Ellipses
 
-Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
+Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers. 
 
 - "Where did all those donuts go?" Tim asked. "I don't know..."
 
@@ -301,7 +301,7 @@ When quoting someone in a blog post or other publication, use the present tense.
 
 The first time you mention a person in writing, refer to them by their first and last names. On all other mentions, refer to them by their first name.
 
-Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies.
+Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies. 
 
 Don't refer to someone as a "ninja," "rockstar," or "wizard" unless they literally are one.
 
@@ -327,6 +327,8 @@ Capitalize the names of websites and web publications. Don’t italicize.
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
 #### Writing about MailChimp
+
+Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "MailChimp." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "MailChimp."
 
 Always capitalize the first “M” and the “C” in MailChimp.
 
@@ -365,7 +367,7 @@ Use bold formatting when referencing button and navigation labels in step-by-ste
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
-Left-align text, never center or right-aligned.
+Left-align text, never center or right-aligned. 
 
 Hit the space bar once between sentences, never more.
 
@@ -413,7 +415,7 @@ These words can be slippery. Here's how we write them.
 - tweet, retweet
 - username
 - URL
-- website
+- website 
 - WiFi
 
 ### Words to avoid
