@@ -5,9 +5,11 @@ layout: article
 
 We use social media to build relationships with MailChimp users and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels.
 
+## Basics
+
 ## Guidelines
 
-Our writing for social media should generally follow the style points outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. Our content values hold true in our approach to social media, too. Here are some additional pointers, too. 
+Our writing for social media should generally follow the style points outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. Here are some additional pointers, too. 
 
 ### Write short, but smart
 
