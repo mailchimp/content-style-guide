@@ -11,7 +11,7 @@ Almost every piece of content we publish is supported by a number of smaller pie
 
 This is a way to label images, and is especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-For more on how and why we use alt text, read the [Accessibility](TK) section.
+For more on how and why we use alt text, read the [Accessibility](/writing-for-accessibility) section.
 
 ### Buttons
 
