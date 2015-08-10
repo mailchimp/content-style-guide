@@ -113,23 +113,23 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 
 ### Beware words with multiple meanings
 
-“Once” (could mean “one time,” “after,” “in the past,” or “when”)
+**“Once”** (could mean “one time,” “after,” “in the past,” or “when”)
 - Yes: After you login, you will see your account’s Dashboard.
 - No: Once you login, you will see your account’s Dashboard.
 
-“Right” (could mean “correct,” “the opposite of left,” “politically conservative,” etc.)
+**“Right”** (could mean “correct,” “the opposite of left,” “politically conservative,” etc.)
  - Yes: In the File Manager, click the correct image and drag it to the pane at right.
  - No: In the File Manager, click the right image and drag it to the right pane.
 
-“Since” (could refer to a point in time, or a synonym of “because”)
+**“Since”** (could refer to a point in time, or a synonym of “because”)
 - Yes: Because you already have a complete mailing list, you can send your campaign at anytime.
 - No: Since you already have complete mailing list, you can send your campaign at anytime.
 
-“Require” plus an infinitive (could confuse the relationship between subject and object)
+**“Require” plus an infinitive** (could confuse the relationship between subject and object)
 - Yes: Autoresponders can be configured and sent from paid accounts.
 - No: A paid account is required to send autoresponders. (This could imply that users with paid accounts are required to send autoresponders.)
 
-“Has” or “have” plus past participle (could confuse the relationship between subject and object)
+**“Has” or “have” plus past participle** (could confuse the relationship between subject and object)
 - Yes: The folder contains sent campaigns.
 - No: The folder has sent campaigns.
 
