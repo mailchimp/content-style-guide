@@ -61,7 +61,7 @@ The communications team works with the legal team to write and publish these doc
 
 ## Guidelines
 
-When writing legal content, generally follow the style points outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. Here are some more general considerations, too.
+When writing legal content, generally follow the style points outlined in the [Voice and tone](/voice-and-tone) and [Grammar and mechanics](/grammar-and-mechanics) sections. Here are some more general considerations, too.
 
 #### Start with the facts
 
@@ -89,7 +89,7 @@ After that, you’re free to use “we,” “us,” “you,” and “your” t
 
 **Contractions**
 
-We use contractions in many of our legal documents, which makes them sound more human and flow better with the rest of our content. Contracting words doesn't affect the validity of an agreement. Following our [internationalization guidelines](TK), we avoid contractions if we're writing legal content that will be translated.
+We use contractions in many of our legal documents, which makes them sound more human and flow better with the rest of our content. Contracting words doesn't affect the validity of an agreement. Following our [internationalization guidelines](/writing-for-translation), we avoid contractions if we're writing legal content that will be translated.
 
 #### Never offer legal advice
 
