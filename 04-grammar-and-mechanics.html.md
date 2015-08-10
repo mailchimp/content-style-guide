@@ -86,7 +86,7 @@ Numbers over three digits get commas:
 
 Write out big numbers in full. Abbreviate them if there are space restraints, as in a tweet or a chart: 1k, 150k.
 
-**Dates**
+#### Dates
 
 Spell out the day of the week and abbreviate the month, unless you’re just referring to the month or the month and the year.
 
@@ -94,7 +94,7 @@ Spell out the day of the week and abbreviate the month, unless you’re just ref
 - Saturday, Jan. 24, 2015
 - January 2015
 
-**Decimals and fractions**
+#### Decimals and fractions
 
 Spell out fractions.
 
@@ -103,17 +103,17 @@ Spell out fractions.
 
 Use decimal points when a number can’t be easily written out as a fraction, like 1.375 or 47.2.
 
-**Percentages**
+#### Percentages
 
 Don’t use the % symbol. Spell out the word “percent.”
 
-**Ranges and spans**
+#### Ranges and spans
 
 Use a hyphen (-) to indicate a range or span of numbers.
 
 - It takes 20-30 days.
 
-**Money**
+#### Money
 
 When writing about US currency, use the dollar sign before the amount. Include a decimal and number of cents if more than 0.
 
@@ -125,20 +125,20 @@ When writing about other currencies, follow the same symbol-amount format:
 - ¥1
 - €1
 
-**Telephone numbers**
+#### Telephone numbers
 
 Use periods without spaces between numbers (no parentheses or dashes). Use a country code if your reader is in another country.
 
 - 555.867.5309
 - +1.404.123.4567
 
-**Temperature**
+#### Temperature
 
 Use the degree symbol and the capital F abbreviation for Fahrenheit.
 
 - 98°F
 
-**Time**
+#### Time
 
 Use numerals and am or pm without a space. Don’t use minutes for on-the-hour time. 
 
@@ -172,7 +172,7 @@ When referring to decades more than 100 years ago, be more specific:
 
 ### Punctuation
 
-**Apostrophes**
+#### Apostrophes
 
 The apostrophe’s most common use is making a word possessive. If the word already ends in an s and it’s singular, you also add an ‘s. If the word ends in an s and is plural, just add an apostrophe.
 
@@ -182,7 +182,7 @@ The apostrophe’s most common use is making a word possessive. If the word alre
 
 Apostrophes can also be used to denote that you’ve dropped some letters from a word, usually for humor or emphasis. This is fine, but do it sparingly.
 
-**Colons**
+#### Colons
 
 Use a colon (rather than an ellipses, em dash, or comma) to offset a list.
 
@@ -192,7 +192,7 @@ You can also use a colon to join two related phrases. If a complete sentence fol
 
 - I was faced with a dilemma: I wanted a donut, but I’d just eaten a bagel.
 
-**Commas**
+#### Commas
 
 When writing a list, use the serial comma (also known as the Oxford comma). 
 
@@ -201,7 +201,7 @@ When writing a list, use the serial comma (also known as the Oxford comma). 
 
 Otherwise, use common sense. If you’re unsure, read the sentence out loud. Where you find yourself taking a breath, use a comma.
 
-**Dashes and hyphens**
+#### Dashes and hyphens
 
 Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range. 
 
@@ -215,11 +215,11 @@ Use a true em dash, not hyphens (- or --).
 - Multivariate testing—just one of our new Pro features—can help grow your business.
 - Austin thought Brad was the donut thief, but he was wrong—it was Lain.
 
-**Ellipses**
+#### Ellipses
 
 Ellipses (...) can be used to indicate that you’re omitting words in a quote or trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
 
-**Periods**
+#### Periods
 
 Periods go inside quotation marks. They go outside parentheses when the parenthetical is part of a larger sentence, and inside parentheses when the parenthetical stands alone.
 
@@ -227,11 +227,11 @@ Periods go inside quotation marks. They go outside parentheses when the parenthe
 - I ate a donut (and I ate a bagel, too).
 - I ate a donut and a bagel. (The donut was Sam’s.)
 
-**Question marks**
+#### Question marks
 
 Question marks go inside quotation marks if they’re part of the quote. Like periods, they go outside parentheses when the parenthetical is part of a larger sentence, and inside parentheses when the parenthetical stands alone.
 
-**Exclamation points**
+#### Exclamation points
 
 Use exclamation points sparingly, and never more than one at a time. They’re like high-fives: A well-timed one is great, but too many can be annoying.
 
@@ -239,7 +239,7 @@ Exclamation points go inside quotation marks. Like periods and question marks, t
 
 Never use exclamation points in failure messages or alerts. When in doubt, avoid!
 
-**Quotation marks**
+#### Quotation marks
 
 Use quotes to refer to words and letters, titles of short works (like articles and poems), and direct quotations.
 
@@ -250,11 +250,11 @@ Use single quotation marks for quotes within quotes.
 - Who was it that said, “A fool and his donut are easily parted”?
 - Brad said, “A wise man once told me, ‘A fool and his donut are easily parted.’”
 
-**Semicolons**
+#### Semicolons
 
 Go easy on semicolons. They usually support long, complicated sentences that could easily be simplified. Try an em dash (—) instead, or simply start a new sentence.
 
-**Ampersands**
+#### Ampersands
 
 Don't use ampersands unless one is part of a company or brand name.
 
@@ -263,13 +263,13 @@ Don't use ampersands unless one is part of a company or brand name.
 
 ### People, Places, and Things
 
-**File extensions**
+#### File extensions
 
-When referring generally to a file extension type, use all lowercase without a period.
+When referring generally to a file extension type, use all uppercase without a period. Add a lowercase s to make plural.
 
-- gif
-- pdf
-- jpg
+- GIF
+- PDF
+- JPGs
 
 When referring to a specific file, write it as it appears:
 
@@ -277,19 +277,19 @@ When referring to a specific file, write it as it appears:
 - MCBenefits.pdf
 - ben-twitter-profile.jpg
 
-**Pronouns**
+#### Pronouns
 
 If your subject’s gender is unknown or irrelevant, it’s fine to use “they,” “them,” and “their” as a singular pronoun. Use “hehim/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
 
 For more on writing about gender, see [Writing about people](TK).
 
-**Quotes**
+#### Quotes
 
 When quoting someone in a blog post or other publication, use the present tense.
 
 - “Using MailChimp has helped our business grow,” says Jamie Smith.
 
-*Names and titles**
+#### Names and titles
 
 The first time you mention a person in writing, refer to them by their first and last names. On all other mentions, refer to them by their first name.
 
@@ -297,14 +297,14 @@ Don’t capitalize the names of teams, departments, or individual job titles, at
 
 Don't refer to someone as a "ninja," "rockstar," or "wizard" unless they literally are one.
 
-**Schools**
+#### Schools
 
 The first time you mention a school, college, or university in a piece of writing, refer to it by its full official name. On all other mentions, use its more common abbreviation.
 
 - Georgia Institute of Technology, Georgia Tech
 - Georgia State University, GSU
 
-**States, cities, and countries**
+#### States, cities, and countries
 
 Spell out all city and state names. Don’t abbreviate city names.
 
@@ -312,13 +312,13 @@ Per AP Style, all cities should be accompanied by their state, with the exceptio
 
 On first mention, write out United States. On subsequent mentions, US is fine. The same rule applies to any other country or federation with a common abbreviation (European Union, EU; United Kingdom, UK).
 
-**URLs and websites**
+#### URLs and websites
 
 Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-**Writing about MailChimp**
+#### Writing about MailChimp
 
 Always capitalize the first “M” and the “C” in MailChimp.
 
@@ -330,7 +330,7 @@ Capitalize the proper names of MailChimp products, features, pages, and tools.
 - Inbox Inspector
 - Look What You Can Do
 
-**Writing about other companies**
+#### Writing about other companies
 
 Honor companies’ own names for themselves and their products. Go by what’s used on their official website. Don't use ™ or ® or © symbols.
 
@@ -363,7 +363,7 @@ Use positive language rather than negative language. One way to detect negative 
 
 - Yes: To get a donut, stand in line.
 - No: You can’t get a donut if you don’t stand in line.
-- 
+
 ## Word list
 
 These words can be slippery. Here's how we write them.
