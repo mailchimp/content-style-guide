@@ -275,6 +275,7 @@ When referring generally to a file extension type, use all uppercase without a p
 
 - GIF
 - PDF
+- HTML
 - JPGs
 
 When referring to a specific file, the filename should be lowercase:
@@ -282,6 +283,7 @@ When referring to a specific file, the filename should be lowercase:
 - slowclap.gif
 - MCBenefits.pdf
 - ben-twitter-profile.jpg
+- ilovedonuts.html
 
 #### Pronouns
 
