@@ -3,7 +3,7 @@ title: Writing Email Newsletters
 layout: article
 ---
 
-We send a lot of email ourselves, and we follow our own best practices to set an example for customers. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
+We send a lot of email ourselves, and we follow our own best practices to set an example for users. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
 
 ## Basics 
 
