@@ -16,7 +16,7 @@ Avoid directional instructions and any language that requires the reader to see 
 
 ### Use headers 
 
-Headers should always be nested and consecutive. Never skip a header level for styling reasons. To help group sections, be sure the page title is H1, top-level sections are H2s, and subsequent inside those are H3 and beyond. Avoid excessive nesting.
+Headers should always be nested and consecutive. Never skip a header level for styling reasons. To help group sections, be sure the page title is h1, top-level sections are h2s, and subsequent inside those are h3 and beyond. Avoid excessive nesting.
 
 ### Employ a hierarchy
 
