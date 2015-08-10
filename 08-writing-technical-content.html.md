@@ -19,7 +19,7 @@ We don’t want to overload a reader with unnecessary information, choices to ma
 
 ## Types of technical content
 
-Technical content articles vary in target audience, goal, and tone. MailChimp technical content is built from 10 templates, which serve different purposes and readers. Framework outlines, available in the [Resources section](TK), include the content components of each type, and considerations for each reader’s goal and current mood.
+Technical content articles vary in target audience, goal, and tone. MailChimp technical content is built from 10 templates, which serve different purposes and readers. Framework outlines, available in the [Resources section](/resources), include the content components of each type, and considerations for each reader’s goal and current mood.
 
 | **Article Template** | **User Type**                  | **Goal**                                                                        |
 | -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ When you’re happy with a draft, pass it to another technical writer for peer r
 
 ### Writing technical content
 
-When writing technical content, follow the style points outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. Here are some more general pointers, too.
+When writing technical content, follow the style points outlined in the [Voice and tone](/voice-and-tone) and [Grammar and mechanics](/grammar-and-mechanics) sections. Here are some more general pointers, too.
 
 #### Stay relevant to the title
 

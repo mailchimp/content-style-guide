@@ -20,7 +20,7 @@ We publish blog posts that explain the "why" behind the work we do at MailChimp.
 
 ## Guidelines
 
-When writing for the blog, follow the style points outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. Here are some more general pointers, too.
+When writing for the blog, follow the style points outlined in the [Voice and tone](/voice-and-tone) and [Grammar and mechanics](/grammar-and-mechanics) sections. Here are some more general pointers, too.
 
 ### Be casual, but smart
 This isn’t a term paper, so there’s no need to be stuffy. Drop some knowledge while casually engaging your readers with conversational language. 

@@ -9,13 +9,13 @@ We call the process of writing copy for translation “internationalization.” 
 
 ## Basics 
 
-Our [Knowledge Base](TK) is available to all users in both English and Spanish, with more languages in development. Sometimes other pieces of content will be translated as well. 
+Our [Knowledge Base](http://kb.mailchimp.com) is available to all users in both English and Spanish, with more languages in development. Sometimes other pieces of content will be translated as well. 
 
 We try to write all of our content in standard, straightforward English that can be understood by users with limited English proficiency. It's much easier for a translator to clearly communicate ideas written in straightforward, uncomplicated sentences.
 
 Here are some guiding principles for writing for international audiences: 
 
-* **Use [active voice](TK).** We always aim for this, but it's especially important when writing for translation.
+* **Use [active voice](/grammar-and-mechanics#header-3-active-voice).** We always aim for this, but it's especially important when writing for translation.
 
 * **Use the subject-verb-object sentence structure.** It’s not used by all languages, but it’s widely recognized.
 
@@ -23,7 +23,7 @@ Here are some guiding principles for writing for international audiences:
 
 ## Guidelines
 
-When writing for international audiences, we generally follow what's outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. But in this section more than others, some style points contradict what's stated elsewhere in the guide. If you’re writing something to be translated, the guidelines in this section should take precedence.
+When writing for international audiences, we generally follow what's outlined in the [Voice and tone](/voice-and-tone) and [Grammar and mechanics](/grammar-and-mechanics) sections. But in this section more than others, some style points contradict what's stated elsewhere in the guide. If you’re writing something to be translated, the guidelines in this section should take precedence.
 
 ### Consider cultural differences
 

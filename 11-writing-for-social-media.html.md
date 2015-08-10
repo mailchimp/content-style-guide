@@ -18,7 +18,7 @@ These channels are all managed by the marketing team. We also have a few team-sp
 
 ## Guidelines
 
-Our writing for social media should generally follow the style points outlined in the [Voice and tone](TK) and [Grammar and mechanics](TK) sections. Here are some additional pointers, too. 
+Our writing for social media should generally follow the style points outlined in the [Voice and tone](/voice-and-tone) and [Grammar and mechanics](/grammar-and-mechanics) sections. Here are some additional pointers, too. 
 
 ### Write short, but smart
 
