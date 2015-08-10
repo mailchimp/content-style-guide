@@ -217,7 +217,13 @@ Use a true em dash, not hyphens (- or --).
 
 #### Ellipses
 
-Ellipses (...) can be used to indicate that you’re omitting words in a quote or trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
+Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers. 
+
+- "Where did all those donuts go?" Tim asked. "I don't know..."
+
+Ellipses, in brackets, can also be used to show that you're omitting words in a quote.
+
+- "When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, [...] a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
 
 #### Periods
 
@@ -357,6 +363,10 @@ Use bold formatting when referencing button and navigation labels in step-by-ste
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
+Left-align text, never center or right-aligned. 
+
+Hit the space bar once between sentences, never more.
+
 ### Write positively
 
 Use positive language rather than negative language. One way to detect negative language is to look for words like “can’t,” “don’t,” etc.
@@ -413,6 +423,7 @@ These words can be slippery. Here's how we write them.
 - young, old, elderly (or any other word describing a person's age)
 - lame, sufferer, victim, handicapped, mentally ill (or any other word describing a person's physical or mental condition)
 - crazy, schizophrenic (not in reference to a person, or anything else)
+-  crushing it, killing it
 - any reference to politics, religion, or other controversial subjects
 
 
