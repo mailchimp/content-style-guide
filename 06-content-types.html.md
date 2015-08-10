@@ -81,7 +81,7 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 
 ### System alert
 
-**What:** Occasional updates and notifications emailed to customers  
+**What:** Occasional updates and notifications emailed to users  
 **Length:** 50-400 words  
 **Owner:** Marketing  
 **Example:** [Send Photo Campaigns From Your Phone in a Snap](http://us1.campaign-archive2.com/?u=f7b9ee22124ff6454424dc10c&id=88e3c79ff1)  
