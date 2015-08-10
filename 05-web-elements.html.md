@@ -52,7 +52,7 @@ Subheadings (`<h2>`, `<h3>`, etc.) break articles into smaller, more specific se
 
 Headings and subheadings should be organized in a hierarchy, with heading first, followed by subheadings in order. (An `<h2>` will nestle under `<h1>`, an `<h3>` under `<h2>`, and on down.)
 
-Include the most relevant keywords in your headings and subheadings, and make sure you cover the main post of the content.
+Include the most relevant keywords in your headings and subheadings, and make sure you cover the main point of the content.
 
 Headings are written in title case, and subheadings are sentence case.
 
