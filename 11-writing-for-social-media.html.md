@@ -3,7 +3,7 @@ title: Writing for Social Media
 layout: article
 ---
 
-We use social media to build relationships with MailChimp customers and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off our customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels.
+We use social media to build relationships with MailChimp users and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels.
 
 ## Guidelines
 
@@ -21,7 +21,7 @@ To write short, simplify your ideas or reduce the amount of information you’re
 
 ### Engagement
 
-Do your best to adhere to MailChimp style guidelines when you’re using our social media channels to correspond with customers. Use correct grammar and punctuation—and avoid excessive exclamation points.
+Do your best to adhere to MailChimp style guidelines when you’re using our social media channels to correspond with users. Use correct grammar and punctuation—and avoid excessive exclamation points.
 
 When appropriate, you can tag the subject of your post on Twitter or Facebook. But avoid directly tweeting at or otherwise publicly tagging a post subject with messages like, “Hey, we wrote about you!” Never ask for retweets, likes, or favorites.
 
