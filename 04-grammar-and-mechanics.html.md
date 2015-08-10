@@ -363,7 +363,7 @@ Use positive language rather than negative language. One way to detect negative 
 
 - Yes: To get a donut, stand in line.
 - No: You can’t get a donut if you don’t stand in line.
-- 
+
 ## Word list
 
 These words can be slippery. Here's how we write them.
