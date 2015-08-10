@@ -3,7 +3,7 @@ title: Writing Legal Content
 layout: article
 ---
 
-MailChimp publishes many different kinds of legal content to protect ourselves and our millions of users around the world. Most of our legal content is written by the legal department with occasional help from the marketing team. This section gives a general overview of the types of legal content we publish and how those documents are written.
+MailChimp publishes many different kinds of legal content to protect ourselves and our millions of users around the world. Most of our legal content is written by the legal department with occasional help from the communications team. This section gives a general overview of the types of legal content we publish and how those documents are written.
 
 For information about laws that apply to non-legal content, see the [Copyright and trademark] section.
 
@@ -33,7 +33,7 @@ We keep these in one place on our [legal page](http://mailchimp.com/legal/):
 
 These policies apply to all of MailChimp’s users. The legal and communication teams work together to make them as transparent and easy to read as possible. When someone signs up to use MailChimp, they must agree to all of those terms.
 
-All of our public legal documents, plus any changes to those documents, are drafted by our in-house legal team. The communications team then makes edits and adds comments, then passes the documents back to the legal team for clarification and approval. There’s usually a lot of back-and-forth between the legal and communications teams. Once everyone is happy and signed off, the legal team sends the document to outside counsel for one last review. After that, we have to notify all our users of the new documents or changes and provide a window for them to object before the new terms go into effect.
+All of our public legal documents, plus any changes to those documents, are drafted by our in-house legal team. When new legal documents are published or edited, we notify all our users of the updates and provide a window for them to object before the new terms go into effect.
 
 ### Guides and articles about legal topics
 
