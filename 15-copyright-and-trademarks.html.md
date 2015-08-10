@@ -78,7 +78,7 @@ We usually classify MailChimp as a suggestive mark, but it could also be conside
 
 A trademark is only valid for as long as it indicates the source of that good or service, so we have to be very careful about how our marks are used. We send out cease and desist letters sometimes, because even the friendliest companies have to protect their trademarks. If a trademark is properly protected, it can last forever and may be a company's most valuable asset.
 
-**Displaying trademark notices**
+#### Displaying trademark notices
 
 To note that something is a trademark, and in the case of registered marks in order to collect damages, the trademark has to be displayed with an appropriate symbol.
 

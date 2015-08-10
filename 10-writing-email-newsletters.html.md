@@ -3,7 +3,7 @@ title: Writing Email Newsletters
 layout: article
 ---
 
-We send a lot of email ourselves, and we follow our own best practices to set an example for customers. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
+We send a lot of email ourselves, and we follow our own best practices to set an example for users. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
 
 ## Basics 
 
@@ -26,27 +26,27 @@ Email newsletters generally follow the style points outlined in the [Voice and t
 
 Every email newsletter is made up of the following elements. Make sure they’re all in place before clicking send:
 
-**From name**
+#### From name
 
 This is usually the company or team’s name. It identifies the sender in the recipient's inbox.
 
-**Subject line**
+#### Subject line
 
-Keep your subject line descriptive. There's no perfect length, but some email clients display only the first words. Tell what’s inside; don’t sell what’s inside. This is different from a headline, which you may want to include in the campaign itself.
+Keep your subject line descriptive. There's no perfect length, but some email clients display only the first words. Tell—don't sell—what's inside. Subject lines should be in title case. (Note that this is different from a headline, which you may want to include in the campaign itself.)
 
-**Preheader text**
+#### Preheader text
 
 The top line of your campaign appears beside each subject line in the inbox. Provide the info readers need when they’re deciding if they should open.
 
-**Body copy**
+#### Body copy
 
 Keep your content concise. Write with a clear purpose, and connect each paragraph to your main idea. Add images when they’re helpful.
 
-**Call to action**
+#### Call to action
 
 Make the next step clear. Whether you’re asking people to buy something, read something, share something, or respond to something, offer a clear direction to close your message so readers know what to do next.
 
-**Footer**
+#### Footer
 
 All campaigns follow [CAN-SPAM rules](http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns). Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
 
