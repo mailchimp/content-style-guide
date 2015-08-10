@@ -37,23 +37,28 @@ When writing text that will be translated, be careful about making references to
 
 Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to repeat or add words to make the meaning of your sentences clear to a translator.
 
-**Repeat verbs that have multiple subjects.**
+#### Repeat verbs that have multiple subjects.
+
   - Yes: Customers who have ordered online can pick-up their food at the cashier. Walk-in customers should stop by the cashier to order their food.
   - No: Customers who have ordered online or who are walk-ins should stop at the cashier to order or pick-up their food.
 
-**Repeat helping verbs belonging to multiple verbs**
+#### Repeat helping verbs belonging to multiple verbs
+
   - Yes: MailChimp can send your campaign on the fly or can schedule your campaign to go out at a set time.
   - No: MailChimp can send your campaign on the fly or schedule your campaign to got out at a set time.
 
-**Repeat subjects and verbs**
+#### Repeat subjects and verbs
+
   - Yes: Mandrill sends transactional emails, but MailChimp does not.
   - No: Mandrill sends transactional emails, but not MailChimp.
 
-**Repeat markers in a list or series**
+#### Repeat markers in a list or series
+
   - Yes: Use MailChimp to send emails campaigns, to manage your mailing lists, and to integrate with other applications.
   - No: Use MailChimp to send email campaigns, manage your mailing lists, and integrate with other applications.
 
-**Even if you think they could be cut, leave in words like “then,” “a,” “the,” “to,” and “that.”**
+#### Leave in words like “then,” “a,” “the,” “to,” and “that," even if you think they could be cut
+
   - Yes: If there is not a list set up in your MailChimp account, then you’ll need to create a list before sending your first campaign.
   - No: If there is not a list set up in your MailChimp account, you’ll need to create a list before sending your first campaign.
 - Yes: When sending a campaign, it is necessary to have a “From:” name, a “From:” address, and a subject line.
@@ -65,12 +70,12 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 Many words, parts of speech, and grammar mechanics we don’t think twice about have the potential to cause confusion for translators and non-native English speakers. Here are some of the big trouble spots to avoid.
 
-**Avoid unclear pronoun references**
+#### Avoid unclear pronoun references
 
 - Yes: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. Such action can actually cause high of rates abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
 - No: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
 
-**Avoid -ing words**
+#### Avoid -ing words
 
 In English, many different types of words end in -ing: nouns, adjectives, progressive verbs, etc. But translator who is a non-native English speaker may not be able to recognize the distinctions and may try to translate them all in the same way.
 
@@ -94,7 +99,7 @@ Here are some other cases where you might see -ing words, and suggestions for ho
  - Yes: From our backyard, we could hear the planes that took off from the airport.
  - No: From our backyard, we could hear the planes taking off from the airport.
 
-**Other words and mechanics to avoid**
+#### Other words and mechanics to avoid
 
 * Slang, idioms, and cliches
 * Contractions (English contractions may not be recognizable to all translators)
@@ -130,11 +135,11 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 
 ### Numbers
 
-**Measurements**
+#### Measurements
 
 When writing for an international audience, use the metric system. Spell out all units and avoid abbreviation.
 
-**Currency**
+#### Currency
 
 Many countries call their currency "the dollar," but the value is going to differ between countries. The US dollar is not the same as the Canadian dollar, for example. So it’s important to specify.
 
