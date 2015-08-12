@@ -12,28 +12,28 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 **What:** Short message that alerts the user to a problem in their account or campaign  
 **Length:** 20-75 words  
 **Owner:** Product  
-**Example:** “Looks like you've left our default header content unmodified. Specifically, we still see ‘Use this area to offer a short preview’ in the pre-header/header area.”  
+**Example:** Looks like you've left our default header content unmodified. Specifically, we still see ‘Use this area to offer a short preview’ in the pre-header/header area.  
 
 ### In-app marketing
 
 **What:** Brief messages that encourage users to try specific features in the app  
 **Length:** 10-30 words  
 **Owner:** Product, with help from marketing  
-**Example:** “Autoresponders is now called Automation. Provide timely, relevant information to subscribers and customers with Automation Workflows.” 
+**Example:** Autoresponders is now called Automation. Provide timely, relevant information to subscribers and customers with Automation Workflows. 
 
 ### Interface copy
 
 **What:** Explanatory in-app messaging that guides and informs users  
 **Length:** 10-50 words  
 **Owner:** Product  
-**Example:** “To get started, set a URL to import.”  
+**Example:** To get started, set a URL to import.  
 
 ### Social media
 
 **What:** Posts on Twitter, Facebook, Instagram, and LinkedIn that highlight blog posts, events, notable MailChimp users, and more  
 **Length:** 20-30 words  
 **Owner:** Marketing, support  
-**Example:** "Wilco used MailChimp's automation tools to release their new album. Here's how: [http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/](http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/)"
+**Example:** Wilco used MailChimp's automation tools to release their new album. Here's how: [http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/](http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/)
 
 Read [Writing for social media](/writing-for-social-media)
 
@@ -42,7 +42,7 @@ Read [Writing for social media](/writing-for-social-media)
 **What:** Short, encouraging message letting the user know they’ve accomplished something in the app  
 **Length:** 5-20 words  
 **Owner:** Product  
-**Example:** “Excellent! You have a brand new list.”  
+**Example:** Excellent! You have a brand new list.  
 
 ## Medium
 
@@ -51,7 +51,7 @@ Read [Writing for social media](/writing-for-social-media)
 **What:** A message warning users that their account has violated our compliance rules  
 **Length:** 10-500 words  
 **Owner:** Compliance  
-**Example:** "List Import Complete: 200+300 and requires more attention. View your status."
+**Example:** List Import Complete: 200+300 and requires more attention. View your status.
 
 ### Integration directory description
 
@@ -72,7 +72,7 @@ Read [Writing for social media](/writing-for-social-media)
 **What:** Messaging that markets our features and products to users and potential users  
 **Length:** 10-1,000 words  
 **Owner:** Marketing  
-**Example:** “Join more than 8 million people who use MailChimp to design and send 600 million emails every day.”
+**Example:** Join more than 8 million people who use MailChimp to design and send 600 million emails every day.
 
 ### System alert
 
@@ -110,7 +110,7 @@ Read [Writing email newsletters](/writing-email-newsletters)
 **What:** Easily digestible content that walks users through a process or problem  
 **Length:** 300-1,000 words  
 **Owner:** Knowledge Base  
-**Example:** [“Getting Started with Lists”](http://kb.mailchimp.com/lists/growth/getting-started-with-lists)
+**Example:** [Getting Started with Lists](http://kb.mailchimp.com/lists/growth/getting-started-with-lists)
 Read [Writing technical content](/writing-technical-content)
 
 ### Legal content
