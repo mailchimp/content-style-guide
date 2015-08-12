@@ -1,14 +1,20 @@
 # How to contribute
 
-
+Thanks for helping us improve the MailChimp Style Guide.
 
 ## Getting Started
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
 * Submit an issue
-* Fork the repository on GitHub
+* Fork the repository on GitHub 
 
 ## Suggesting Changes
+
+We welcome your feedback. To send us your suggestions, submit an issue in GitHub.
+
+## Creating Your Own Style Guide
+
+Feel free to fork the MailChimp Style Guide to make your own. It's available under a Creative Commons Attribution-NonCommercial 4.0 International License. We can't wait to see what you do with it!
 
 
 
