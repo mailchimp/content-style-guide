@@ -71,8 +71,3 @@ Don’t use the words “crazy” or “schizophrenic.”
 
 Use the adjective “blind” to describe a person who is unable to see. Use “low vision” to describe a person with limited vision.
 
-## Resources
-
-* [The Conscious Style Guide](http://consciousstyleguide.com/)
-* [GLAAD Media Reference Guide](http://www.glaad.org/reference)
-* [The National Center on Disability and Journalism’s style guide](http://ncdj.org/style-guide/)
