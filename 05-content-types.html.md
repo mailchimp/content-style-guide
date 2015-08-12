@@ -33,7 +33,7 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 **What:** Posts on Twitter, Facebook, Instagram, and LinkedIn that highlight blog posts, events, notable MailChimp users, and more  
 **Length:** 20-30 words  
 **Owner:** Marketing, support  
-**Example:** "Wilco used MailChimp's automation tools to release their new album. Here's how: [http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/](http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/)
+**Example:** "Wilco used MailChimp's automation tools to release their new album. Here's how: [http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/](http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/)"
 
 Read [Writing for social media](/writing-for-social-media)
 
