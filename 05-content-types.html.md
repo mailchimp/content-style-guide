@@ -67,19 +67,12 @@ Read [Writing for social media](/writing-for-social-media)
 **Owner:** Recruiting  
 **Example:** [Budget Manager](http://mailchimp.com/about/jobs/KG8aMH/budget-manager)  
 
-### Marketing copy
+### Marketing website copy
 
 **What:** Messaging that markets our features and products to users and potential users  
 **Length:** 10-1,000 words  
 **Owner:** Marketing  
 **Example:** “Join more than 8 million people who use MailChimp to design and send 600 million emails every day.”
-
-### Support content
-
-**What:** Emails, chats, social media posts, and emails to users from our support team  
-**Length:** varies  
-**Owner:** Support  
-**Example:** "@twitterhandle Hey [Name], mind contacting Support so they can investigate? Go ahead and reach out through this form: http://eepurl.com/bs3oT9"
 
 ### System alert
 
