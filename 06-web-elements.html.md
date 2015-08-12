@@ -3,7 +3,7 @@ title: Web Elements
 layout: article
 ---
 
-Almost every piece of content we publish is supported by a number of smaller pieces. They serve various specific functions and are each important in their own way. This section lays out our style in regards to these web elements, and explains our approacht to the tricky art of SEO.
+Almost every piece of content we publish is supported by a number of smaller pieces. They serve various specific functions and are each important in their own way. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
 
 ## Guidelines
 
