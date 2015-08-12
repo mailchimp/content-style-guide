@@ -334,9 +334,10 @@ Always capitalize the first “M” and the “C” in MailChimp.
 
 Refer to MailChimp as “we,” not “it.”
 
-Capitalize the proper names of MailChimp products, features, pages, and tools.
+Capitalize the proper names of MailChimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "MailChimp" in the name on first mention. 
 
 - MailChimp Pro
+- MailChimp Snap
 - Inbox Inspector
 - Look What You Can Do
 
