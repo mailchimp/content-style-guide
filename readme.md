@@ -2,11 +2,11 @@
 
 ## Welcome to the MailChimp Style Guide
 
-This style guide is primarily for MailChimp teams, but we hope it will be helpful to other organizations as well.
+This style guide is primarily for MailChimp employees, but we hope it'll be helpful to other organizations as well.
 
-Whether or not you work at MailChimp, we welcome your feedback and suggestions. To learn more about sending us feedback or adapting this style guide to create your own, see the Contributor file.
+Whether or not you work at MailChimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributor file.
 
-If you're forking this style guide, we've included some formatting tips to help you on your way.
+If you're forking this style guide, here are some formatting tips.
 
 ## Creating a New File
 
@@ -16,7 +16,7 @@ Make sure you save your new file with `.html.md` as its extension. The `.html` i
 
 ## Markdown
 
-Markdown is handy because you can write your content without HTML tags. However this can leave you with few options if you want to control the layout of your text.
+Markdown is handy because you can write your content without HTML tags. Here are some tips to help you control the layout of your text.
 
 ### Headers
 
