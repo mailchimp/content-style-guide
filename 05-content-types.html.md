@@ -3,7 +3,7 @@ title: Content Types
 layout: article
 ---
 
-Content at MailChimp takes many forms. Here's a rundown of the types of content we most often write, the functions they serve, and the team that handles them.
+Content at MailChimp takes many forms. Here's a rundown of the types of content we most often write, the functions they serve, and the teams that handle them.
 
 ## Short
 
@@ -19,7 +19,7 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 **What:** Brief messages that encourage users to try specific features in the app  
 **Length:** 10-30 words  
 **Owner:** Product, with help from marketing  
-**Example:** “Autoresponders is now called Automation. Provide timely, relevant information to subscribers and customers with automation workflows.” 
+**Example:** “Autoresponders is now called Automation. Provide timely, relevant information to subscribers and customers with Automation Workflows.” 
 
 ### Interface copy
 
@@ -33,7 +33,8 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 **What:** Posts on Twitter, Facebook, Instagram, and LinkedIn that highlight blog posts, events, notable MailChimp users, and more  
 **Length:** 20-30 words  
 **Owner:** Marketing, support  
-**Example:** [“Our new featured integrations will help you crunch numbers, generate leads, and grow your list: http://blog.mailchimp.com/featured-integrations-july-2015/”](https://twitter.com/MailChimp/status/619200353087696896) 
+**Example:** [“Our new featured integrations will help you crunch numbers, generate leads, and grow your list: http://blog.mailchimp.com/featured-integrations-july-2015/”](https://twitter.com/MailChimp/status/619200353087696896)
+
 Read [Writing for social media](/writing-for-social-media)
 
 ### Success message
