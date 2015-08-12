@@ -425,13 +425,11 @@ These words can be slippery. Here's how we write them.
 ### Words to avoid
 
 - automagical (we used to say this a lot, and we’re embarrassed about it)
-- funnel, incentivize, leverage, disruption, thought leader (or other fluffy corporate terms)
-- internets, interwebs (or any other variation of the word “internet”)
+- funnel, incentivize, leverage, disruption, thought leader, or other fluffy corporate terms
+- internets, interwebs, or any other variation of the word “internet”
 - ninja, rockstar, wizard (unless referring to a literal ninja, rockstar, or wizard)
-- young, old, elderly (or any other word describing a person's age)
-- lame, sufferer, victim, handicapped, mentally ill (or any other word describing a person's physical or mental condition)
+- young, old, elderly, or any other word describing a person's age
 - crazy, schizophrenic (not in reference to a person, or anything else)
 -  crushing it, killing it
-- any reference to politics, religion, or other controversial subjects
 
 
