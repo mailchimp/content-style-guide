@@ -3,8 +3,6 @@ title: Writing Goals and Principles
 layout: article
 ---
 
-## Goals
-
 With every piece of content we publish, we aim to:
 
 * **Empower.** Help people understand and better use MailChimp by using language that informs and encourages them to make the most of our products.
@@ -16,8 +14,6 @@ With every piece of content we publish, we aim to:
 * **Guide.** Think of yourself as a tour guide for readers. Whether you’re showing them through our marketing website, apps, or educational materials, communicate in a friendly and helpful way.
 
 * **Speak truth.** Understand our place in our users’ lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
-
-## Principles
 
 In order to achieve those goals, we make sure our content is:
 
