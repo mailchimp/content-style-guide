@@ -1,5 +1,8 @@
 # MailChimp Style Guide
 
+## Welcome to the MailChimp Style Guide
+
+Whether or not you work at MailChimp, we welcome your feedback and suggestions. To learn more about sending us feedback or adapting this style guide to create your own, see the Contributor file.
 
 ## Creating a New File
 
