@@ -5,7 +5,7 @@ layout: article
 
 One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to MailChimp. To learn more about how we adapt our tone for different situations and see some examples, check out our [Voice and Tone guide](http://voiceandtone.com/).
 
-What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone with your closest friends and family, and a different tone with your boss.
+What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you're out to dinner with your closest friends, and a different tone when you're in a meeting with your boss.
 
 Your tone also changes depending on the emotional state of the person you’re addressing. You wouldn’t want to use the same tone of voice with someone who’s scared or upset as you would with someone who’s laughing.
 
@@ -17,11 +17,9 @@ MailChimp’s voice is human. It’s familiar, friendly, and straightforward. Ou
 
 One way to think of our voice is to compare what it is to what it isn’t. MailChimp’s voice is:
 
-* Fun but not childish
-* Clever but not silly
+* Fun but not silly
 * Confident but not cocky
 * Smart but not stodgy
-* Cool but not alienating
 * Informal but not sloppy
 * Helpful but not overbearing
 * Expert but not bossy
@@ -29,9 +27,9 @@ One way to think of our voice is to compare what it is to what it isn’t. MailC
 
 ## Tone
 
-MailChimp’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Are they open and curious about a post on our blog? Once you have an idea of their emotional state, you can adjust your tone accordingly.
+MailChimp’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Are they curious about a post on our blog? Once you have an idea of their emotional state, you can adjust your tone accordingly.
 
-MailChimp has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally to you. But don’t strain to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
+MailChimp has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
 
 ## Style tips
 
