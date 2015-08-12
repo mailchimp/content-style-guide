@@ -36,6 +36,13 @@ Use the following words as modifiers, but never as nouns:
 - trans
 - LGBT
 
+Don’t use these words in reference to LGBT people or communities:
+
+- homosexual
+- queer
+- lifestyle
+- preference
+
 Don’t use “gay marriage” or “same-sex” marriage unless the distinction is relevant to what you’re writing. Otherwise, it’s just “marriage.”
 
 When writing about a person, use their preferred pronouns. If you’re uncertain, just use their name.
@@ -67,10 +74,3 @@ Don't use these words in any context:
 - lame
 - crazy
 - schizophrenic
-
-Don’t use these words in reference to LGBT people or communities:
-
-- homosexual
-- queer
-- lifestyle
-- preference
