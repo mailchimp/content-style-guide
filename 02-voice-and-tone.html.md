@@ -3,7 +3,7 @@ title: Voice and Tone
 layout: article
 ---
 
-One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to MailChimp.
+One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to MailChimp. To learn more about how we adapt our tone for different situations and see some examples, check out our [Voice and Tone guide](http://voiceandtone.com/).
 
 ## Basics
 
@@ -36,7 +36,6 @@ One way to think of our voice is to compare what it is to what it isn’t. MailC
 MailChimp’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Are they open and curious about a post on our blog? Once you have an idea of their emotional state, you can adjust your tone accordingly.
 
 MailChimp has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally to you. But don’t strain to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
-To learn more about how we adapt our tone for different situations and see some examples, check out our [Voice and Tone guide](http://voiceandtone.com/).
 
 ### Style tips
 
