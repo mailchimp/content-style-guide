@@ -51,7 +51,7 @@ Read [Writing for social media](/writing-for-social-media)
 **What:** A message warning users that their account has violated our compliance rules  
 **Length:** 10-500 words  
 **Owner:** Compliance  
-**Example:** List Import Complete: 200+300 and requires more attention. View your status.
+**Example:** Your campaign [CAMPAIGN NAME] generated a high unsubscribe rate. Your account is still active, but we'll continue to monitor this campaign and may send additional warnings.
 
 ### Integration directory description
 
