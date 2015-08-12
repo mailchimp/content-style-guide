@@ -2,7 +2,11 @@
 
 ## Welcome to the MailChimp Style Guide
 
+This style guide is primarily for MailChimp teams, but we hope it will be helpful to other organizations as well.
+
 Whether or not you work at MailChimp, we welcome your feedback and suggestions. To learn more about sending us feedback or adapting this style guide to create your own, see the Contributor file.
+
+If you're forking this style guide, we've included some formatting tips to help you on your way.
 
 ## Creating a New File
 
