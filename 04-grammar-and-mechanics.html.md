@@ -358,12 +358,15 @@ Write in plain English. If you need to use a technical term, briefly define it s
 
 ### Text formatting
 
-Use italics to indicate the title of a long work (like a book, movie, or album), to emphasize a word, or to cite an example.
+Use italics to indicate the title of a long work (like a book, movie, or album) or to emphasize a word.
 
 - *Dunston Checks In*
 - Brandon *really* loves *Dunston Checks In*.
 
-Use bold formatting when referencing button and navigation labels in step-by-step instructions.
+Use italics when citing an example of an in-app MailChimp element, or referencing button and navigation labels in step-by-step instructions:
+
+- When you're all done, click *Send*.
+- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
