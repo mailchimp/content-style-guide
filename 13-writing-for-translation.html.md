@@ -54,7 +54,7 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 #### Repeat markers in a list or series
 
-  - Yes: Use MailChimp to send emails campaigns, to manage your mailing lists, and to integrate with other applications.
+  - Yes: Use MailChimp to send email campaigns, to manage your mailing lists, and to integrate with other applications.
   - No: Use MailChimp to send email campaigns, manage your mailing lists, and integrate with other applications.
 
 #### Leave in words like “then,” “a,” “the,” “to,” and “that," even if you think they could be cut
@@ -79,7 +79,7 @@ Many words, parts of speech, and grammar mechanics we don’t think twice about 
 
 In English, many different types of words end in -ing: nouns, adjectives, progressive verbs, etc. But translator who is a non-native English speaker may not be able to recognize the distinctions and may try to translate them all in the same way.
 
-Because of this, we want to avoid -ing words when possible. One exception to this rule is words like “graphic calculator” and “riding lawnmower,” where the -ing word is part of a noun’s name and can’t be worked around.
+Because of this, we want to avoid -ing words when possible. One exception to this rule is words like “graphing calculator” and “riding lawnmower,” where the -ing word is part of a noun’s name and can’t be worked around.
 
 Here are some other cases where you might see -ing words, and suggestions for how to edit around them.
 
@@ -104,9 +104,9 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 * Slang, idioms, and cliches
 * Contractions (English contractions may not be recognizable to all translators)
 * Shortened words, even if they’re common in English (use “application,” not “app”)
-* Uncommon foreign words (use "genuine,” not “bona fide”
+* Uncommon foreign words (use "genuine,” not “bona fide”)
 * Unnecessary abbreviations (use "for example,” not “e.g.”)
-* Converting one part of speech into another if it isn’t already commonly used (use "Ssend us an email” instead of “message us”)
+* Converting one part of speech into another if it isn’t already commonly used (use "Send us an email” instead of “message us”)
 * Nonstandard or indirect verb usage (use “he says,” not “he’s like” or “he was all”)
 * Double negatives
 * Synonyms, generally. Don't use a lot of different words for the same thing in a single piece of writing. Instead of mixing it up with “campaign,” “newsletter,” “bulletin,” etc., pick one term and stick with it.
