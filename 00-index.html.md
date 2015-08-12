@@ -17,4 +17,4 @@ We’ve divided the guide by topic based on the types of content we publish, so 
 
 We invite you to use and adapt this style guide as you see fit. It’s public, open-source, and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit MailChimp. 
 
-If you have feedback for improving the guide, we welcome it. 
+We welcome any feedback for improving the guide. 
