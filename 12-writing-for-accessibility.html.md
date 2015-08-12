@@ -7,6 +7,18 @@ We’re always working to make our content more accessible and usable to the wid
 
 ## Basics
 
+We write for a diverse audience of readers who all interact with our content in different ways. We aim to make our content accessible to anyone using a screen reader, keyboard navigation, or Braille interface, and to users of all cognitive capabilities. 
+
+As you write, consider the following:
+
+- Would this language make sense to someone who doesn’t work here? 
+- Could someone quickly scan this document and understand the material? 
+- If someone can’t see the colors, images or video, is the message still clear? 
+- Is the markup clean and structured? 
+- Mobile devices with accessibility features are increasingly becoming core communication tools, does this work well on them?
+
+Many of the best practices for writing for accessibility echo those for [writing technical content](writing-technical-content), with the added complexity of markup, syntax, and structure. 
+
 ## Guidelines
 
 ### Avoid directional language
