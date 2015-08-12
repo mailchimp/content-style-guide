@@ -7,7 +7,7 @@ We write the same way we build apps: with a person-first perspective. Whether yo
 
 ### Age
 
-Don’t reference a person’s age unless it’s relevant to what you’re writing. If it *is* pertinent, include the person’s specific age, offset by commas.
+Don’t reference a person’s age unless it’s relevant to what you’re writing. If it *is* relevant, include the person’s specific age, offset by commas.
 
 - The CEO, 16, just got her driver’s license.
 
@@ -18,8 +18,6 @@ Don’t refer to people using age-related descriptors like “young,” “old,�
 Don’t refer to a person’s disability unless it’s relevant to what you’re writing. If you need to mention it, use language that emphasizes the person first: ”she has a disability” rather than “she is disabled.”
 
 When writing about a person with disabilities, don’t use the words “suffer,” “victim,” or “handicapped.” “Handicapped parking” is OK.
-
-Don’t use the word “lame” in any context.
 
 ### Gender and sexuality
 
@@ -65,9 +63,14 @@ Don’t refer to a person’s mental or cognitive condition unless it’s releva
 
 Don’t describe a person as “mentally ill.” If a reference to a person’s mental or cognitive condition is warranted, use the same rules as writing about people with physical disabilities or medical conditions and emphasize the person first.
 
-Don’t use the words “crazy” or “schizophrenic.”
-
 ### Vision
 
 Use the adjective “blind” to describe a person who is unable to see. Use “low vision” to describe a person with limited vision.
 
+### Words to avoid
+
+Don't use these words in any context:
+
+- lame
+- crazy
+- schizophrenic
