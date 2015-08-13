@@ -67,7 +67,7 @@ They’re great! They give your writing an informal, friendly tone. In most case
 
 ### Emoji
 
-Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately. ![:wink:](/assets/images/wink.png)
+Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately.
 
 ### Numbers
 
