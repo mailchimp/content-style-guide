@@ -8,7 +8,9 @@ If you’re forking this style guide, here are some formatting tips.
 
 ## Creating a New File
 
-The files in this guide are prefixed with a double digit to establish an order to its content. Make sure your file starts with a number that will place your new content in the desired position (eg: `04-`) and change the prefixes of the other files to reflect this change in order.
+This guide is a collection of Markdown files. This is a plaintext format that easily converts to HTML. Read more about it [here](http://daringfireball.net/projects/markdown/). Be sure you name your files without spaces with either an `.md` or `.markdown` extension.
+
+The files in this guide are prefixed with a double digit to set order. Make sure your file starts with a number that will place your new content in the desired position (eg: `04-`) and change the prefixes of the other files to reflect this change in order.
 
 ## Markdown
 
