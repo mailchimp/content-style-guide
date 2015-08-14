@@ -44,9 +44,9 @@ Only request information that we need and intend to use. Don’t ask for gender 
 
 ### Headings and subheadings
 
-Headings and subheadings help organize content for readers.
+Headings and subheadings help organize content for readers. Be generous and descriptive.
 
-Headings (h1) give people a taste of what they’re about to read. They come before the rest of the copy on the page. Be generous and descriptive with your headings.
+Headings (h1) give people a taste of what they’re about to read. Use them for page and blog titles.
 
 Subheadings (h2, h3, etc.) break articles into smaller, more specific sections. They give readers avenues into your content and make it more scannable.
 
@@ -85,7 +85,7 @@ Navigation links should be clear and concise.
 
 ### Radio Buttons
 
-Use sentence case for radio buttons.
+Use title case for headings and sentence case for the buttons.
 
 ### Related articles
 
@@ -93,13 +93,13 @@ Sometimes a long piece of copy will lend itself to a list of related links at th
 
 Make sure related articles appear in a logical order, following the step down/step up rule: The first article should be a step down in complexity from the current article. The second one should be a step up in complexity to a more advanced article.
 
-Don’t repeat links from the body text in related articles.
+If you can, avoid repeating links from the body text in related articles.
 
 ### Titles
 
 Titles organize pages and guide readers. A title appears at the beginning of a page or section and briefly describes the content that follows.
 
-Tiles are (you guessed it) in title case.
+Titles are (you guessed it) in title case.
 
 Don’t use punctuation in a title unless the title is a question.
 
