@@ -15,7 +15,7 @@ For each project, consider your audience’s background, goal, and current mood.
 - What is the goal of the reader? To complete a task? To research a topic?
 - Is the reader in the middle of a task? Are they in a hurry? Could they be frustrated?
 
-We don’t want to overload a reader with unnecessary information, choices to make, or complex ideas or phrases, when we don’t have to. This is particularly critical when a user may be new and/or frustrated. When relevant, prime the reader with a brief outline of an article’s focus in introductory paragraphs or section, and stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
+We don’t want to overload a reader with unnecessary information, choices to make, or complex ideas or phrases, when we don’t have to. This is particularly critical when a user may be new and/or frustrated. When relevant, prime the reader with a brief outline of an article’s focus in an introductory paragraph or section, and stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
 
 ## Types of technical content
 
@@ -26,19 +26,19 @@ Technical content articles vary in target audience, goal, and tone. MailChimp te
 | Best Practices       | all                            | **Context.** Make connections between MailChimp and email marketing as a whole. |
 | Cheat Sheet          | intermediate, advanced         | **Reference.** Include all available scenarios.                                 |
 | Feature Overview     | prospective, new               | **Awareness.** Provide a reference for new or existing feature benefits, uses.  |
-| Getting Started      | prospective, new               | **Overview.** Include brief outline of topic, uses, benefits, and related topics. Use links to best practices, cheat sheets, feature overviews. |
+| Getting Started      | prospective, new               | **Overview.** Include brief outline of topic, uses, benefits, and related topics. Use links to best practices, cheat sheets, and feature overviews. |
 | Policy               | all                            | **Education.** Provide digestible information about critical legal policies and procedures. |
 | Pathfinder           | prospective, new, intermediate | **Orientation.** Bundle topics and provide links to relevant tutorials.         |
 | Release Notes        | intermediate, advanced         | **Transparency.** Include brief explanations of release changes, and link to new tutorials. |
-| Troubleshooting      | new, intermediate, advanced    | **Support.** Outline expected behavior and include potential causes of unexpected behavior; grouped by cause or topic. |
-| Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task, provide a roadmap and pre-requisites, plus clear step-by-step instructions. |
-| Warning              | new, intermediate, advanced    | **Assurance.** Outline warning type, explain why something happened, and what happens next. |
+| Troubleshooting      | new, intermediate, advanced    | **Support.** Outline expected behavior and include potential causes of unexpected behavior; group by cause or topic. |
+| Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task, provide a roadmap and pre-requisites, and clear step-by-step instructions. |
+| Warning              | new, intermediate, advanced    | **Assurance.** Outline warning type, explain why something happened, and include next steps for users. |
 
 ## Guidelines 
 
 ### Drafting technical content
 
-Before you begin writing a new article, reach out to a subject matter expert at MailChimp (like an engineer, tester, designer, researcher, or tech lead) to get as much information as possible. You may only use a small portion of what you learn, but it helps to have more information than you need to decide where to focus your article.
+Before you begin writing a new article, reach out to a subject matter expert at MailChimp (like an engineer, tester, designer, researcher, or advanced support technical advisor) to get as much information as possible. You may only use a small portion of what you learn, but it helps to have more information than you need to decide where to focus your article.
 
 Consider how many articles are needed and what article types will best describe a new feature or tasks to the user.
 
@@ -99,11 +99,11 @@ Technical content uses organization, capitalization, and other formatting to hel
 Capitalize proper names of MailChimp products, features, pages, tools, and team names when directly mentioned. In step-by-step instructions, capitalize and italicize navigation and button labels as they appear in the app.
 
 - MailChimp, Mandrill
-- Automation, Inbox Inspector
+- *Automation*, Inbox Inspector
 - Campaigns page, Lists page
 - Compliance Team, Billing Team
 - Navigate to the Automation page.
-- Click Save & Close.
+- Click *Save & Close*.
 
 #### Headings
 
