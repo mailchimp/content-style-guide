@@ -28,7 +28,7 @@ Standard website buttons include:
 
 Use sentence case for checkboxes.
 
-### Dropdown menus
+### Drop-down menus
 
 Use title case for menu names and sentence case for menu items.
 
