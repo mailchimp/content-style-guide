@@ -54,7 +54,7 @@ Headings and subheadings should be organized in a hierarchy, with heading first,
 
 Include the most relevant keywords in your headings and subheadings, and make sure you cover the main point of the content.
 
-Headings are written in title case, and subheadings are sentence case.
+Headings are written in title case, unless the heading is a punctuated sentence, and then we use sentence case. Subheadings are in sentence case regardless of end punctuation.
 
 ### Links
 
