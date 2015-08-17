@@ -109,7 +109,7 @@ Read [Writing email newsletters](/writing-email-newsletters)
 **What:** Easily digestible content that walks users through a process or problem  
 **Length:** 300-1,000 words  
 **Owner:** Knowledge Base  
-**Example:** [Getting Started with Lists](http://kb.mailchimp.com/lists/growth/getting-started-with-lists)
+**Example:** [Getting Started with Lists](http://kb.mailchimp.com/lists/growth/getting-started-with-lists)<br>
 Read [Writing technical content](/writing-technical-content)
 
 ### Legal content
