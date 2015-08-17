@@ -287,7 +287,7 @@ When referring to a specific file, the filename should be lowercase:
 
 #### Pronouns
 
-If your subject’s gender is unknown or irrelevant, it’s fine to use “they,” “them,” and “their” as a singular pronoun. Use “hehim/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
+If your subject’s gender is unknown or irrelevant, it’s fine to use “they,” “them,” and “their” as a singular pronoun. Use “he/him/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
 
 For more on writing about gender, see [Writing about people](/writing-about-people).
 
