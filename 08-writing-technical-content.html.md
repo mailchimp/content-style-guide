@@ -23,7 +23,7 @@ Technical content articles vary in target audience, goal, and tone. MailChimp te
 
 | **Article Template** | **User Type**                  | **Goal**                                                                        |
 | -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
-| Best Practices       | all                            | **Context.**<br>Make connections between MailChimp and email marketing as a whole. |
+| Best Practices       | all                            | **Context.** Make connections between MailChimp and email marketing as a whole. |
 | Cheat Sheet          | intermediate, advanced         | **Reference.** Include all available scenarios.                                 |
 | Feature Overview     | prospective, new               | **Awareness.** Provide a reference for new or existing feature benefits, uses.  |
 | Getting Started      | prospective, new               | **Overview.** Include brief outline of topic, uses, benefits, and related topics. Use links to best practices, cheat sheets, and feature overviews. |
