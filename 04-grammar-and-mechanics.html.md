@@ -373,7 +373,7 @@ Don’t use underline formatting, and don’t use any combination of italic, bol
 
 Left-align text, never center or right-aligned. 
 
-Hit the space bar once between sentences, never more.
+Press the space bar once between sentences, never more.
 
 ### Write positively
 
