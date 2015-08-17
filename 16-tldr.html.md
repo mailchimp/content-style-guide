@@ -61,7 +61,7 @@ Related resource: The [Conscious Style Guide](http://consciousstyleguide.com/).
 - Give every image descriptive alt text.
 - **Buttons** should always contain actions. The language should be clear and concise. Capitalize every word, including articles.
 - Use sentence case for **checkboxes** and **radio buttons**.
-- Use title case for **dropdown menu names** and sentence case for **menu items**.
+- Use title case for **drop-down menu names** and sentence case for **menu items**.
 - Use title case for **form titles** and sentence case for **form fields**. Only request information that we need and intend to use. Don’t ask for irrelevant personal information, like gender.
 - Use title case for **main navigation**. Use sentence case for **subnavigation**.
 - Use title case for **headings** and sentence case for **subheadings**.
