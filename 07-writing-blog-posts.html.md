@@ -16,7 +16,7 @@ We update the main MailChimp blog a couple times every week. We generally publis
 * Instructive tips and tricks for small businesses
 * Examples of how we use MailChimp’s features in our own marketing
 
-We publish blog posts that explain the "why" behind the work we do at MailChimp. We want to demonstrate the ways in which we're an industry leader with the best products, and we want to tell the stories behind those products. 
+We publish blog posts that explain the “why” behind the work we do at MailChimp. We want to demonstrate the ways in which we're an industry leader with the best products, and we want to tell the stories behind those products. 
 
 ## Guidelines
 
