@@ -33,7 +33,7 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 **What:** Posts on Twitter, Facebook, Instagram, and LinkedIn that highlight blog posts, events, notable MailChimp users, and more  
 **Length:** 20-30 words  
 **Owner:** Marketing, support  
-**Example:** Wilco used MailChimp's automation tools to release their new album. Here's how: [http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/](http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/)
+**Example:** Wilco used MailChimp's automation tools to release their new album. Here's how: [http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/](http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/)<br>
 **Read:** [Writing for social media](/writing-for-social-media)
 
 ### Success message
@@ -93,7 +93,7 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 **What:** Informative articles about MailChimp users, features, and announcements  
 **Length:** 400-800 words  
 **Owner:** Marketing  
-**Example:** [How We Use Facebook Custom Audiences for Our Marketing](https://blog.mailchimp.com/how-we-use-facebook-custom-audiences-for-our-marketing/)
+**Example:** [How We Use Facebook Custom Audiences for Our Marketing](https://blog.mailchimp.com/how-we-use-facebook-custom-audiences-for-our-marketing/)<br>
 **Read:** [Writing blog posts](/writing-blog-posts)
 
 ### Email newsletter
@@ -101,7 +101,7 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 **What:** Email campaigns that market our products and inform or empower our users  
 **Length:** 200-1000 words  
 **Owner:** Marketing (external newsletters), various departments (internal newsletters)  
-**Example:** [MonkeyWrench: Funny Business](http://us1.campaign-archive1.com/?u=67a904de95&id=ce0573e06e)
+**Example:** [MonkeyWrench: Funny Business](http://us1.campaign-archive1.com/?u=67a904de95&id=ce0573e06e)<br>
 **Read:** [Writing email newsletters](/writing-email-newsletters)
 
 ### Help document
@@ -109,7 +109,7 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 **What:** Easily digestible content that walks users through a process or problem  
 **Length:** 300-1,000 words  
 **Owner:** Knowledge Base  
-**Example:** [Getting Started with Lists](http://kb.mailchimp.com/lists/growth/getting-started-with-lists)
+**Example:** [Getting Started with Lists](http://kb.mailchimp.com/lists/growth/getting-started-with-lists)<br>
 **Read:** [Writing technical content](/writing-technical-content)
 
 ### Legal content
@@ -117,7 +117,7 @@ Content at MailChimp takes many forms. Here's a rundown of the types of content 
 **What:** Policies that explain how we protect user privacy, how we handle accounts, and what users can and can’t do with MailChimp  
 **Length:** 1,000-4,000 words  
 **Owner:** Legal  
-**Example:** [Legal: Terms of Use](http://mailchimp.com/legal/terms/)
+**Example:** [Legal: Terms of Use](http://mailchimp.com/legal/terms/)<br>
 **Read:** [Writing legal content](/writing-legal-content)
 
 ### Marketing guide
