@@ -25,11 +25,9 @@ Technical content articles vary in target audience, goal, and tone. MailChimp te
 | -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
 | Best Practices       | all                            | **Context.** Make connections between MailChimp and email marketing as a whole. |
 | Cheat Sheet          | intermediate, advanced         | **Reference.** Include all available scenarios.                                 |
-| Feature Overview     | prospective, new               | **Awareness.** Provide a reference for new or existing feature benefits, uses.  |
 | Getting Started      | prospective, new               | **Overview.** Include brief outline of topic, uses, benefits, and related topics. Use links to best practices, cheat sheets, and feature overviews. |
 | Policy               | all                            | **Education.** Provide digestible information about critical legal policies and procedures. |
 | Pathfinder           | prospective, new, intermediate | **Orientation.** Bundle topics and provide links to relevant tutorials.         |
-| Release Notes        | intermediate, advanced         | **Transparency.** Include brief explanations of release changes, and link to new tutorials. |
 | Troubleshooting      | new, intermediate, advanced    | **Support.** Outline expected behavior and include potential causes of unexpected behavior; group by cause or topic. |
 | Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task, provide a roadmap and pre-requisites, and clear step-by-step instructions. |
 | Warning              | new, intermediate, advanced    | **Assurance.** Outline warning type, explain why something happened, and include next steps for users. |
