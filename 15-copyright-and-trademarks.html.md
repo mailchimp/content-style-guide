@@ -66,7 +66,7 @@ Please check with MailChimp’s legal team before making something you created h
 
 A trademark, often called a mark, can be a word, name, sign, design, or a combination of those. It’s used to identify the provider of a particular product or service. They’re usually words and images, but in some cases, they can even be a [color](https://en.wikipedia.org/wiki/Tiffany_Blue).
 
-To be protectable, a trademark needs a distinctive element. There’s a "spectrum of distinctiveness" that spans from inherently protectable marks to ones that require additional proof to ones that may never be protected.
+To be protectable, a trademark needs a distinctive element. There’s a “spectrum of distinctiveness” that spans from inherently protectable marks to ones that require additional proof to ones that may never be protected.
 
 - **Fanciful marks**, which are made up words like Kodak or Xerox, are the most easily registered and protected.
 - **Arbitrary marks**, which are words which are used out of context like Apple or Sprite, are also easy to protect.
