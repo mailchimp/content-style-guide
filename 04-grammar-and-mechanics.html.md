@@ -219,11 +219,11 @@ Use a true em dash, not hyphens (- or --).
 
 Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers. 
 
-- "Where did all those donuts go?" Tim asked. "I don't know..."
+- “Where did all those donuts go?” Tim asked. Lain said, “I don't know...”
 
 Ellipses, in brackets, can also be used to show that you're omitting words in a quote.
 
-- "When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, [...] a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
+- “When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, [...] a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.”
 
 #### Periods
 
@@ -303,7 +303,7 @@ The first time you mention a person in writing, refer to them by their first and
 
 Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies. 
 
-Don't refer to someone as a "ninja," "rockstar," or "wizard" unless they literally are one.
+Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
 
 #### Schools
 
