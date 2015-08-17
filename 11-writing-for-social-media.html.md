@@ -36,8 +36,8 @@ Do your best to adhere to MailChimp style guidelines when you’re using our soc
 
 When appropriate, you can tag the subject of your post on Twitter or Facebook. But avoid directly tweeting at or otherwise publicly tagging a post subject with messages like, “Hey, we wrote about you!” Never ask for retweets, likes, or favorites.
 
-- Yes: ["We talked with @lauraolin about turning her awesome emails into a book. http://blog.mailchimp.com/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal"](https://twitter.com/MailChimp/status/593075130336686080)
-- No: "Hey @lauraolin, can you RT this post we wrote about you? http://blog.mailchimp.com/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal"
+- Yes: [“We talked with @lauraolin about turning her awesome emails into a book. http://blog.mailchimp.com/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal”](https://twitter.com/MailChimp/status/593075130336686080)
+- No: “Hey @lauraolin, can you RT this post we wrote about you? http://blog.mailchimp.com/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal”
 
 ### Hashtags
 
