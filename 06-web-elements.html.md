@@ -46,11 +46,11 @@ Only request information that we need and intend to use. Don’t ask for gender 
 
 Headings and subheadings help organize content for readers. Be generous and descriptive.
 
-Headings (h1) give people a taste of what they’re about to read. Use them for page and blog titles.
+Headings (H1) give people a taste of what they’re about to read. Use them for page and blog titles.
 
-Subheadings (h2, h3, etc.) break articles into smaller, more specific sections. They give readers avenues into your content and make it more scannable.
+Subheadings (H2, H3, etc.) break articles into smaller, more specific sections. They give readers avenues into your content and make it more scannable.
 
-Headings and subheadings should be organized in a hierarchy, with heading first, followed by subheadings in order. (An h2 will nestle under h1, an h2 under h3, and on down.)
+Headings and subheadings should be organized in a hierarchy, with heading first, followed by subheadings in order. (An H2 will nestle under H1, an H2 under H3, and on down.)
 
 Include the most relevant keywords in your headings and subheadings, and make sure you cover the main point of the content.
 
