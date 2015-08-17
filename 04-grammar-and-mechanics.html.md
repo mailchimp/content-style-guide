@@ -392,7 +392,7 @@ These words can be slippery. Here's how we write them.
 - checkbox
 - coworker
 - double-click
-- drop-down
+- drop-down (noun, adjective), drop down (verb)
 - e-commerce (the industry)
 - eCommerce360 (the MailChimp feature)
 - ePub
@@ -409,7 +409,7 @@ These words can be slippery. Here's how we write them.
 - integrate
 - internet (never capitalize unless it begins a sentence)
 - login (noun, adjective), log in (verb)
-- like (the social media activity)
+- Like (the social media activity)
 - OK
 - online (never capitalize unless it begins a sentence)
 - opt-in (noun, adjective) , opt in (verb)
