@@ -27,7 +27,7 @@ Our tone changes depending on the situation, but is generally informal. Humor is
 
 Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
 
-Related resource: The MailChimp [Voice and Tone guide](TK).
+Related resource: The MailChimp [Voice and Tone guide](http://voiceandtone.com/).
 
 ## Writing about people
 
