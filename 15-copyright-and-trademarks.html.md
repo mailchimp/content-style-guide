@@ -3,7 +3,7 @@ title: Copyright and Trademarks
 layout: article
 ---
 
-Copyright is a bundle of exclusive legal rights that vary depending on the type of work. A copyright owner can grant some or all of those rights to others through a license. This is just one type of license we interact with at MailChimp. This section will lay out our approach to copyrights, trademarks, and Creative Commons licenses.
+Copyright is a bundle of exclusive legal rights that vary depending on the type of work. A copyright owner can grant some or all of those rights to others through a license. This section will lay out our approach to copyrights, trademarks, and Creative Commons licenses.
 
 ## Basics
 
@@ -31,14 +31,14 @@ A copyright license spells out these terms:
 * How long we can use it for
 * How much we’ll pay them for the use
 * Whether or not we’re the only ones who can use the work
-* What we can do with it
+* What we can do with the work
 * Any restrictions on our use (for example, that we can use it online but not on a billboard)
 
 A common license will read something like this:
 
 “You grant MailChimp a perpetual, worldwide, non-exclusive, royalty free license to display, distribute, and publish the Work in our marketing in any medium now known or later developed.”
 
-If you need to get a copyright license for work at MailChimp, please contact the legal team. If someone outside of MailChimp asks to use our copyrighted work, please contact the legal team.
+If you need to get a copyright license for work at MailChimp or if someone outside of MailChimp asks to use our copyrighted work, please contact the legal team.
 
 ### Social media and copyright
 
@@ -50,7 +50,7 @@ Regardless, you should always link to the source of the copyrighted element you�
 
 ### Image use and copyright
 
-MailChimp almost always use original images in our blog posts. If you use an image, photo, or other design element made by someone outside MailChimp, get permission first. Once you have permission, always give the copyright owner credit and link back to the original source.
+MailChimp almost always uses original images in our blog posts. If you use an image, photo, or other design element made by someone outside MailChimp, get permission first. Once you have permission, always give the copyright owner credit and link back to the original source.
 
 Images retrieved via Google image search are not licensed for fair use, but many images are available under license through stock photo websites, or open for use under a Creative Commons license. Flickr has a great search feature for images available under Creative Commons licenses.
 
