@@ -3,7 +3,7 @@ title: Grammar and Mechanics
 layout: article
 ---
 
-One way we give MailChimp a consistent voice is by adhering to certain rules of grammar and mechanics. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (This section covers a lot of ground—the search feature will help if you're looking for something in particular.)
+Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you're looking for something in particular.)
 
 ## Basics
 
@@ -15,7 +15,7 @@ One way we give MailChimp a consistent voice is by adhering to certain rules of 
 
 **Be specific.** Avoid vague language. Cut the fluff.
 
-**Be consistent.** Adhere to the copy patterns and style points outlined in this guide.
+**Be consistent.** Stick to the copy patterns and style points outlined in this guide.
 
 ## Guidelines
 
@@ -36,8 +36,8 @@ Use active voice. Avoid passive voice.
 
 In active voice, the subject of the sentence does the action. In passive voice, the subject of the sentence has the action done to it.
 
-- Yes: Kate logged into the account.
-- No: The account was logged into by Kate.
+- Yes: Marti logged into the account.
+- No: The account was logged into by Marti.
 
 Words like “was” and “by” may indicate that you’re writing in passive voice. Scan for these words and rework sentences where they appear.
 
@@ -54,7 +54,7 @@ When writing out an email address or website URL, use all lowercase.
 - freddie@mailchimp.com
 - mailchimp.com
 
-Avoid capitalizing random words in sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/grammar-and-mechanics#header-2-word-list).
+Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/grammar-and-mechanics#header-2-word-list).
 
 - website
 - internet
@@ -74,9 +74,9 @@ Emoji are a fun way to add humor and visual interest to your writing, but use th
 Spell out a number when it begins a sentence. Otherwise, use the numeral. This includes ordinals, too.
 
 - Ten new employees started on Monday, and 12 start next week.
-- I went crazy at Coffee Hour and ate 3 donuts.
+- I ate 3 donuts at Coffee Hour.
 - Meg won 1st place in last year’s Walktober contest.
-- We hosted a group of 8th graders who want to learn code.
+- We hosted a group of 8th graders who are learning to code.
 
 Numbers over three digits get commas:
 
@@ -212,14 +212,14 @@ Use an em dash (—) without spaces on either side to offset an aside.
 
 Use a true em dash, not hyphens (- or --).
 
-- Multivariate testing—just one of our new Pro features—can help grow your business.
+- Multivariate testing—just one of our new Pro features—can help you grow your business.
 - Austin thought Brad was the donut thief, but he was wrong—it was Lain.
 
 #### Ellipses
 
 Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers. 
 
-- “Where did all those donuts go?” Tim asked. Lain said, “I don't know...”
+- “Where did all those donuts go?” Christy asked. Lain said, “I don't know...”
 
 Ellipses, in brackets, can also be used to show that you're omitting words in a quote.
 
@@ -287,7 +287,7 @@ When referring to a specific file, the filename should be lowercase:
 
 #### Pronouns
 
-If your subject’s gender is unknown or irrelevant, it’s fine to use “they,” “them,” and “their” as a singular pronoun. Use “he/him/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
+If your subject’s gender is unknown or irrelevant, use “they,” “them,” and “their” as a singular pronoun. Use “he/him/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
 
 For more on writing about gender, see [Writing about people](/writing-about-people).
 
@@ -343,7 +343,7 @@ Capitalize the proper names of MailChimp products, features, pages, and tools. W
 
 #### Writing about other companies
 
-Honor companies’ own names for themselves and their products. Go by what’s used on their official website. Don't use ™ or ® or © symbols.
+Honor companies’ own names for themselves and their products. Go by what’s used on their official website. 
 
 - iPad
 - YouTube
@@ -353,9 +353,9 @@ Refer to a company or product as “it” (not “they”).
 
 ### Slang and jargon
 
-Write in plain English. If you need to use a technical term, briefly define it so lay readers can understand.
+Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- MailChimp's ops team is constantly scaling our servers to ensure our users have a great experience with our products. One way we do this is with shards, or partitions that help us better horizontally scale our database infrastructure.
+- MailChimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
@@ -373,7 +373,7 @@ Don’t use underline formatting, and don’t use any combination of italic, bol
 
 Left-align text, never center or right-aligned.
 
-Press the space bar once between sentences, never more.
+Leave one space between sentences, never two.
 
 ### Write positively
 
