@@ -19,7 +19,7 @@ We don’t want to overload a reader with unnecessary information, choices to ma
 
 ## Types of technical content
 
-Technical content articles vary in target audience, goal, and tone. MailChimp technical content is built from 10 templates, which serve different purposes and readers. Framework outlines include the content components of each type, and considerations for each reader’s goal and current mood.
+Technical content articles vary in target audience, goal, and tone. MailChimp technical content is built from 8 templates, which serve different purposes and readers.
 
 | **Article Template** | **User Type**                  | **Goal**                                                                        |
 | -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
@@ -99,7 +99,7 @@ Capitalize proper names of MailChimp products, features, pages, tools, and team 
 - MailChimp, Mandrill
 - Campaigns page, Lists page
 - Compliance Team, Billing Team
-- Navigate to the Automation page.
+- Navigate to the *Automation* page.
 - Click *Save & Close*.
 
 #### Headings
