@@ -1,6 +1,6 @@
 # Welcome to the MailChimp Style Guide
 
-This style guide is primarily for MailChimp employees, but we hope it’ll be helpful to other organizations as well.
+This style guide is primarily for MailChimp employees, but we hope it’s helpful to other organizations as well.
 
 Whether or not you work at MailChimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributor file.
 
