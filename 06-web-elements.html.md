@@ -3,7 +3,7 @@ title: Web Elements
 layout: article
 ---
 
-Almost every piece of content we publish is supported by a number of smaller pieces. They serve various specific functions and are each important in their own way. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
+Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
 
 ## Guidelines
 
@@ -105,7 +105,7 @@ Don’t use punctuation in a title unless the title is a question.
 
 ## SEO
 
-We write for humans, not machines. We don't use gross SEO techniques, like keyword stuffing, to bump search results. But we also want to make it easy for people and search engines to find and share our content. Here are some not-icky ways to do this:
+We write for humans, not machines. We don't use gross SEO techniques like keyword stuffing to bump search results. But we also want to make it easy for people and search engines to find and share our content. Here are some not-icky ways to do this:
 
 * Organize your page around one topic. Use clear, descriptive terms in titles and headings that relate to the topic at hand.
 
