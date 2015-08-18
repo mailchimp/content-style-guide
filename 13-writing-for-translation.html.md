@@ -59,8 +59,8 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 #### Leave in words like “then,” “a,” “the,” “to,” and “that," even if you think they could be cut
 
-  - Yes: If there is not a list set up in your MailChimp account, then you’ll need to create a list before sending your first campaign.
-  - No: If there is not a list set up in your MailChimp account, you’ll need to create a list before sending your first campaign.
+- Yes: If there is not a list set up in your MailChimp account, then you’ll need to create a list before sending your first campaign.
+- No: If there is not a list set up in your MailChimp account, you’ll need to create a list before sending your first campaign.
 - Yes: When sending a campaign, it is necessary to have a “From:” name, a “From:” address, and a subject line.
 - No: When sending a campaign, it is necessary to have a “From:” name, “From:” address, and subject line.
 - Yes: Be sure that you are truly ready to send your campaign before clicking the “Send Now” button.
@@ -83,19 +83,23 @@ Because of this, we want to avoid -ing words when possible. One exception to thi
 
 Here are some other cases where you might see -ing words, and suggestions for how to edit around them.
 
-* **Gerunds**
+#### Gerunds
+
  - Yes: In this article we will talk about list subscriber collection.
  - No: In this article we will talk about getting list subscribers.
- 
-* **Adjectives**
+
+#### Adjectives
+
  - Yes: At the top of the page, there is Freddie with a smile on his face.
  - No: At the top of the page, there is a smiling Freddie.
 
-* **Parts of verbs**
+#### Parts of verbs
+
  - Yes: Several developers are currently working on that feature.
  - No: Several developers are working on that feature. (When you can’t easily avoid the -ing word, it may help to add an adverb to clarify the meaning.)
 
-* **Parts of phrases modifying nouns**
+#### Parts of phrases modifying nouns
+
  - Yes: From our backyard, we could hear the planes that took off from the airport.
  - No: From our backyard, we could hear the planes taking off from the airport.
 
@@ -118,18 +122,22 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 - No: Once you login, you will see your account’s Dashboard.
 
 **“Right”** (could mean “correct,” “the opposite of left,” “politically conservative,” etc.)
+
  - Yes: In the File Manager, click the correct image and drag it to the pane at right.
  - No: In the File Manager, click the right image and drag it to the right pane.
 
 **“Since”** (could refer to a point in time, or a synonym of “because”)
+
 - Yes: Because you already have a complete mailing list, you can send your campaign at anytime.
 - No: Since you already have complete mailing list, you can send your campaign at anytime.
 
 **“Require” plus an infinitive** (could confuse the relationship between subject and object)
+
 - Yes: Autoresponders can be configured and sent from paid accounts.
 - No: A paid account is required to send autoresponders. (This could imply that users with paid accounts are required to send autoresponders.)
 
 **“Has” or “have” plus past participle** (could confuse the relationship between subject and object)
+
 - Yes: The folder contains sent campaigns.
 - No: The folder has sent campaigns.
 
