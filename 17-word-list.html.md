@@ -3,8 +3,6 @@ title: Word List
 layout: article
 ---
 
-## Word list
-
 These words can be slippery. Here's how we write them.
 
 - add-on (noun, adjective), add on (verb)
@@ -43,7 +41,7 @@ These words can be slippery. Here's how we write them.
 - website
 - WiFi
 
-### Words to avoid
+## Words to avoid
 
 - automagical (we used to say this a lot, and we’re embarrassed about it)
 - funnel, incentivize, leverage, disruption, thought leader, or other fluffy corporate terms
