@@ -371,7 +371,7 @@ Use italics when citing an example of an in-app MailChimp element, or referencin
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
-Left-align text, never center or right-aligned. 
+Left-align text, never center or right-aligned.
 
 Press the space bar once between sentences, never more.
 
@@ -381,55 +381,3 @@ Use positive language rather than negative language. One way to detect negative 
 
 - Yes: To get a donut, stand in line.
 - No: You can’t get a donut if you don’t stand in line.
-
-## Word list
-
-These words can be slippery. Here's how we write them.
-
-- add-on (noun, adjective), add on (verb)
-- back end (noun), back-end (adjective)
-- beta
-- checkbox
-- coworker
-- double-click
-- drop-down (noun, adjective), drop down (verb)
-- e-commerce (the industry)
-- eCommerce360 (the MailChimp feature)
-- ePub
-- email (never hyphenate, never capitalize unless it begins a sentence)
-  - To name
-  - From name
-  - Reply-to name
-  - Subject line
-  - Cc, Bcc
-- front end (noun), front-end (adjective)
-- geolocation
-- hashtag
-- homepage
-- integrate
-- internet (never capitalize unless it begins a sentence)
-- login (noun, adjective), log in (verb)
-- Like (the social media activity)
-- OK
-- online (never capitalize unless it begins a sentence)
-- opt-in (noun, adjective) , opt in (verb)
-- pop-up (noun, adjective), pop up (verb)
-- signup (noun, adjective), sign up (verb)
-- sync
-- tweet, retweet
-- username
-- URL
-- website 
-- WiFi
-
-### Words to avoid
-
-- automagical (we used to say this a lot, and we’re embarrassed about it)
-- funnel, incentivize, leverage, disruption, thought leader, or other fluffy corporate terms
-- internets, interwebs, or any other variation of the word “internet”
-- ninja, rockstar, wizard (unless referring to a literal ninja, rockstar, or wizard)
-- young, old, elderly, or any other word describing a person's age
-- crazy, schizophrenic (not in reference to a person, or anything else)
--  crushing it, killing it
-
-
