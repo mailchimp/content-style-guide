@@ -19,7 +19,7 @@ We don’t want to overload a reader with unnecessary information, choices to ma
 
 ## Types of technical content
 
-Technical content articles vary in target audience, goal, and tone. MailChimp technical content is built from 10 templates, which serve different purposes and readers. Framework outlines, available in the [Resources section](/resources), include the content components of each type, and considerations for each reader’s goal and current mood.
+Technical content articles vary in target audience, goal, and tone. MailChimp technical content is built from 10 templates, which serve different purposes and readers. Framework outlines include the content components of each type, and considerations for each reader’s goal and current mood.
 
 | **Article Template** | **User Type**                  | **Goal**                                                                        |
 | -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ Technical content articles vary in target audience, goal, and tone. MailChimp te
 
 ### Drafting technical content
 
-Before you begin writing a new article, reach out to a subject matter expert at MailChimp (like an engineer, tester, designer, researcher, or advanced support technical advisor) to get as much information as possible. You may only use a small portion of what you learn, but it helps to have more information than you need to decide where to focus your article.
+Before you begin writing a new article, reach out to a subject matter expert at MailChimp (like an engineer, tester, designer, researcher, or technical support advisor) to get as much information as possible. You may only use a small portion of what you learn, but it helps to have more information than you need to decide where to focus your article.
 
 Consider how many articles are needed and what article types will best describe a new feature or tasks to the user.
 
@@ -97,7 +97,6 @@ Technical content uses organization, capitalization, and other formatting to hel
 Capitalize proper names of MailChimp products, features, pages, tools, and team names when directly mentioned. In step-by-step instructions, capitalize and italicize navigation and button labels as they appear in the app.
 
 - MailChimp, Mandrill
-- *Automation*, Inbox Inspector
 - Campaigns page, Lists page
 - Compliance Team, Billing Team
 - Navigate to the Automation page.
