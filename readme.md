@@ -2,7 +2,7 @@
 
 This style guide is primarily for MailChimp employees, but we hope it’s helpful to other organizations as well.
 
-Whether or not you work at MailChimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributor file.
+Whether or not you work at MailChimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
 
 If you’re forking this style guide, here are some formatting tips.
 
