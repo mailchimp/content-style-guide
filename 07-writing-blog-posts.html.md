@@ -3,7 +3,7 @@ title: Writing Blog Posts
 layout: article
 ---
 
-MailChimp blog posts are written by people from all over the company, not just those with “writer” in their job title. We love having in-office experts blog about their work: The person with the knowledge is best able to convey it, and the writers and editors on the marketing team can help with brainstorming and editing as needed.
+MailChimp blog posts are written by people from all over the company, not just those with “writer” in their job titles. We love having experts from around the office blog about their work. The person most familiar with the subject is in the best position to convey it, and the writers on the marketing team can help with brainstorming and editing as needed.
 
 We have several MailChimp blogs, including ones written by our [design](http://creative.mailchimp.com), [engineering](http://devs.mailchimp.com/blog/), and [technical content](http://docmakers.mailchimp.com) teams. This section will focus on the main [MailChimp marketing blog](http://blog.mailchimp.com), but the guidelines apply to the other channels, too.
 
@@ -13,10 +13,10 @@ We update the main MailChimp blog a couple times every week. We generally publis
 
 * Feature, release, and integration announcements
 * MailChimp user case studies
-* Instructive tips and tricks for small businesses
+* Tips and tricks for small businesses
 * Examples of how we use MailChimp’s features in our own marketing
 
-We publish blog posts that explain the “why” behind the work we do at MailChimp. We want to demonstrate the ways in which we're an industry leader with the best products, and we want to tell the stories behind those products. 
+We publish blog posts that explain the “why” behind the work we do at MailChimp. We want to show people that we're an industry leader with the best products, and we use our blog to tell the stories behind those products. 
 
 ## Guidelines
 
