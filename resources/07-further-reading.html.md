@@ -20,3 +20,7 @@ If you’re working on your own style guide, these resources were helpful to us:
 [The Conscious Style Guide](http://consciousstyleguide.com/)   
 [GLAAD Media Reference Guide](http://www.glaad.org/reference)   
 [The National Center on Disability and Journalism Style Guide](http://ncdj.org/style-guide/)   
+
+Want to adapt our guide to use at your own organization?
+
+[MailChimp Style Guide on GitHub](https://github.com/mailchimp/style-guide)
