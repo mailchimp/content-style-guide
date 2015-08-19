@@ -54,7 +54,7 @@ When writing out an email address or website URL, use all lowercase.
 - freddie@mailchimp.com
 - mailchimp.com
 
-Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/grammar-and-mechanics#header-2-word-list).
+Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/word-list/).
 
 - website
 - internet
