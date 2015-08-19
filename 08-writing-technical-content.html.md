@@ -32,7 +32,7 @@ Technical content articles vary in target audience, goal, and tone. MailChimp te
 | Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task, provide a roadmap and pre-requisites, and clear step-by-step instructions. |
 | Warning              | new, intermediate, advanced    | **Assurance.** Outline warning type, explain why something happened, and include next steps for users. |
 
-## Guidelines 
+## Guidelines
 
 ### Drafting technical content
 
@@ -40,13 +40,13 @@ Before you begin writing a new article, reach out to a subject matter expert at 
 
 Consider how many articles are needed and what article types will best describe a new feature or tasks to the user.
 
-Outline your article, then write a draft. Stay in touch with your subject matter expert and revise as needed for accuracy, consistency, and length. 
+Outline your article, then write a draft. Stay in touch with your subject matter expert and revise as needed for accuracy, consistency, and length.
 
 When you’re happy with a draft, pass it to another technical writer for peer review. Then show it to a lead technical writer for additional review and revisions. For new content or highly complex content, send last draft to your subject matter expert for final approval.
 
 ### Writing technical content
 
-When writing technical content, follow the style points outlined in the [Voice and tone](/voice-and-tone) and [Grammar and mechanics](/grammar-and-mechanics) sections. Here are some more general pointers, too.
+When writing technical content, follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some more general pointers, too.
 
 #### Stay relevant to the title
 

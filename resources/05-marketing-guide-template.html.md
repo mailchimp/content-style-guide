@@ -51,4 +51,4 @@ As shown in MailChimp for Bloggers, this section is useful for sharing other too
 
 ### Education and support
 
-Usually the last section of the guide, it points people to other MailChimp resources that may be helpful for their specific needs. For example, the MailChimp for Online Sellers guide directs users to our blog, Knowledge Base, UX research, and Support team. 
+Usually the last section of the guide, it points people to other MailChimp resources that may be helpful for their specific needs. For example, the MailChimp for Online Sellers guide directs users to our blog, Knowledge Base, UX research, and Support team.

@@ -5,11 +5,11 @@ layout: article
 
 MailChimp publishes many different kinds of legal content to protect ourselves and our millions of users around the world. Most of our legal content is written by the legal department with occasional help from the communications team. This section gives a general overview of the types of legal content we publish and how those documents are written.
 
-For information about laws that apply to non-legal content, see the [Copyright and trademark](copyright-and-trademarks/) section.
+For information about laws that apply to non-legal content, see the [Copyright and trademark](/15-copyright-and-trademarks.html.md) section.
 
 ## Basics
 
-The way we write, review, and publish legal content is different than how we do many other kinds of writing at MailChimp. The most important difference is that all legal content either starts with or passes through the legal team. 
+The way we write, review, and publish legal content is different than how we do many other kinds of writing at MailChimp. The most important difference is that all legal content either starts with or passes through the legal team.
 
 But that doesn't mean legal content has to be difficult to read. We try to present our legal information in the most pleasant way possible. Our goals for MailChimp's legal content are:
 
@@ -17,7 +17,7 @@ But that doesn't mean legal content has to be difficult to read. We try to prese
 * **Clarity.** We try to avoid legal jargon and overly formal wording. Our users need to understand the agreements they’re making with us.
 * **Succinctness.** We want our users to read and understand our legal documents, while also respecting their time.
 
-## Types of legal content 
+## Types of legal content
 
 We publish several types of legal documents, each with their own writing processes and goals.
 
@@ -61,7 +61,7 @@ The communications team works with the legal team to write and publish these doc
 
 ## Guidelines
 
-When writing legal content, generally follow the style points outlined in the [Voice and tone](/voice-and-tone) and [Grammar and mechanics](/grammar-and-mechanics) sections. Here are some more general considerations, too.
+When writing legal content, generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some more general considerations, too.
 
 #### Start with the facts
 
@@ -89,7 +89,7 @@ After that, you’re free to use “we,” “us,” “you,” and “your” t
 
 **Contractions**
 
-We use contractions in many of our legal documents, which makes them sound more human and flow better with the rest of our content. Contracting words doesn't affect the validity of an agreement. Following our [internationalization guidelines](/writing-for-translation), we avoid contractions if we're writing legal content that will be translated.
+We use contractions in many of our legal documents, which makes them sound more human and flow better with the rest of our content. Contracting words doesn't affect the validity of an agreement. Following our [internationalization guidelines](/13-writing-for-translation.html.md), we avoid contractions if we're writing legal content that will be translated.
 
 #### Never offer legal advice
 

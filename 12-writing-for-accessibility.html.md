@@ -7,17 +7,17 @@ We’re always working to make our content more accessible and usable to the wid
 
 ## Basics
 
-We write for a diverse audience of readers who all interact with our content in different ways. We aim to make our content accessible to anyone using a screen reader, keyboard navigation, or Braille interface, and to users of all cognitive capabilities. 
+We write for a diverse audience of readers who all interact with our content in different ways. We aim to make our content accessible to anyone using a screen reader, keyboard navigation, or Braille interface, and to users of all cognitive capabilities.
 
 As you write, consider the following:
 
-- Would this language make sense to someone who doesn’t work here? 
-- Could someone quickly scan this document and understand the material? 
-- If someone can’t see the colors, images or video, is the message still clear? 
-- Is the markup clean and structured? 
+- Would this language make sense to someone who doesn’t work here?
+- Could someone quickly scan this document and understand the material?
+- If someone can’t see the colors, images or video, is the message still clear?
+- Is the markup clean and structured?
 - Mobile devices with accessibility features are increasingly becoming core communication tools, does this work well on them?
 
-Many of the best practices for writing for accessibility echo those for [writing technical content](writing-technical-content), with the added complexity of markup, syntax, and structure. 
+Many of the best practices for writing for accessibility echo those for [writing technical content](/08-writing-technical-content.html.md), with the added complexity of markup, syntax, and structure.
 
 ## Guidelines
 
@@ -28,13 +28,13 @@ Avoid directional instructions and any language that requires the reader to see 
 - Yes: “Select from these options,” (with the steps listed after the title)
 - No: “Select from the options in the right sidebar.”
 
-### Use headers 
+### Use headers
 
 Headers should always be nested and consecutive. Never skip a header level for styling reasons. To help group sections, be sure the page title is H1, top-level sections are H2s, and subsequent inside those are H3 and beyond. Avoid excessive nesting.
 
 ### Employ a hierarchy
 
-Put the most important information first. Place similar topics in the same paragraph, and clearly separate different topics with headings. 
+Put the most important information first. Place similar topics in the same paragraph, and clearly separate different topics with headings.
 
 Starting with a simple outline that includes key messages can help you create a hierarchy and organize your ideas in a logical way. This improves scannability and encourages better understanding.
 
@@ -70,7 +70,7 @@ Closed captioning or transcripts should be available for all videos. The informa
 
 Aim for high contrast between your font and background colors. Tools in the resources section should help with picking accessible colors.
 
-Images should not be the only method of communication, because images may not load or may not be seen. Avoid using images when the same information could be communicated in writing. 
+Images should not be the only method of communication, because images may not load or may not be seen. Avoid using images when the same information could be communicated in writing.
 
 ## Resources
 

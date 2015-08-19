@@ -7,7 +7,7 @@ MailChimp blog posts are written by people from all over the company, not just t
 
 We have several MailChimp blogs, including ones written by our [design](http://creative.mailchimp.com), [engineering](http://devs.mailchimp.com/blog/), and [technical content](http://docmakers.mailchimp.com) teams. This section will focus on the main [MailChimp marketing blog](http://blog.mailchimp.com), but the guidelines apply to the other channels, too.
 
-## Basics 
+## Basics
 
 We update the main MailChimp blog a couple times every week. We generally publish:
 
@@ -16,14 +16,14 @@ We update the main MailChimp blog a couple times every week. We generally publis
 * Tips and tricks for small businesses
 * Examples of how we use MailChimp’s features in our own marketing
 
-We publish blog posts that explain the “why” behind the work we do at MailChimp. We want to show people that we're an industry leader with the best products, and we use our blog to tell the stories behind those products. 
+We publish blog posts that explain the “why” behind the work we do at MailChimp. We want to show people that we're an industry leader with the best products, and we use our blog to tell the stories behind those products.
 
 ## Guidelines
 
-When writing for the blog, follow the style points outlined in the [Voice and tone](/voice-and-tone) and [Grammar and mechanics](/grammar-and-mechanics) sections. Here are some more general pointers, too.
+When writing for the blog, follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some more general pointers, too.
 
 ### Be casual, but smart
-This isn’t a term paper, so there’s no need to be stuffy. Drop some knowledge while casually engaging your readers with conversational language. 
+This isn’t a term paper, so there’s no need to be stuffy. Drop some knowledge while casually engaging your readers with conversational language.
 
 ### Be specific
 If you're writing about data, put the numbers in context. If you're writing about a MailChimp user, give the reader plenty of information about the company's stage, workflow, results, and values.
@@ -42,4 +42,3 @@ In WordPress, add keywords that apply to your article. Look through existing pos
 
 ### Use pictures
 Include images in your blog posts when it makes sense. If you’re explaining how to use MailChimp, include screenshots to illustrate your point. When posting to WordPress, remove image links, or link the image to the relevant URL. Make sure to use alt text.
-

@@ -5,7 +5,7 @@ layout: article
 
 We send a lot of email ourselves, and we follow our own best practices to set an example for users. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
 
-## Basics 
+## Basics
 
 Our email newsletters help empower and inform MailChimp users. Here are the most common types of content we send by email:
 
@@ -20,7 +20,7 @@ Our email newsletters help empower and inform MailChimp users. Here are the most
 
 ## Guidelines
 
-Email newsletters generally follow the style points outlined in the [Voice and tone](/voice-and-tone) and [Grammar and mechanics](/grammar-and-mechanics) sections. Here are some additional considerations.
+Email newsletters generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some additional considerations.
 
 ### Consider all elements
 
@@ -52,7 +52,7 @@ All campaigns follow [CAN-SPAM rules](http://kb.mailchimp.com/accounts/complianc
 
 ### Consider your perspective
 
-When sending an email newsletter from MailChimp, use the third person “we.” When sending a newsletter as an individual, use the first person. 
+When sending an email newsletter from MailChimp, use the third person “we.” When sending a newsletter as an individual, use the first person.
 
 ### Use a hierarchy
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.
@@ -67,7 +67,7 @@ More than 50 percent of emails are read on a mobile device. Limit links to the m
 Some email clients disable images by default. Include an alt tag to describe the information in the image for people who aren’t able to see it.
 
 ### Segment your audience
-It’s exciting to send to millions of users at once, but it’s doubtful that every subscriber is interested in every topic. Segment your list to find a particular audience that’s likely to react. 
+It’s exciting to send to millions of users at once, but it’s doubtful that every subscriber is interested in every topic. Segment your list to find a particular audience that’s likely to react.
 
 Once you've selected an audience, adjust the language to fit their needs. For example, users who developed custom integrations are more likely to understand and appreciate direct, technical terms.
 

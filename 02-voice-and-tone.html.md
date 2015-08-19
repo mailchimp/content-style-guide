@@ -33,13 +33,12 @@ MailChimp has a sense of humor, so feel free to be funny when it’s appropriate
 
 ## Style tips
 
-Here are a few key elements of writing MailChimp’s voice. For more, see the [Grammar and mechanics section](/grammar-and-mechanics).
+Here are a few key elements of writing MailChimp’s voice. For more, see the [Grammar and mechanics section](/04-grammar-and-mechanics.html.md).
 
-* [**Active voice**](/grammar-and-mechanics#header-3-active-voice) Use active voice. Avoid passive voice.
-* [**Avoid slang and jargon**](/grammar-and-mechanics#header-3-slang-and-jargon) Write in plain English.
-* [**Write positively**](/grammar-and-mechanics#header-3-write-positively) Use positive language rather than negative language.
+* [**Active voice**](/04-grammar-and-mechanics.html.md/#header-3-active-voice) Use active voice. Avoid passive voice.
+* [**Avoid slang and jargon**](/04-grammar-and-mechanics.html.md/#header-3-slang-and-jargon) Write in plain English.
+* [**Write positively**](/04-grammar-and-mechanics.html.md/#header-3-write-positively) Use positive language rather than negative language.
 
 ## A note about Freddie
 
-Freddie is MailChimp's mascot. He’s been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [Brand Assets](http://mailchimp.com/about/brand-assets/). 
-
+Freddie is MailChimp's mascot. He’s been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [Brand Assets](http://mailchimp.com/about/brand-assets/).

@@ -44,7 +44,7 @@ Words like “was” and “by” may indicate that you’re writing in passive 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
 - Your account was flagged by our abuse team.
- 
+
 ### Capitalization
 
 We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
@@ -54,7 +54,7 @@ When writing out an email address or website URL, use all lowercase.
 - freddie@mailchimp.com
 - mailchimp.com
 
-Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/word-list/).
+Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
 
 - website
 - internet
@@ -63,7 +63,7 @@ Don't capitalize random words in the middle of sentences. Here are some words th
 
 ### Contractions
 
-They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit. Avoid them if you're writing content that will be [translated for an international audience](/writing-for-translation).
+They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit. Avoid them if you're writing content that will be [translated for an international audience](/13-writing-for-translation.html.md).
 
 ### Emoji
 
@@ -217,7 +217,7 @@ Use a true em dash, not hyphens (- or --).
 
 #### Ellipses
 
-Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers. 
+Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
 
 - “Where did all those donuts go?” Christy asked. Lain said, “I don't know...”
 
@@ -289,7 +289,7 @@ When referring to a specific file, the filename should be lowercase:
 
 If your subject’s gender is unknown or irrelevant, use “they,” “them,” and “their” as a singular pronoun. Use “he/him/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
 
-For more on writing about gender, see [Writing about people](/writing-about-people).
+For more on writing about gender, see [Writing about people](/03-writing-about-people.html.md).
 
 #### Quotes
 
@@ -301,7 +301,7 @@ When quoting someone in a blog post or other publication, use the present tense.
 
 The first time you mention a person in writing, refer to them by their first and last names. On all other mentions, refer to them by their first name.
 
-Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies. 
+Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies.
 
 Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
 
@@ -334,7 +334,7 @@ Always capitalize the first “M” and the “C” in MailChimp.
 
 Refer to MailChimp as “we,” not “it.”
 
-Capitalize the proper names of MailChimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "MailChimp" in the name on first mention. 
+Capitalize the proper names of MailChimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "MailChimp" in the name on first mention.
 
 - MailChimp Pro
 - MailChimp Snap
@@ -343,7 +343,7 @@ Capitalize the proper names of MailChimp products, features, pages, and tools. W
 
 #### Writing about other companies
 
-Honor companies’ own names for themselves and their products. Go by what’s used on their official website. 
+Honor companies’ own names for themselves and their products. Go by what’s used on their official website.
 
 - iPad
 - YouTube
