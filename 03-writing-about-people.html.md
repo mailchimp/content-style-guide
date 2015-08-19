@@ -66,11 +66,3 @@ Don’t describe a person as “mentally ill.” If a reference to a person’s 
 ### Vision
 
 Use the adjective “blind” to describe a person who is unable to see. Use “low vision” to describe a person with limited vision.
-
-### Words to avoid
-
-Don't use these words in any context:
-
-- lame
-- crazy
-- schizophrenic
