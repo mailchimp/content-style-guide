@@ -48,5 +48,4 @@ These words can be slippery. Here's how we write them.
 - internets, interwebs, or any other variation of the word “internet”
 - ninja, rockstar, wizard (unless referring to a literal ninja, rockstar, or wizard)
 - young, old, elderly, or any other word describing a person's age
-- crazy, schizophrenic (not in reference to a person, or anything else)
 -  crushing it, killing it
