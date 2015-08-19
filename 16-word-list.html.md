@@ -46,6 +46,6 @@ These words can be slippery. Here’s how we write them.
 - automagical (we used to say this a lot, and we’re embarrassed about it)
 - funnel, incentivize, leverage, disruption, thought leader, or other fluffy corporate terms
 - internets, interwebs, or any other variation of the word “internet”
-- ninja, rockstar, wizard (unless referring to a literal ninja, rockstar, or wizard)
+- ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
 - young, old, elderly, or any other word describing a person's age
 -  crushing it, killing it
