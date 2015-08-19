@@ -49,3 +49,4 @@ These words can be slippery. Here’s how we write them.
 - ninja, rockstar, wizard (unless referring to a literal ninja, rockstar, or wizard)
 - young, old, elderly, or any other word describing a person's age
 -  crushing it, killing it
+-  crazy, insane, blind, psycho, or any other word for a disability or mental illness (unless referring to a literal condition of a real person)
