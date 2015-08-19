@@ -50,3 +50,4 @@ These words can be slippery. Here’s how we write them.
 - ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
 - young, old, elderly, or any other word describing a person's age
 -  crushing it, killing it
+-  crazy, insane, or similar words to describe people
