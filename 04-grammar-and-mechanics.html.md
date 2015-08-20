@@ -154,9 +154,9 @@ Specify time zones when writing about an event or something else people would ne
 Abbreviate time zones within the continental United States as follows:
 
 - Eastern time: ET
-- Central time: CS
-- Mountain time: MS
-- Pacific time: PS
+- Central time: CT
+- Mountain time: MT
+- Pacific time: PT
 
 When referring to international time zones, spell them out: Nepal Standard Time, Australian Eastern Time. If a time zone does not have a set name, use its [Coordinated Universal Time (UTC) offset](https://en.wikipedia.org/wiki/List_of_UTC_time_offsets).
 
