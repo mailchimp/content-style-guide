@@ -11,7 +11,7 @@ With every piece of content we publish, we aim to:
 
 * **Educate.** Tell readers what they need to know, not just what we want to say. Give them the exact information they need, along with opportunities to learn more. Remember that you’re the expert, and readers don’t have access to everything you know.
 
-* **Guide.** Think of yourself as a tour guide for readers. Whether you’re leading them through our marketing website, apps, or educational materials, communicate in a friendly and helpful way.
+* **Guide.** Think of yourself as a tour guide for our readers. Whether you’re leading them through our marketing website, apps, or educational materials, communicate in a friendly and helpful way.
 
 * **Speak truth.** Understand MailChimp's place in our users’ lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
 
