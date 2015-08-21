@@ -14,7 +14,7 @@ The way we write, review, and publish legal content is different than how we do 
 But that doesn't mean legal content has to be difficult to read. We try to present our legal information in the most pleasant way possible. Our goals for MailChimp's legal content are:
 
 * **Accuracy.** Our first and foremost concern is that we present the correct information in a truthful way.
-* **Clarity.** We try to avoid legal jargon and overly formal wording. Our users need to understand the agreements they’re making with us.
+* **Clarity.** We try to avoid legal jargon and overly formal wording. Our users need to understand the agreement they’re making with us.
 * **Succinctness.** We want our users to read and understand our legal documents, while also respecting their time.
 
 ## Types of legal content
