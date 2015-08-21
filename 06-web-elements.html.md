@@ -9,7 +9,7 @@ Every piece of content we publish is supported by a number of smaller pieces. Th
 
 ### Alt text
 
-This is a way to label images, and is especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
+Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
 For more on how and why we use alt text, read the [Accessibility](/12-writing-for-accessibility.html.md) section.
 
@@ -44,7 +44,7 @@ Only request information that we need and intend to use. Don’t ask for gender 
 
 ### Headings and subheadings
 
-Headings and subheadings help organize content for readers. Be generous and descriptive.
+Headings and subheadings organize content for readers. Be generous and descriptive.
 
 Headings (H1) give people a taste of what they’re about to read. Use them for page and blog titles.
 
