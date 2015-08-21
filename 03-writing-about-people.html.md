@@ -43,7 +43,7 @@ Don’t use these words in reference to LGBT people or communities:
 - lifestyle
 - preference
 
-Don’t use “gay marriage” or “same-sex” marriage unless the distinction is relevant to what you’re writing. Otherwise, it’s just “marriage.”
+Don’t use “same-sex” marriage, unless the distinction is relevant to what you’re writing. (Avoid “gay marriage.”) Otherwise, it’s just “marriage.”
 
 When writing about a person, use their preferred pronouns. If you’re uncertain, just use their name.
 
