@@ -33,11 +33,11 @@ We keep these in one place on our [legal page](http://mailchimp.com/legal/):
 
 These policies apply to all of MailChimp’s users. The legal and communication teams work together to make them as transparent and easy to read as possible. When someone signs up to use MailChimp, they must agree to all of those terms.
 
-All of our public legal documents, plus any changes to those documents, are drafted by our in-house legal team. When new legal documents are published or edited, we notify all our users of the updates and provide a window for them to object before the new terms go into effect.
+All of our public legal documents, and any changes to those documents, are drafted by our in-house legal team. When new legal documents are published or edited, we notify all our users of the updates and provide a window for them to object before the new terms go into effect.
 
 ### Guides and articles about legal topics
 
-We also publish guides and Knowledge Base articles about legal concepts that may affect our users. Here are some examples:
+We also publish guides and technical articles about legal concepts that may affect our users. Here are some examples:
 
 - [Terms of Use and anti-spam requirements](http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns)
 - [About the Canada anti-spam law](http://kb.mailchimp.com/accounts/compliance-tips/about-the-canada-anti-spam-law-casl)
