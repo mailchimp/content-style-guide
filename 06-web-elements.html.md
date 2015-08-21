@@ -89,9 +89,9 @@ Use title case for headings and sentence case for button fields.
 
 ### Related articles
 
-Sometimes a long piece of copy will lend itself to a list of related links at the end. Don’t go overboard—four is usually plenty.
+Sometimes a long piece of copy lends itself to a list of related links at the end. Don’t go overboard—4 is usually plenty.
 
-Make sure related articles appear in a logical order, following the step down/step up rule: The first article should be a step down in complexity from the current article. The second one should be a step up in complexity to a more advanced article.
+Related articles should appear in a logical order, following the step down/step up rule: The first article should be a step down in complexity from the current article. The second one should be a step up in complexity to a more advanced article.
 
 If you can, avoid repeating links from the body text in related articles.
 
