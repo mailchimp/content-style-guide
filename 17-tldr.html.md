@@ -23,7 +23,7 @@ MailChimp’s voice is:
 * Friendly
 * Straightforward
 
-Our tone changes depending on the situation, but is generally informal. Humor is important, but we value clarity over entertainment.
+Our tone changes depending on the situation, but it's generally informal. We have a sense of humor, but we value clarity over entertainment.
 
 Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
 
