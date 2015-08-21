@@ -85,7 +85,7 @@ Navigation links should be clear and concise.
 
 ### Radio Buttons
 
-Use title case for headings and sentence case for the buttons.
+Use title case for headings and sentence case for button fields.
 
 ### Related articles
 
