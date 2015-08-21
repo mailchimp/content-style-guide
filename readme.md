@@ -1,8 +1,8 @@
-# Welcome to the MailChimp Style Guide
+# Welcome to the MailChimp Content Style Guide
 
 This style guide is primarily for MailChimp employees, but we hope it’s helpful to other organizations as well.
 
-If you're looking for the MailChimp Style Guide website, visit [styleguide.mailchimp.com](http://styleguide.mailchimp.com).
+If you're looking for the MailChimp Content Style Guide website, visit [styleguide.mailchimp.com](http://styleguide.mailchimp.com).
 
 Whether or not you work at MailChimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
 

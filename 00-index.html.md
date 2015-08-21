@@ -1,5 +1,5 @@
 ---
-title: Welcome to the MailChimp Style&nbsp;Guide
+title: Welcome to the MailChimp Content Style Guide
 layout: article
 ---
 
