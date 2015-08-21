@@ -19,4 +19,4 @@ We invite you to use and adapt this style guide as you see fit. It’s completel
 
 We welcome any feedback for improving the guide.
 
-[MailChimp Style Guide on GitHub](https://github.com/mailchimp/style-guide)
+[MailChimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
