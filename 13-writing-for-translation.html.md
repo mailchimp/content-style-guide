@@ -77,7 +77,7 @@ Many words, parts of speech, and grammar mechanics we don’t think twice about 
 
 #### Avoid -ing words
 
-In English, many different types of words end in -ing: nouns, adjectives, progressive verbs, etc. But translator who is a non-native English speaker may not be able to recognize the distinctions and may try to translate them all in the same way.
+In English, many different types of words end in -ing: nouns, adjectives, progressive verbs, etc. But a translator who is a non-native English speaker may not be able to recognize the distinctions and may try to translate them all in the same way.
 
 Because of this, we want to avoid -ing words when possible. One exception to this rule is words like “graphing calculator” and “riding lawnmower,” where the -ing word is part of a noun’s name and can’t be worked around.
 
