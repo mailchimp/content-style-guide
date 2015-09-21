@@ -147,7 +147,7 @@ layout: article
 - View [Item]
 - View All [Items]
 
-## Dropdown menus
+## Drop-down menus
 
 ### In app
 
