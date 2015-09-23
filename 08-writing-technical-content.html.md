@@ -73,16 +73,19 @@ Screenshots and GIFs may not be necessary for every article or process, but can 
 We edit technical content based on three goals:
 
 **Digestibility**
+
 - Cut or tighten redundancies, gerunds, adverbs, and passive constructions.
 - Use the simplest word.
 - Limit paragraphs to three sentences.
 
 **Consistency**
+
 - Use the labels and terminology used in the MailChimp app.
 - Use specific, active verbs for certain tasks.
 - Choose basic words and phrases to facilitate consistency across translated content.
 
 **Helpfulness**
+
 - Stay conversational, using contractions when appropriate.
 - Avoid qualifiers that muddy meaning.
 - Express understanding when appropriate.
