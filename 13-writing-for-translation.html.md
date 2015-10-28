@@ -45,7 +45,7 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 #### Repeat helping verbs belonging to multiple verbs
 
   - Yes: MailChimp can send your campaign on the fly or can schedule your campaign to go out at a set time.
-  - No: MailChimp can send your campaign on the fly or schedule your campaign to got out at a set time.
+  - No: MailChimp can send your campaign on the fly or schedule your campaign to go out at a set time.
 
 #### Repeat subjects and verbs
 
