@@ -27,7 +27,7 @@ When writing for international audiences, we generally follow what's outlined in
 
 ### Consider cultural differences
 
-MailChimp’s voice conversational and informal. However, in some cultures, informal text may be considered offensive. Check with your translator to see if this is the case for the particular language you’re writing for.
+MailChimp’s voice is conversational and informal. However, in some cultures, informal text may be considered offensive. Check with your translator to see if this is the case for the particular language you’re writing for.
 
 The translation company should give the option to translate in a formal or informal tone, if the language allows for it. (For example, in Spanish, it is possible to write informally where tú = you or formally where usted = you.)
 
