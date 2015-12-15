@@ -21,6 +21,7 @@ These words can be slippery. Here’s how we write them.
   - Reply-to name
   - Subject line
   - Cc, Bcc
+- emoji (singular and plural)
 - front end (noun), front-end (adjective)
 - geolocation
 - hashtag
