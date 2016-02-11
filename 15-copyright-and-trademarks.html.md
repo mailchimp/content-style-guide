@@ -15,7 +15,7 @@ Copyright notice on the work is not required but it *is* recommended, since it c
 
 ## Copyright at MailChimp
 
-Copyright law applies to nearly every piece of content we create at MailChimp, from our website to our blog posts to the gifts we make for our users. We display proper—and prominent—copyright notice on our website site and ony other content we produce.
+Copyright law applies to nearly every piece of content we create at MailChimp, from our website to our blog posts to the gifts we make for our users. We display proper—and prominent—copyright notice on our website site and any other content we produce.
 
 At minimum, these copyright notices read, “&copy; [YEAR] MailChimp.”
 
