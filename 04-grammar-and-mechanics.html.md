@@ -301,7 +301,7 @@ When quoting someone in a blog post or other publication, use the present tense.
 
 The first time you mention a person in writing, refer to them by their first and last names. On all other mentions, refer to them by their first name.
 
-Don’t capitalize the names of teams, departments, or individual job titles, at MailChimp or other companies.
+Capitalize the names of teams, departments, and individual job titles.
 
 Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
 
