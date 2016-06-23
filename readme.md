@@ -6,7 +6,9 @@ If you're looking for the MailChimp Content Style Guide website, visit [stylegui
 
 Whether or not you work at MailChimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
 
-If you’re forking this style guide, here are some formatting tips.
+## Using the Guide
+
+We've written a [blog post](http://devs.mailchimp.com/blog/how-we-built-the-mailchimp-content-style-guide/) and set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
 
 ## Creating a New File
 
