@@ -355,7 +355,7 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- MailChimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions that help us better horizontally scale our database infrastructure.
+- MailChimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
