@@ -13,7 +13,6 @@ These words can be slippery. Here’s how we write them.
 - double-click
 - drop-down (noun, adjective), drop down (verb)
 - e-commerce (the industry)
-- eCommerce360 (the MailChimp feature)
 - ePub
 - email (never hyphenate, never capitalize unless it begins a sentence)
   - To name
