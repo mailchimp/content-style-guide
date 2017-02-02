@@ -50,7 +50,7 @@ Headings (H1) give people a taste of what they’re about to read. Use them for 
 
 Subheadings (H2, H3, etc.) break articles into smaller, more specific sections. They give readers avenues into your content and make it more scannable.
 
-Headings and subheadings should be organized in a hierarchy, with heading first, followed by subheadings in order. (An H2 will nestle under H1, an H2 under H3, and on down.)
+Headings and subheadings should be organized in a hierarchy, with heading first, followed by subheadings in order. (An H2 will nestle under H1, an H3 under H2, and on down.)
 
 Include the most relevant keywords in your headings and subheadings, and make sure you cover the main point of the content.
 
