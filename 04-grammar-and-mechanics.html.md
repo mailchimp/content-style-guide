@@ -88,11 +88,10 @@ Write out big numbers in full. Abbreviate them if there are space restraints, as
 
 #### Dates
 
-Spell out the day of the week and abbreviate the month, unless you’re just referring to the month or the month and the year.
+Generally, spell out the day of the week and the month. Abbreviate only if space is an issue in the app.
 
-- Saturday, Jan. 24
-- Saturday, Jan. 24, 2015
-- January 2015
+- Saturday, January 24
+- Sat., Jan. 24
 
 #### Decimals and fractions
 
@@ -127,10 +126,10 @@ When writing about other currencies, follow the same symbol-amount format:
 
 #### Telephone numbers
 
-Use periods without spaces between numbers (no parentheses or dashes). Use a country code if your reader is in another country.
+Use dashes without spaces between numbers. Use a country code if your reader is in another country.
 
-- 555.867.5309
-- +1.404.123.4567
+- 555-867-5309
+- +1-404-123-4567
 
 #### Temperature
 
@@ -140,10 +139,10 @@ Use the degree symbol and the capital F abbreviation for Fahrenheit.
 
 #### Time
 
-Use numerals and am or pm without a space. Don’t use minutes for on-the-hour time. 
+Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time. 
 
-- 7am 
-- 7:30pm
+- 7 am 
+- 7:30 pm
 
 Use a hyphen between times to indicate a time period. 
 
@@ -301,7 +300,15 @@ When quoting someone in a blog post or other publication, use the present tense.
 
 The first time you mention a person in writing, refer to them by their first and last names. On all other mentions, refer to them by their first name.
 
-Capitalize the names of teams, departments, and individual job titles.
+Capitalize the names of departments and teams (but not the word "team" or "department").
+
+- Marketing team
+- Support department
+
+Capitalize individual job titles when referencing to a specific role. Don't capitalize when referring to the role in general terms.
+
+- Our new Marketing Manager starts today.
+- All the managers ate pizza. 
 
 Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
 
