@@ -338,7 +338,6 @@ Capitalize the proper names of MailChimp products, features, pages, and tools. W
 
 - MailChimp Pro
 - MailChimp Snap
-- Inbox Inspector
 - Look What You Can Do
 
 #### Writing about other companies
