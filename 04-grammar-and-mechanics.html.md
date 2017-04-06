@@ -104,7 +104,7 @@ Use decimal points when a number can’t be easily written out as a fraction, li
 
 #### Percentages
 
-Don’t use the % symbol. Spell out the word “percent.”
+Use the % symbol instead of spelling out "percent."
 
 #### Ranges and spans
 
@@ -308,7 +308,7 @@ Capitalize the names of departments and teams (but not the word "team" or "depar
 Capitalize individual job titles when referencing to a specific role. Don't capitalize when referring to the role in general terms.
 
 - Our new Marketing Manager starts today.
-- All the managers ate pizza. 
+- All the managers ate donuts. 
 
 Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
 
