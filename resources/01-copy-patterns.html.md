@@ -71,7 +71,6 @@ layout: article
 - Conversations
 - Edit [item]
 - Forms
-- Inbox Inspections
 - Manage subscribers
 - Overview
 - Plain-text email
