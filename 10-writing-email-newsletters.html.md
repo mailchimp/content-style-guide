@@ -12,7 +12,6 @@ Our email newsletters help empower and inform MailChimp users. Here are the most
 - Product and feature announcements
 - Tips for getting the most out of existing products and features
 - Regular monthly newsletters
-- Industry-based newsletters (MailChimp for Nonprofits)
 - Automated series (Getting Started with MailChimp)
 - Event invitations and information about online courses
 - System alerts about changes to functionality or scheduled maintenance
