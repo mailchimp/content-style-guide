@@ -44,7 +44,7 @@ If you need to get a copyright license for work at MailChimp or if someone outsi
 
 This is an area where the letter of the law and common practice sometimes differ.
 
-Social media posts often include copyrighted elements like pictures, gifs, or pieces of writing. If you’re using a copyrighted element in a commercial manner on social media, you should request permission from the copyright holder. Since MailChimp is a company, we defer to the position that our use will be perceived as commercial. But if you’re using it in a more informative or commentary way, like sharing a meme to indicate how you feel about a news story, you may not need to request permission.
+Social media posts often include copyrighted elements like pictures, GIFs, or pieces of writing. If you’re using a copyrighted element in a commercial manner on social media, you should request permission from the copyright holder. Since MailChimp is a company, we defer to the position that our use will be perceived as commercial. But if you’re using it in a more informative or commentary way, like sharing a meme to indicate how you feel about a news story, you may not need to request permission.
 
 Regardless, you should always link to the source of the copyrighted element you’re using, and never make it look like you created work that belongs to someone else.
 
