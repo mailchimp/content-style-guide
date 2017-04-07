@@ -183,11 +183,11 @@ Apostrophes can also be used to denote that you’ve dropped some letters from a
 
 #### Colons
 
-Use a colon (rather than an ellipses, em dash, or comma) to offset a list.
+Use a colon (rather than an ellipsis, em dash, or comma) to offset a list.
 
-- Erin ordered three kinds of donuts: glazed, chocolate, and pumpkin.
+- Erin ordered 3 kinds of donuts: glazed, chocolate, and pumpkin.
 
-You can also use a colon to join two related phrases. If a complete sentence follows the colon, capitalize the first word.
+You can also use a colon to join 2 related phrases. If a complete sentence follows the colon, capitalize the 1st word.
 
 - I was faced with a dilemma: I wanted a donut, but I’d just eaten a bagel.
 
@@ -231,6 +231,8 @@ Periods go inside quotation marks. They go outside parentheses when the parenthe
 - Christy said, “I ate a donut.”
 - I ate a donut (and I ate a bagel, too).
 - I ate a donut and a bagel. (The donut was Sam’s.)
+
+Leave a single space between sentences. 
 
 #### Question marks
 
