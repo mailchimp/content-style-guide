@@ -120,7 +120,7 @@ Group article content with H2s and H3s. Use H2s to organize content by higher-le
 
 #### Ordered Lists
 
-Only use ordered lists for step-by-step instructions. Separate steps into logical chunks, with no more than two related actions per step. When additional explanation or a screenshot is necessary, use a line break inside the list item.
+Only use ordered lists for step-by-step instructions. Separate steps into logical chunks, with no more than 2 related actions per step. When additional explanation or a screenshot is necessary, use a line break inside the list item.
 
 #### Unordered Lists
 
