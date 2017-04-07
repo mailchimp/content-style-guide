@@ -47,7 +47,7 @@ The legal team performs periodic reviews of all marketing and technical content 
 
 ### Customer service messages
 
-We respond to legal questions from users every day. We answer common CAN SPAM inquiries, like “Why does my mailing address have to appear on campaigns?” We also see questions about our practices and policies, like “How long is data retained?” and “Where are your servers located?” and “Why is my industry or content prohibited?”
+We respond to legal questions from users every day. We answer common CAN-SPAM inquiries, like “Why does my mailing address have to appear on campaigns?” We also see questions about our practices and policies, like “How long is data retained?” and “Where are your servers located?” and “Why is my industry or content prohibited?”
 
 Our support team handles the majority of user communications. If a user raises a legal issue, a support agent will send the proposed reply to the legal team for review. Users may also contact the legal team directly.
 
