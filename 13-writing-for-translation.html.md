@@ -39,8 +39,8 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 #### Repeat verbs that have multiple subjects.
 
-  - Yes: Customers who have ordered online can pick-up their food at the cashier. Walk-in customers should stop by the cashier to order their food.
-  - No: Customers who have ordered online or who are walk-ins should stop at the cashier to order or pick-up their food.
+  - Yes: Customers who have ordered online can pick up their food at the cashier. Walk-in customers should stop by the cashier to order their food.
+  - No: Customers who have ordered online or who are walk-ins should stop at the cashier to order or pick up their food.
 
 #### Repeat helping verbs belonging to multiple verbs
 
@@ -72,7 +72,7 @@ Many words, parts of speech, and grammar mechanics we don’t think twice about 
 
 #### Avoid unclear pronoun references
 
-- Yes: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. Such action can actually cause high of rates abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
+- Yes: Many believe that buying a list of email addresses and sending to the list through MailChimp is OK. Such action can actually cause high of rates abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
 - No: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
 
 #### Avoid -ing words
@@ -111,15 +111,15 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 * Uncommon foreign words (use "genuine,” not “bona fide”)
 * Unnecessary abbreviations (use "for example,” not “e.g.”)
 * Converting one part of speech into another if it isn’t already commonly used (use "Send us an email” instead of “message us”)
-* Nonstandard or indirect verb usage (use “he says,” not “he’s like” or “he was all”)
+* Non-standard or indirect verb usage (use “he says,” not “he’s like” or “he was all”)
 * Double negatives
 * Synonyms, generally. Don't use a lot of different words for the same thing in a single piece of writing. Instead of mixing it up with “campaign,” “newsletter,” “bulletin,” etc., pick one term and stick with it.
 
 ### Beware words with multiple meanings
 
 **“Once”** (could mean “one time,” “after,” “in the past,” or “when”)
-- Yes: After you login, you will see your account’s Dashboard.
-- No: Once you login, you will see your account’s Dashboard.
+- Yes: After you log in, you will see your account’s Dashboard.
+- No: Once you log in, you will see your account’s Dashboard.
 
 **“Right”** (could mean “correct,” “the opposite of left,” “politically conservative,” etc.)
 
@@ -128,8 +128,8 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 
 **“Since”** (could refer to a point in time, or a synonym of “because”)
 
-- Yes: Because you already have a complete mailing list, you can send your campaign at anytime.
-- No: Since you already have complete mailing list, you can send your campaign at anytime.
+- Yes: Because you already have a complete mailing list, you can send your campaign at any time.
+- No: Since you already have complete mailing list, you can send your campaign at any time.
 
 **“Require” plus an infinitive** (could confuse the relationship between subject and object)
 
@@ -151,6 +151,6 @@ When writing for an international audience, use the metric system. Spell out all
 
 Many countries call their currency "the dollar," but the value is going to differ between countries. The US dollar is not the same as the Canadian dollar, for example. So it’s important to specify.
 
-Indicate currency by using its three-letter abbreviation, such as USD or CAD. Don’t use currency symbols, like $ or €. We would say 25 USD, not $25.
+Indicate currency by using its 3-letter abbreviation, such as USD or CAD. Don’t use currency symbols, like $ or €. We would say 25 USD, not $25.
 
 Avoid colloquial phrases that relate to money, like “five-and-dime,” “greenbacks,” or “c-notes.” These won’t translate well.
