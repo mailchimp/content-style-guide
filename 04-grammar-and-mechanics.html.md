@@ -78,7 +78,9 @@ Spell out a number when it begins a sentence. Otherwise, use the numeral. This i
 - Meg won 1st place in last year’s Walktober contest.
 - We hosted a group of 8th graders who are learning to code.
 
-Numbers over three digits get commas:
+(Sometimes it feels weird to use "1" instead of "one." Just go with your gut.) 
+
+Numbers over 3 digits get commas:
 
 - 999
 - 1,000
@@ -381,7 +383,7 @@ Don’t use underline formatting, and don’t use any combination of italic, bol
 
 Left-align text, never center or right-aligned.
 
-Leave one space between sentences, never two.
+Leave one space between sentences, never 2.
 
 ### Write positively
 
