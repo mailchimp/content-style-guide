@@ -51,6 +51,10 @@ When writing about a person, use their communicated pronouns. When in doubt, jus
 
 Use “deaf” as an adjective to describe a person with significant hearing loss. You can also use “partially deaf” or “hard of hearing.”
 
+### Heritage and nationality
+
+Don't use hyphens when referring to someone with dual heritage or nationality. For example, use "Asian American" instead of "Asian-American."
+
 ### Medical conditions
 
 Don’t refer to a person’s medical condition unless it’s relevant to what you’re writing.
