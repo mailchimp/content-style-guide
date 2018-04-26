@@ -24,7 +24,7 @@ Our writing for social media should generally follow the style points outlined i
 
 Some social media platforms have a character limit; others don’t. But for the most part, we keep our social media copy short.
 
-- Twitter: 125 characters or less (this leaves room for a manual retweet and comments)
+- Twitter: 280 characters.
 - Facebook: No limit, but aim for 1-2 short sentences.
 - Instagram: No limit, but try to keep it to 1 sentence or a short phrase. Feel free to throw in an emoji.
 
