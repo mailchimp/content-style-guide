@@ -3,7 +3,7 @@ title: Writing Technical Content
 layout: article
 ---
 
-At MailChimp, technical content is mostly written by the technical content team. It appears in the [Knowledge Base](http://kb.mailchimp.com), throughout the app, and in a few other locations. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+At MailChimp, technical content is mostly written by the technical content team. It appears in the [Knowledge Base](http://mailchimp.com/help/), throughout the app, and in a few other locations. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
 
 ## Basics
 
