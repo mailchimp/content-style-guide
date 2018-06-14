@@ -47,7 +47,7 @@ Make the next step clear. Whether you’re asking people to buy something, read 
 
 #### Footer
 
-All campaigns follow [CAN-SPAM rules](http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns). Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
+All campaigns follow [CAN-SPAM rules](https://mailchimp.com/help/terms-of-use-and-anti-spam-requirements/). Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
 
 ### Consider your perspective
 

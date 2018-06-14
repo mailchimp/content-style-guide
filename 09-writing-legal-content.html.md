@@ -39,9 +39,9 @@ All of our public legal documents, and any changes to those documents, are draft
 
 We also publish guides and technical articles about legal concepts that may affect our users. Here are some examples:
 
-- [Terms of Use and anti-spam requirements](http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns)
-- [About the Canada anti-spam law](http://kb.mailchimp.com/accounts/compliance-tips/about-the-canada-anti-spam-law-casl)
-- [Stay compliant with CASL](http://kb.mailchimp.com/lists/managing-subscribers/stay-compliant-with-casl)
+- [Terms of Use and anti-spam requirements](https://mailchimp.com/help/terms-of-use-and-anti-spam-requirements/)
+- [About the Canada anti-spam law](https://mailchimp.com/help/about-the-canada-anti-spam-law-casl/)
+- [Stay compliant with CASL](https://mailchimp.com/help/stay-compliant-with-casl/)
 
 The legal team performs periodic reviews of all marketing and technical content to make sure all related links and information is up to date.
 
