@@ -1,22 +1,17 @@
 ---
-title: Welcome to the MailChimp Content Style Guide
+title: Welcome to the Urbanist Architecture Content Style Guide
 layout: article
 ---
 
-This style guide was created for MailChimp employees, but we hope it’s helpful for other content and communications teams too.
+This style guide was created for Urbanist Architecture employees. It is based on MailChimp's open source style guide.
 
-## If you work at MailChimp
+## Brief Introduction
 
-This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for MailChimp.
+This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Urbanist Architecture.
 
-This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
+This guide goes beyond basic grammar and style points. It is also about tone of voice and brand.
 
 We’ve divided the guide by topic based on the types of content we publish, so you can reference it as needed or browse in order. The entire guide is searchable, so you can go straight to the item you’re looking for.
 
-## If you work at another organization
-
-We invite you to use and adapt this style guide as you see fit. It’s completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit MailChimp.
-
-We welcome any feedback for improving the guide.
 
 [MailChimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
