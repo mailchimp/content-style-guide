@@ -72,7 +72,7 @@ Many words, parts of speech, and grammar mechanics we don’t think twice about 
 
 #### Avoid unclear pronoun references
 
-- Yes: Many believe that buying a list of email addresses and sending to the list through MailChimp is OK. Such action can actually cause high of rates abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
+- Yes: Many believe that buying a list of email addresses and sending to the list through MailChimp is OK. Such action can actually cause high rates of abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
 - No: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
 
 #### Avoid -ing words
