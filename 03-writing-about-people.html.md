@@ -3,7 +3,7 @@ title: Writing About People
 layout: article
 ---
 
-We write the same way we build apps: with a person-first perspective. Whether you’re writing for an internal or external audience, it's important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make MailChimp a better place to work and a better steward of our values in the world. In this section we'll lay out some guidelines for writing about people with compassion, and share some resources for further learning.
+We write the same way we build apps: with a person-first perspective. Whether you’re writing for an internal or external audience, it's important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make Mailchimp a better place to work and a better steward of our values in the world. In this section we'll lay out some guidelines for writing about people with compassion, and share some resources for further learning.
 
 ### Age
 

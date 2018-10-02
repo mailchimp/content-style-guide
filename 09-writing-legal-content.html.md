@@ -3,15 +3,15 @@ title: Writing Legal Content
 layout: article
 ---
 
-MailChimp publishes many kinds of legal content to protect ourselves and our users around the world. Most of our legal content is written by the legal department with help from the communications team. This section gives a general overview of the types of legal content we publish and how those documents are written.
+Mailchimp publishes many kinds of legal content to protect ourselves and our users around the world. Most of our legal content is written by the legal department with help from the communications team. This section gives a general overview of the types of legal content we publish and how those documents are written.
 
 For information about laws that apply to non-legal content, see the [Copyright and trademark](/15-copyright-and-trademarks.html.md) section.
 
 ## Basics
 
-The way we write, review, and publish legal content is different than how we do many other kinds of writing at MailChimp. The most important difference is that all legal content either starts with or passes through the legal team.
+The way we write, review, and publish legal content is different than how we do many other kinds of writing at Mailchimp. The most important difference is that all legal content either starts with or passes through the legal team.
 
-But that doesn't mean legal content has to be difficult to read. We try to present our legal information in the most pleasant way possible. Our goals for MailChimp's legal content are:
+But that doesn't mean legal content has to be difficult to read. We try to present our legal information in the most pleasant way possible. Our goals for Mailchimp's legal content are:
 
 * **Accuracy.** Our first and foremost concern is that we present the correct information in a truthful way.
 * **Clarity.** We try to avoid legal jargon and overly formal wording. Our users need to understand the agreement they’re making with us.
@@ -31,7 +31,7 @@ We keep these in one place on our [legal page](http://mailchimp.com/legal/):
 * [API use policy](http://mailchimp.com/legal/api_use/)
 * [Copyright policy](http://mailchimp.com/legal/copyright/)
 
-These policies apply to all of MailChimp’s users. The legal and communication teams work together to make them as transparent and easy to read as possible. When someone signs up to use MailChimp, they must agree to all of those terms.
+These policies apply to all of Mailchimp’s users. The legal and communication teams work together to make them as transparent and easy to read as possible. When someone signs up to use Mailchimp, they must agree to all of those terms.
 
 All of our public legal documents, and any changes to those documents, are drafted by our in-house legal team. When new legal documents are published or edited, we notify all our users of the updates and provide a window for them to object before the new terms go into effect.
 
@@ -83,7 +83,7 @@ Some companies have complicated terms and write plain-language summaries so peop
 
 Using plain language for the terms you define up front can make legal documents easier to read. You’ve probably read contracts that say something like “The Corporation” or “The User” throughout, instead of “we” (meaning the company) and “you” (meaning the user who is agreeing to the terms). There’s a quick fix for that. At the beginning of the document, say something like:
 
-- MailChimp is owned and operated by The Rocket Science Group, LLC d/b/a MailChimp, a Georgia limited liability corporation (“MailChimp,” “we,” or “us”). As a user of the Service or a representative of an entity that’s a user of the Service, you're a “Member” according to this agreement (or “you”).
+- Mailchimp is owned and operated by The Rocket Science Group, LLC d/b/a Mailchimp, a Georgia limited liability corporation (“Mailchimp,” “we,” or “us”). As a user of the Service or a representative of an entity that’s a user of the Service, you're a “Member” according to this agreement (or “you”).
 
 After that, you’re free to use “we,” “us,” “you,” and “your” throughout the rest of the agreement. That simple change makes the document much friendlier to read.
 
@@ -93,4 +93,4 @@ We use contractions in many of our legal documents, which makes them sound more 
 
 #### Never offer legal advice
 
-While we want to inform our users about legal issues related to their use of MailChimp, we can’t offer them legal advice. Sometimes it’s a fine line. The legal department will check for this in their content review.
+While we want to inform our users about legal issues related to their use of Mailchimp, we can’t offer them legal advice. Sometimes it’s a fine line. The legal department will check for this in their content review.
