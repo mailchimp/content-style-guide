@@ -47,4 +47,4 @@ Here are a few key elements of writing Mailchimp’s voice. For more, see the [G
 
 ## A note about Freddie
 
-Freddie has been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [brand assets](http://mailchimp.com/about/brand-assets/).
+Freddie has been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [brand assets](https://mailchimp.com/about/brand-assets/).

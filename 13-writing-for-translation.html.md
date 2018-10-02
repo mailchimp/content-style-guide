@@ -3,7 +3,7 @@ title: Writing for Translation
 layout: article
 ---
 
-MailChimp serves millions of users in hundreds of countries and territories, not just the United States. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
+Mailchimp serves millions of users in hundreds of countries and territories, not just the United States. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
 
 We call the process of writing copy for translation “internationalization.” This section will address things you can do to help international audiences, including translators, better comprehend your text.
 
@@ -27,7 +27,7 @@ When writing for international audiences, we generally follow what's outlined in
 
 ### Consider cultural differences
 
-MailChimp’s voice is conversational and informal. However, in some cultures, informal text may be considered offensive. Check with your translator to see if this is the case for the particular language you’re writing for.
+Mailchimp’s voice is conversational and informal. However, in some cultures, informal text may be considered offensive. Check with your translator to see if this is the case for the particular language you’re writing for.
 
 The translation company should give the option to translate in a formal or informal tone, if the language allows for it. (For example, in Spanish, it is possible to write informally where tú = you or formally where usted = you.)
 
@@ -44,23 +44,23 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 #### Repeat helping verbs belonging to multiple verbs
 
-  - Yes: MailChimp can send your campaign on the fly or can schedule your campaign to go out at a set time.
-  - No: MailChimp can send your campaign on the fly or schedule your campaign to go out at a set time.
+  - Yes: Mailchimp can send your campaign on the fly or can schedule your campaign to go out at a set time.
+  - No: Mailchimp can send your campaign on the fly or schedule your campaign to go out at a set time.
 
 #### Repeat subjects and verbs
 
-  - Yes: Mandrill sends transactional emails, but MailChimp does not.
-  - No: Mandrill sends transactional emails, but not MailChimp.
+  - Yes: Mandrill sends transactional emails, but Mailchimp does not.
+  - No: Mandrill sends transactional emails, but not Mailchimp.
 
 #### Repeat markers in a list or series
 
-  - Yes: Use MailChimp to send email campaigns, to manage your mailing lists, and to integrate with other applications.
-  - No: Use MailChimp to send email campaigns, manage your mailing lists, and integrate with other applications.
+  - Yes: Use Mailchimp to send email campaigns, to manage your mailing lists, and to integrate with other applications.
+  - No: Use Mailchimp to send email campaigns, manage your mailing lists, and integrate with other applications.
 
 #### Leave in words like “then,” “a,” “the,” “to,” and “that," even if you think they could be cut
 
-- Yes: If there is not a list set up in your MailChimp account, then you’ll need to create a list before sending your first campaign.
-- No: If there is not a list set up in your MailChimp account, you’ll need to create a list before sending your first campaign.
+- Yes: If there is not a list set up in your Mailchimp account, then you’ll need to create a list before sending your first campaign.
+- No: If there is not a list set up in your Mailchimp account, you’ll need to create a list before sending your first campaign.
 - Yes: When sending a campaign, it is necessary to have a “From:” name, a “From:” address, and a subject line.
 - No: When sending a campaign, it is necessary to have a “From:” name, “From:” address, and subject line.
 - Yes: Be sure that you are truly ready to send your campaign before clicking the “Send Now” button.
@@ -72,8 +72,8 @@ Many words, parts of speech, and grammar mechanics we don’t think twice about 
 
 #### Avoid unclear pronoun references
 
-- Yes: Many believe that buying a list of email addresses and sending to the list through MailChimp is OK. Such action can actually cause high rates of abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
-- No: Many believe that buying a list of email addresses and sending to the list through MailChimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
+- Yes: Many believe that buying a list of email addresses and sending to the list through Mailchimp is OK. Such action can actually cause high rates of abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
+- No: Many believe that buying a list of email addresses and sending to the list through Mailchimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
 
 #### Avoid -ing words
 

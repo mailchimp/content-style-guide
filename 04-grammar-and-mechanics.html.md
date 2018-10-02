@@ -150,7 +150,7 @@ Use a hyphen between times to indicate a time period. 
 
 - 7am-10:30pm
 
-Specify time zones when writing about an event or something else people would need to schedule. Since MailChimp is in Atlanta, we default to ET.
+Specify time zones when writing about an event or something else people would need to schedule. Since Mailchimp is in Atlanta, we default to ET.
 
 Abbreviate time zones within the continental United States as follows:
 
@@ -298,7 +298,7 @@ For more on writing about gender, see [Writing about people](/03-writing-about-p
 
 When quoting someone in a blog post or other publication, use the present tense.
 
-- “Using MailChimp has helped our business grow,” says Jamie Smith.
+- “Using Mailchimp has helped our business grow,” says Jamie Smith.
 
 #### Names and titles
 
@@ -337,18 +337,18 @@ Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-#### Writing about MailChimp
+#### Writing about Mailchimp
 
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "MailChimp." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "MailChimp."
+Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "Mailchimp." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "Mailchimp."
 
-Always capitalize the first “M” and the “C” in MailChimp.
+Always capitalize the first “M” and lowercase the “c” in Mailchimp.
 
-Refer to MailChimp as “we,” not “it.”
+Refer to Mailchimp as “we,” not “it.”
 
-Capitalize the proper names of MailChimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "MailChimp" in the name on first mention.
+Capitalize the proper names of Mailchimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "Mailchimp" in the name on first mention.
 
-- MailChimp Pro
-- MailChimp Snap
+- Mailchimp Pro
+- Mailchimp Snap
 - Look What You Can Do
 
 #### Writing about other companies
@@ -365,7 +365,7 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- MailChimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
+- Mailchimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
@@ -374,7 +374,7 @@ Use italics to indicate the title of a long work (like a book, movie, or album) 
 - *Dunston Checks In*
 - Brandon *really* loves *Dunston Checks In*.
 
-Use italics when citing an example of an in-app MailChimp element, or referencing button and navigation labels in step-by-step instructions:
+Use italics when citing an example of an in-app Mailchimp element, or referencing button and navigation labels in step-by-step instructions:
 
 - When you're all done, click *Send*.
 - The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.

@@ -7,12 +7,12 @@ We send a lot of email ourselves, and we follow our own best practices to set an
 
 ## Basics
 
-Our email newsletters help empower and inform MailChimp users. Here are the most common types of content we send by email:
+Our email newsletters help empower and inform Mailchimp users. Here are the most common types of content we send by email:
 
 - Product and feature announcements
 - Tips for getting the most out of existing products and features
 - Regular monthly newsletters
-- Automated series (Getting Started with MailChimp)
+- Automated series (Getting Started with Mailchimp)
 - Event invitations and information about online courses
 - System alerts about changes to functionality or scheduled maintenance
 - Internal newsletters
@@ -51,7 +51,7 @@ All campaigns follow [CAN-SPAM rules](https://mailchimp.com/help/terms-of-use-an
 
 ### Consider your perspective
 
-When sending an email newsletter from MailChimp, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
+When sending an email newsletter from Mailchimp, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
 
 ### Use a hierarchy
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.
