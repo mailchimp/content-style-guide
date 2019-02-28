@@ -1,22 +1,20 @@
 ---
-title: Welcome to the Mailchimp Content Style Guide
+title: Welcome to the Mews UX Writing Style Guide
 layout: article
 ---
 
-This style guide was created for Mailchimp employees, but we hope it’s helpful for other content and communications teams too.
+This style guide was created for Mews employees, but we hope it’s helpful for other organizations that may have similar products or may produce similar content.
 
-## If you work at Mailchimp
+## For all our Mewsers
 
-This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Mailchimp.
+You've found the Mews Product and Technical style guide for UX Writing and Microcopy. It helps us write clear and consistent content across all Mews Products. Please use it as a reference when you’re writing any content for Mews products
 
-This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
+Ths guide starts at basic grammar and style points, but includes much more. It will additionally contain internal structure for organization, and detailed procedure for writing messages for all products, both B2B and B2C. Grammar is, of course, very important. However, the primary goal in our writing is clarity. 
 
-We’ve divided the guide by topic based on the types of content we publish, so you can reference it as needed or browse in order. The entire guide is searchable, so you can go straight to the item you’re looking for.
+We’ve divided the guide by topic, product type, and based on the types of content we publish, so you can reference it as needed or browse in order.
 
-## If you work at another organization
+## Kudos to Mailchimp
 
-We invite you to use and adapt this style guide as you see fit. It’s completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit Mailchimp.
+We have used and adapted this style guide based on the needs of Mews Systems and our teams, but the structure of this style guide was originally created by Mailchimp.
 
-We welcome any feedback for improving the guide.
-
-[Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
+The Mailchimp Style Guide is completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit Mailchimp. You can find the[Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
