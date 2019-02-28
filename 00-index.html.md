@@ -14,4 +14,4 @@ We’ve divided the guide by topic, product type, and based on the types of cont
 
 We have used and adapted this style guide based on the needs of Mews Systems and our teams, but the structure of this style guide was originally created by Mailchimp.
 
-The Mailchimp Style Guide is completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit Mailchimp. You can find the[Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
+The Mailchimp Style Guide is completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit Mailchimp. You can find the [Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
