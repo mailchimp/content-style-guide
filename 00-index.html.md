@@ -1,7 +1,4 @@
----
-title: Welcome to the Mews UX Writing Style Guide
-layout: article
----
+# Welcome to the Mews UX Writing Style Guide
 
 This style guide was created for Mews employees, but we hope it’s helpful for other organizations that may have similar products or may produce similar content.
 
