@@ -5,7 +5,7 @@ layout: article
 
 With every piece of content we publish, we aim to:
 
-* **Empower.** Help people feel free from the everyday tasks that keep their operations going. We want our users to understand how Mews can help by using language that informs them and encourages them to make the most of our products.
+* **Empower.** Help people understand how Mews can help by using language that informs them and encourages them to make the most of our products.
 
 * **Respect.** Treat readers with the respect they deserve. Put yourself in their shoes, and don’t patronize them. Remember that they have other things to do. Be considerate and inclusive. Don’t market at people; communicate with them.
 
