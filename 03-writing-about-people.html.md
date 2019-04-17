@@ -15,7 +15,7 @@ Don’t refer to people using age-related descriptors like “young,” “old,�
 
 ### Disability
 
-Don’t refer to a person’s disability unless it’s relevant to what you’re writing. If you need to mention it, use language that emphasizes the person first: ”she has a disability” rather than “she is disabled.”
+Avoid disability-related idioms like “lame” or “falling on deaf ears.” Don’t refer to a person’s disability unless it’s relevant to what you’re writing. If you need to mention it, ask whether your subject prefers person-first language (“they have a disability”) or identity-first language (“they are disabled”).
 
 When writing about a person with disabilities, don’t use the words “suffer,” “victim,” or “handicapped.” “Handicapped parking” is OK.
 
