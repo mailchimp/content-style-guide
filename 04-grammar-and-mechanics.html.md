@@ -71,14 +71,19 @@ Emoji are a fun way to add humor and visual interest to your writing, but use th
 
 ### Numbers
 
-Spell out a number when it begins a sentence. Otherwise, use the numeral. This includes ordinals, too.
+Spell out a number when it begins a sentence. Otherwise, use the numeral. This includes ordinals.
 
 - Ten new employees started on Monday, and 12 start next week.
 - I ate 3 donuts at Coffee Hour.
 - Meg won 1st place in last year’s Walktober contest.
 - We hosted a group of 8th graders who are learning to code.
 
-(Sometimes it feels weird to use "1" instead of "one." Just go with your gut.) 
+Sometimes it feels weird to use the numeral. If it's an expression that typically uses spelled-out numbers, leave them that way.
+
+- A friendly welcome email can help you make a great first impression.
+- That is a third-party integration.
+- Put your best foot forward with the all-in-one Marketing Platform that grows with you.
+- After you send your newsletter, Freddie will give you a high-five.
 
 Numbers over 3 digits get commas:
 
