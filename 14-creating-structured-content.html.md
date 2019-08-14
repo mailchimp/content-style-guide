@@ -20,8 +20,6 @@ Consider using a template if:
 
 All educational content at Mailchimp relies heavily on content templates. We use templates for Knowledge Base articles, Integration Directory descriptions, marketing guides, and more.
 
-Find all of our structured content templates in the [Resources section](/18-resources.html.md).
-
 ## Guidelines
 
 If you’re looking for a template for your structured content but can’t find one that meets your needs, you may want to create your own. There are 2 main ways to approach this.
