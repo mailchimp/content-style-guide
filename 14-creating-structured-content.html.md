@@ -48,5 +48,3 @@ If you like outlining before you write, that's a great way to start your templat
 You may prefer to write a draft first, then outline later based on how the parts fit together. Read your draft closely and identify the important elements or patterns you've used. Looking for things like introductions, sections with headings, tables, images, and other elements that aren’t topic-specific. Write them out and describe how they inform the meaning or usability of the piece.
 
 Create your template by listing out the elements you identify in your outline or draft. Consider each element and what it contributes to the meaning of the piece. Is its purpose important enough that every content of this type should include it? If so, make it part of your template.
-
-Our [template elements](/resources/02-template-elements.html.md) glossary includes sections and items you may want to include. If you create a template you feel should be included in this guide’s resources section, contact a manager on the technical content team (for user or API documentation) or the marketing team (for any other kind of content).
