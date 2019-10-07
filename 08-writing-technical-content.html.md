@@ -3,50 +3,41 @@ title: Writing Technical Content
 layout: article
 ---
 
-At Mailchimp, technical content is mostly written by the technical content team. It appears in the [Knowledge Base](http://mailchimp.com/help/), throughout the app, and in a few other locations. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+At Mailchimp, technical content appears primarily in our [guides and tutorials](https://mailchimp.com/help/). This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
 
 ## Basics
 
-Someone reading technical content is usually looking to answer a specific question. That question might be broad or narrowly-focused, but either way our goal is to provide answers without distraction.
+Someone reading technical content is usually looking to answer a specific question. That question might be broad or narrowly focused, but either way our goal is to provide answers without distraction.
 
 For each project, consider your audience’s background, goal, and current mood. Ask these questions:
 
 - Is the reader a prospective user, a new user, or an experienced user?
-- What is the goal of the reader? To complete a task? To research a topic?
-- Is the reader in the middle of a task? Are they in a hurry? Could they be frustrated?
+- What is the goal of the user? To complete a task? To research a topic?
+- Is the user in the middle of a task? Are they in a hurry? Could they be frustrated?
 
-We don’t want to overload a reader with unnecessary information, choices to make, or complex ideas or phrases, when we don’t have to. This is particularly critical when a user may be new and/or frustrated. When relevant, prime the reader with a brief outline of an article’s focus in an introductory paragraph or section, and stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
+We don’t want to overload our audience with unnecessary information, choices, or complex ideas or phrases when we don’t have to. This is particularly critical when a user may be new and/or frustrated. 
+
+When relevant, provide a brief outline of an article’s focus in an introductory paragraph or section, and stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
 
 ## Types of technical content
 
-Technical content articles vary in target audience, goal, and tone. Mailchimp technical content is built from 8 templates, which serve different purposes and readers.
+Technical content articles vary in target audience, goal, and tone. Mailchimp technical content is built from templates, which serve different purposes and readers. Templates should be considered guidelines and are not intended to be prescriptive. We may deviate from or combine elements of different templates to best serve the reader.
+
+Here are some examples of article templates we use. 
 
 | **Article Template** | **User Type**                  | **Goal**                                                                        |
 | -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
-| Best Practices       | all                            | **Context.** Make connections between Mailchimp and email marketing as a whole. |
-| Cheat Sheet          | intermediate, advanced         | **Reference.** Include all available scenarios.                                 |
-| Getting Started      | prospective, new               | **Overview.** Include brief outline of topic, uses, benefits, and related topics. Use links to best practices, cheat sheets, and feature overviews. |
-| Policy               | all                            | **Education.** Provide digestible information about critical legal policies and procedures. |
-| Pathfinder           | prospective, new, intermediate | **Orientation.** Bundle topics and provide links to relevant tutorials.         |
-| Troubleshooting      | new, intermediate, advanced    | **Support.** Outline expected behavior and include potential causes of unexpected behavior; group by cause or topic. |
-| Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task, provide a roadmap and pre-requisites, and clear step-by-step instructions. |
-| Warning              | new, intermediate, advanced    | **Assurance.** Outline warning type, explain why something happened, and include next steps for users. |
+| Pathfinder           | prospective, new, intermediate | **Orientation.** Bundle topics and provide links to relevant tutorials or general reference.         |
+| General Reference    | prospective, new, intermediate | **Introduction.** Provide a high-level explanation of what the feature is, how it works, and its benefit to the user. Include links to relevant tutorials.         |
+| Troubleshooting      | new, intermediate, advanced    | **Support.** Outline expected behavior and include potential causes of unexpected behavior. Group by cause or topic. |
+| Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task. Provide a roadmap and prerequisites, and clear step-by-step instructions. |
+
 
 ## Guidelines
 
-### Drafting technical content
-
-Before you begin writing a new article, reach out to a subject matter expert at Mailchimp (like an engineer, tester, designer, researcher, or technical support advisor) to get as much information as possible. You may only use a small portion of what you learn, but it helps to have more information than you need to decide where to focus your article.
-
-Consider how many articles are needed and what article types will best describe a new feature or tasks to the user.
-
-Outline your article, then write a draft. Stay in touch with your subject matter expert and revise as needed for accuracy, consistency, and length.
-
-When you’re happy with a draft, pass it to another technical writer for peer review. Then show it to a lead technical writer for additional review and revisions. For new content or highly complex content, send last draft to your subject matter expert for final approval.
-
 ### Writing technical content
 
-When writing technical content, follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some more general pointers, too.
+When writing technical content, follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some other goals and pointers to keep in mind.
 
 #### Stay relevant to the title
 
@@ -56,7 +47,7 @@ When a user clicks the title of an article, they expect to find the answer they 
 
 Focused users often scan an article for the part that will answer their particular question. Be sure headlines are short, descriptive, and parallel, to facilitate scanning.
 
-#### Use second-person and describe actions to a user
+#### Use second person and describe actions to a user
 
 Technical content talks to users when support agents can’t.
 
@@ -64,59 +55,34 @@ Technical content talks to users when support agents can’t.
 
 Be as clear as possible. Use simple words and phrases, avoid gerunds and hard-to-translate idioms or words, focus on the specific task, limit the number of sentences per paragraph. If you must include edge cases or tangentially related information, set it aside in a Before You Start list or Notes field.
 
-#### Provide context through embedded screenshots and GIFs
+#### Provide context through embedded screenshots, videos, and GIFs
 
-Screenshots and GIFs may not be necessary for every article or process, but can be helpful to orient new users. Crop screenshots tightly around the action to focus attention.
-
-### Editing technical content
-
-We edit technical content based on three goals:
-
-**Digestibility**
-
-- Cut or tighten redundancies, gerunds, adverbs, and passive constructions.
-- Use the simplest word.
-- Limit paragraphs to three sentences.
-
-**Consistency**
-
-- Use the labels and terminology used in the Mailchimp app.
-- Use specific, active verbs for certain tasks.
-- Choose basic words and phrases to facilitate consistency across translated content.
-
-**Helpfulness**
-
-- Stay conversational, using contractions when appropriate.
-- Avoid qualifiers that muddy meaning.
-- Express understanding when appropriate.
-- Craft clear transitions from section to section to orient the reader.
+Screenshots, videos, and GIFs may not be necessary for every article or process, but can be helpful to orient new users. Crop screenshots tightly around the action to focus attention.
 
 ### Formatting technical content
 
-Technical content uses organization, capitalization, and other formatting to help convey meaning. Although different articles are organized differently, some formatting tips are consistent throughout all technical content.
+Technical content uses organization, capitalization, and other formatting to help convey meaning. Although articles are organized differently, some formatting tips are consistent throughout all technical content.
 
 #### Capitalization
 
-Capitalize proper names of Mailchimp products, features, pages, tools, and team names when directly mentioned. In step-by-step instructions, capitalize and italicize navigation and button labels as they appear in the app.
+Capitalize proper names of Mailchimp products, features, pages, tools, and teams when directly mentioned. In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the app.
 
-- Mailchimp, Mandrill
-- Campaigns page, Lists page
+- Mailchimp
 - Compliance Team, Billing Team
-- Navigate to the *Automation* page.
-- Click *Save & Close*.
+- Navigate to the **Reports** page.
+- Click **Create**.
 
 #### Headings
 
-Group article content with H2s and H3s. Use H2s to organize content by higher-level topics or goals, and use H3s within each section to separate supporting information or tasks.
+Organize article content with H2s and H3s. Use H2s for higher-level topics or goals, and use H3s within each section for supporting information or tasks.
 
-- Upload a List
-  - Format your CSV File
-  - Import your CSV File
-  - Match Fields
-- Best Practices for Lists
-  - List Collection
-  - List Management
-  - Email Content and Delivery
+Article title: About Landing Pages 
+ - H2: How landing pages work in Mailchimp
+ - H2: How to use landing pages
+ - H2: Resources
+   - H3: Get inspired and learn best practices
+   - H3: Create a landing page
+   - H3: Learn about reports
 
 #### Ordered Lists
 
@@ -124,4 +90,4 @@ Only use ordered lists for step-by-step instructions. Separate steps into logica
 
 #### Unordered Lists
 
-Use unordered lists to display examples, or multiple notes in a Notes block. If an unordered list comprises more than 10 items, use a table instead.
+Use unordered lists to display examples or multiple notes. If an unordered list comprises more than 10 items, use a table instead.
