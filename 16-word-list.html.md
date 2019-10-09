@@ -41,6 +41,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - pay-per-click (PPC)
 - pop-up (noun, adjective), pop up (verb)
 - pre-sale
+- product-market fit
 - signup (noun, adjective), sign up (verb)
 - sync
 - third party (noun), third-party (adjective) 
