@@ -76,7 +76,8 @@ Capitalize proper names of Mailchimp products, features, pages, tools, and teams
 
 Organize article content with H2s and H3s. Use H2s for higher-level topics or goals, and use H3s within each section for supporting information or tasks.
 
-Article title: About Landing Pages 
+Article title: About Landing Pages
+
  - H2: How landing pages work in Mailchimp
  - H2: How to use landing pages
  - H2: Resources
