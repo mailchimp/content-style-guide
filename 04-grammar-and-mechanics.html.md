@@ -275,7 +275,7 @@ Don't use ampersands unless one is part of a company or brand name.
 - Ben and Dan
 - Ben & Jerry’s
 
-### People, Places, and Things
+### People, places, and things
 
 #### File extensions
 
