@@ -350,11 +350,14 @@ Always capitalize the first “M” and lowercase the “c” in Mailchimp.
 
 Refer to Mailchimp as “we,” not “it.”
 
-Capitalize the proper names of Mailchimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "Mailchimp" in the name on first mention.
+Capitalize branded terms, like Mailchimp Presents. We also capitalize pricing plan names (Premium, Standard, Essentials, and Free) to distinguish them from generic use of those adjectives.
 
-- Mailchimp Pro
-- Mailchimp Snap
-- Look What You Can Do
+Don’t capitalize descriptive product or feature names, like email or landing pages. 
+
+- Mandrill
+- templates
+- Mailchimp’s mobile app
+- Essentials plan
 
 #### Writing about other companies
 
