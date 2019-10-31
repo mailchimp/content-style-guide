@@ -8,7 +8,7 @@ Whether or not you work at Mailchimp, we welcome your thoughts and suggestions. 
 
 ## Using the Guide
 
-We've written a [blog post](http://devs.mailchimp.com/blog/how-we-built-the-mailchimp-content-style-guide/) and set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
+We've set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
 
 ## Creating a New File
 
