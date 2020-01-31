@@ -31,7 +31,7 @@ This is usually the company or team’s name. It identifies the sender in the re
 
 #### Subject line
 
-Keep your subject line descriptive. There's no perfect length, but some email clients display only the first words. Tell—don't sell—what's inside. Subject lines should be in title case. (Note that this is different from a headline, which you may want to include in the campaign itself.)
+Keep your subject line descriptive. There's no perfect length, but some email clients display only the first words. Tell—don't sell—what's inside. Subject lines should be in sentence case. (Note that this is different from a headline, which you may want to include in the campaign itself.)
 
 #### Preheader text
 
