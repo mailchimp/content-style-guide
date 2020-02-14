@@ -36,6 +36,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - multichannel
 - nonprofit
 - OK
+- omnichannel (use sparingly)
 - online (never capitalize unless it begins a sentence)
 - opt-in (noun, adjective) , opt in (verb)
 - pay-per-click (PPC)
