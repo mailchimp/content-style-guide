@@ -18,7 +18,7 @@ Consider using a template if:
 - Writers need to be able to create it quickly
 - You want to encourage repeat visits and familiarity with your content
 
-All educational content at Mailchimp relies heavily on content templates. We use templates for Knowledge Base articles, Integration Directory descriptions, marketing guides, and more.
+All educational content at Mailchimp relies heavily on content templates. We use templates for Technical Content, Integration Directory descriptions, marketing guides, and more.
 
 ## Guidelines
 
