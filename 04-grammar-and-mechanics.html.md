@@ -63,7 +63,7 @@ Don't capitalize random words in the middle of sentences. Here are some words th
 
 ### Contractions
 
-They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit. Avoid them if you're writing content that will be [translated for an international audience](/13-writing-for-translation.html.md).
+They’re great! They give your writing an informal, friendly tone. 
 
 ### Emoji
 
