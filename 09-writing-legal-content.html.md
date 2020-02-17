@@ -89,7 +89,7 @@ After that, you’re free to use “we,” “us,” “you,” and “your” t
 
 **Contractions**
 
-We use contractions in many of our legal documents, which makes them sound more human and flow better with the rest of our content. Contracting words doesn't affect the validity of an agreement. Following our [internationalization guidelines](/13-writing-for-translation.html.md), we avoid contractions if we're writing legal content that will be translated.
+We use contractions in many of our legal documents, which makes them sound more human and flow better with the rest of our content. Contracting words doesn't affect the validity of an agreement. 
 
 #### Never offer legal advice
 
