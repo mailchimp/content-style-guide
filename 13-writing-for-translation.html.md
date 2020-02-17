@@ -9,7 +9,7 @@ We call the process of writing copy for translation “internationalization.” 
 
 ## Basics
 
-Our [Knowledge Base](http://mailchimp.com/help/) is available to all users in English, Spanish, and French. Sometimes other pieces of content will be translated as well.
+Our [Technical Content](http://mailchimp.com/help/) is available to all users in English, Spanish, French, and Portuguese. Sometimes other pieces of content will be translated as well.
 
 We try to write all of our content in standard, straightforward English that can be understood by users with limited English proficiency. It's much easier for a translator to clearly communicate ideas written in straightforward, uncomplicated sentences.
 
