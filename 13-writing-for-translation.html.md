@@ -106,7 +106,6 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 #### Other words and mechanics to avoid
 
 * Slang, idioms, and cliches
-* Contractions (English contractions may not be recognizable to all translators)
 * Shortened words, even if they’re common in English (use “application,” not “app”)
 * Uncommon foreign words (use "genuine,” not “bona fide”)
 * Unnecessary abbreviations (use "for example,” not “e.g.”)
