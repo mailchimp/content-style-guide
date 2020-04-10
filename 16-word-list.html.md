@@ -2,6 +2,7 @@
 title: Word List
 layout: article
 ---
+## Standardized spellings
 
 These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).)
 
@@ -52,12 +53,31 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - website
 - WiFi
 
+## Words to use carefully
+We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you’re writing about marketing education and have have room to briefly define them.
+
+- buyer journey
+- conversion
+- customer journey
+- customer lifecycle
+- integrated marketing
+- lead generation
+- marketing funnel
+- multichannel marketing
+- omnichannel marketing
+- product-market fit
+- value proposition
+
 ## Words to avoid
 
 - automagical (we used to say this a lot, and we’re embarrassed about it)
-- funnel, incentivize, leverage, disruption, thought leader, or other fluffy corporate terms
+- funnel, incentivize, leverage, disruption, thought leader, learnings, or other fluffy corporate terms
 - internets, interwebs, or any other variation of the word “internet”
 - ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
 - young, old, elderly, or any other word describing a person's age
 -  crushing it, killing it
 -  crazy, insane, or similar words to describe people
+-  best-in-breed
+-  Silicon Valley cliches like rise and grind, or disruptor/disruption.
+-  activation (when referring to our presence at an event)
+
