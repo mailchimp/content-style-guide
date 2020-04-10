@@ -43,7 +43,7 @@ Words like “was” and “by” may indicate that you’re writing in passive 
 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
-- Your account was flagged by our abuse team.
+- Your account was flagged by our Abuse team.
 
 ### Capitalization
 
@@ -373,7 +373,7 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- Mailchimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
+- Mailchimp's Ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
