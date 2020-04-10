@@ -3,13 +3,13 @@ title: Writing Legal Content
 layout: article
 ---
 
-Mailchimp publishes many kinds of legal content to protect ourselves and our users around the world. Most of our legal content is written by the legal department with help from the communications team. This section gives a general overview of the types of legal content we publish and how those documents are written.
+Mailchimp publishes many kinds of legal content to protect ourselves and our users around the world. Most of our legal content is written by the Legal department with help from the Communications team. This section gives a general overview of the types of legal content we publish and how those documents are written.
 
 For information about laws that apply to non-legal content, see the [Copyright and trademark](/15-copyright-and-trademarks.html.md) section.
 
 ## Basics
 
-The way we write, review, and publish legal content is different than how we do many other kinds of writing at Mailchimp. The most important difference is that all legal content either starts with or passes through the legal team.
+The way we write, review, and publish legal content is different than how we do many other kinds of writing at Mailchimp. The most important difference is that all legal content either starts with or passes through the Legal team.
 
 But that doesn't mean legal content has to be difficult to read. We try to present our legal information in the most pleasant way possible. Our goals for Mailchimp's legal content are:
 
@@ -31,9 +31,9 @@ We keep these in one place on our [legal page](http://mailchimp.com/legal/):
 * [API use policy](http://mailchimp.com/legal/api_use/)
 * [Copyright policy](http://mailchimp.com/legal/copyright/)
 
-These policies apply to all of Mailchimp’s users. The legal and communication teams work together to make them as transparent and easy to read as possible. When someone signs up to use Mailchimp, they must agree to all of those terms.
+These policies apply to all of Mailchimp’s users. The Legal and Communication teams work together to make them as transparent and easy to read as possible. When someone signs up to use Mailchimp, they must agree to all of those terms.
 
-All of our public legal documents, and any changes to those documents, are drafted by our in-house legal team. When new legal documents are published or edited, we notify all our users of the updates and provide a window for them to object before the new terms go into effect.
+All of our public legal documents, and any changes to those documents, are drafted by our in-house Legal team. When new legal documents are published or edited, we notify all our users of the updates and provide a window for them to object before the new terms go into effect.
 
 ### Guides and articles about legal topics
 
@@ -43,13 +43,13 @@ We also publish guides and technical articles about legal concepts that may affe
 - [About the Canada anti-spam law](https://mailchimp.com/help/about-the-canada-anti-spam-law-casl/)
 - [Stay compliant with CASL](https://mailchimp.com/help/stay-compliant-with-casl/)
 
-The legal team performs periodic reviews of all marketing and technical content to make sure all related links and information is up to date.
+The Legal team performs periodic reviews of all marketing and technical content to make sure all related links and information is up to date.
 
 ### Customer service messages
 
 We respond to legal questions from users every day. We answer common CAN-SPAM inquiries, like “Why does my mailing address have to appear on campaigns?” We also see questions about our practices and policies, like “How long is data retained?” and “Where are your servers located?” and “Why is my industry or content prohibited?”
 
-Our support team handles the majority of user communications. If a user raises a legal issue, a support agent will send the proposed reply to the legal team for review. Users may also contact the legal team directly.
+Our Support team handles the majority of user communications. If a user raises a legal issue, a support agent will send the proposed reply to the Legal team for review. Users may also contact the Legal team directly.
 
 Common issues can be reviewed and sent by a paralegal or other legal staff member. More complex issues, or issues threatening litigation or criminal wrongdoing, will be drafted by a paralegal and then escalated to a lawyer for review.
 
@@ -57,7 +57,7 @@ Common issues can be reviewed and sent by a paralegal or other legal staff membe
 
 Occasionally we may have to publish communications about security, privacy, and other corporate issues. This could come in the form of an email to users, a blog post, a public statement, or a press release.
 
-The communications team works with the legal team to write and publish these documents, and the executive team reviews them.
+The Communications team works with the Legal team to write and publish these documents, and the executive team reviews them.
 
 ## Guidelines
 
