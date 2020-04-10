@@ -14,7 +14,7 @@ Mailchimp has a presence on most major social media platforms. Here are our most
 - [LinkedIn](http://linkedin.com/company/mailchimp): Product news, recruiting content, media mentions, evergreen content
 - [Instagram](http://instagram.com/mailchimp): Design outtakes, cool office visitors, life at Mailchimp, cool stuff we made
 
-These channels are all managed by the marketing team. We also have a few team-specific accounts on Twitter, Tumblr, Dribbble, and other platforms. The guidelines in this section apply to all of Mailchimp's channels.
+These channels are all managed by the Marketing team. We also have a few team-specific accounts on Twitter, Tumblr, Dribbble, and other platforms. The guidelines in this section apply to all of Mailchimp's channels.
 
 ## Guidelines
 
