@@ -49,8 +49,8 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 #### Repeat subjects and verbs
 
-  - Yes: Mandrill sends transactional emails, but Mailchimp does not.
-  - No: Mandrill sends transactional emails, but not Mailchimp.
+  - Yes: The Standard plan offers predicted demographics, but the Essentials plan does not. 
+  - No: The Standard plan offers predicted demographics, but not the Essentials plan. 
 
 #### Repeat markers in a list or series
 
