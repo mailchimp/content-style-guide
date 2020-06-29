@@ -354,7 +354,6 @@ Capitalize branded terms, like Mailchimp Presents. We also capitalize pricing pl
 
 Don’t capitalize descriptive product or feature names, like email or landing pages. 
 
-- Mandrill
 - templates
 - Mailchimp’s mobile app
 - Essentials plan
