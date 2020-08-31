@@ -1,14 +1,12 @@
-# Welcome to the Mailchimp Content Style Guide
+# Welcome to the strongDM Content Style Guide
 
-This style guide is primarily for Mailchimp employees, but we hope it’s helpful to other organizations as well.
+> This guide is a work in progress and is not currently in use in strongDM production content.
 
-If you're looking for the Mailchimp Content Style Guide website, visit [styleguide.mailchimp.com](http://styleguide.mailchimp.com).
+This style guide is primarily for strongDM employees, but we hope it's helpful to other organizations as well.
 
-Whether or not you work at Mailchimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
+This guide began as a fork of [Mailchimp's Content Style Guide](https://github.com/mailchimp/content-style-guide).
 
-## Using the Guide
-
-We've set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
+Whether or not you work at strongDM, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
 
 ## Creating a New File
 
