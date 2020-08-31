@@ -1,6 +1,10 @@
 # Welcome to the strongDM Content Style Guide
 
-> This guide is a work in progress and is not currently in use in strongDM production content.
+---
+
+## NOTE This guide is a work in progress and is not currently in use in strongDM production content
+
+---
 
 This style guide is primarily for strongDM employees, but we hope it is helpful to other organizations as well.
 
