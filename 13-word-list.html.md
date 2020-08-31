@@ -6,9 +6,9 @@ layout: article
 
 These words can be slippery. Here's how we write them. (If it is not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).)
 
-- add-on (noun, adjective), add on (verb)
-- back end (noun), back-end (adjective)
-- best seller (noun), best-selling (adjective)
+- addon (noun, adjective), add on (verb)
+- backend (noun), back-end (adjective)
+- bestseller (noun), best-selling (adjective)
 - beta
 - brick-and-mortar 
 - checkbox
@@ -16,7 +16,7 @@ These words can be slippery. Here's how we write them. (If it is not on this lis
 - click-through rate (CTR)
 - cost per click
 - double-click
-- drop-down (noun, adjective), drop down (verb)
+- dropdown (noun, adjective), drop down (verb)
 - e-commerce (the industry)
 - ePub
 - email (never hyphenate, never capitalize unless it begins a sentence)
@@ -26,22 +26,22 @@ These words can be slippery. Here's how we write them. (If it is not on this lis
   - Subject line
   - Cc, Bcc
 - emoji (singular and plural)
-- front end (noun), front-end (adjective)
+- frontend (noun), front-end (adjective)
 - geolocation
 - hashtag
 - homepage
 - integrate
 - internet (never capitalize unless it begins a sentence)
-- login (noun, adjective), log in (verb)
+- login (noun, adjective), log in (verb
 - Like (the social media activity)
 - multichannel
 - nonprofit
 - OK
 - omnichannel (use sparingly)
 - online (never capitalize unless it begins a sentence)
-- opt-in (noun, adjective) , opt in (verb)
+- opt-in (noun, adjective), opt in (verb)
 - pay-per-click (PPC)
-- pop-up (noun, adjective), pop up (verb)
+- popup (noun, adjective), pop up (verb)
 - pre-sale
 - product-market fit
 - signup (noun, adjective), sign up (verb)
@@ -53,31 +53,14 @@ These words can be slippery. Here's how we write them. (If it is not on this lis
 - website
 - WiFi
 
-## Words to use carefully
-We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you are writing about marketing education and have have room to briefly define them.
-
-- buyer journey
-- conversion
-- customer journey
-- customer lifecycle
-- integrated marketing
-- lead generation
-- marketing funnel
-- multichannel marketing
-- omnichannel marketing
-- product-market fit
-- value proposition
-
 ## Words to avoid
 
-- automagical (we used to say this a lot, and we're embarrassed about it)
 - funnel, incentivize, leverage, disruption, thought leader, learnings, or other fluffy corporate terms
 - internets, interwebs, or any other variation of the word "internet"
 - ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
 - young, old, elderly, or any other word describing a person's age
--  crushing it, killing it
--  crazy, insane, or similar words to describe people
--  best-in-breed
--  Silicon Valley cliches like rise and grind, or disruptor/disruption.
--  activation (when referring to our presence at an event)
-
+- crushing it, killing it
+- crazy, insane, or similar words to describe people
+- best-in-breed
+- Silicon Valley cliches like rise and grind, or disruptor/disruption.
+- activation (when referring to our presence at an event)

@@ -3,7 +3,7 @@ title: TL;DR
 layout: article
 ---
 
-The Mailchimp Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
+The Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
 
 ## Principles
 
@@ -16,7 +16,7 @@ Good content is:
 
 ## Voice and tone
 
-Mailchimp's voice is:
+strongDM's voice is:
 
 * Human
 * Familiar
@@ -29,7 +29,7 @@ Our priorities are to educate our users about our products without patronizing o
 
 ## Writing about people
 
-We write and build apps with a person-first perspective. Being aware of the impact of your language will help make Mailchimp a better place to work and a better steward of our values in the world.
+We write and build apps with a person-first perspective. Being aware of the impact of your language will help make strongDM a better place to work and a better steward of our values in the world.
 
 - Do not reference age or disability unless it is relevant to what you are writing.
 - Avoid gendered language and use the singular "they."
