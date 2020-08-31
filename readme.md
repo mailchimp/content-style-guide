@@ -2,7 +2,7 @@
 
 ---
 
-## NOTE This guide is a work in progress and is not currently in use in strongDM production content
+## NOTE: This guide is WIP and is not currently being consulted for strongDM content
 
 ---
 
