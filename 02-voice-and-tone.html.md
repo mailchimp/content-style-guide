@@ -3,48 +3,40 @@ title: Voice and Tone
 layout: article
 ---
 
-One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Mailchimp.
+One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to strongDM.
 
-What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you're out to dinner with your closest friends, and a different tone when you're in a meeting with your boss.
+What is the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you are out to dinner with your closest friends, and a different tone when you are in a meeting with your boss.
 
-Your tone also changes depending on the emotional state of the person you’re addressing. You wouldn’t want to use the same tone of voice with someone who’s scared or upset as you would with someone who’s laughing.
+Your tone also changes depending on the emotional state of the person you are addressing. You wouldn not want to use the same tone of voice with someone who is scared or upset as you would with someone who is laughing.
 
-The same is true for Mailchimp. Our voice doesn’t change much from day to day, but our tone changes all the time.
+The same is true for strongDM. Our voice does not change much from day to day, but our tone changes all the time.
 
 ## Voice
 
-At Mailchimp, we’ve walked in our customers' shoes, and we know marketing technology is a minefield of confusing terminology. That’s why we speak like the experienced and compassionate business partner we wish we’d had way back when. 
+At strongDM, we have walked in our customers' shoes, and we know that DevOps is a minefield of confusing terminology. That is why we speak like an experienced business partner, and not like a frilly sales pitch. 
 
-We treat every hopeful brand seriously. We want to educate people without patronizing or confusing them. 
+We treat every customer seriously. We want to educate people without patronizing or confusing them. 
 
-Using offbeat humor and a conversational voice, we play with language to bring joy to their work. We prefer the subtle over the noisy, the wry over the farcical. We don't take ourselves too seriously.
-
-Whether people know what they need from us or don’t know the first thing about marketing, every word we say informs and encourages. We impart our expertise with clarity, empathy, and wit. 
+Whether people know what they need from us or do not know the first thing about strongDM, every word we say informs and encourages. We impart our expertise with clarity, empathy, and wit. 
 
 All of this means that when we write copy:
 
-1. **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. Because businesses come to Mailchimp to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion. 
+1. **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. Because businesses come to strongDM to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion. We have a product that fills a need; you have the need. You do not need to be sold with pretty words, but rather impressed with what we can actually do.
 
-2. **We are genuine.** We get small businesses because we were one not too long ago. That means we relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way. 
+2. **We are genuine.** We get small businesses because we are one. That means we relate to customers' challenges and passions and speak to them in a familiar, warm, and accessible way. 
 
-3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify B2B-speak and actually educate.
-
-4. **Our humor is dry.** Our sense of humor is straight-faced, subtle, and a touch eccentric. We’re weird but not inappropriate, smart but not snobbish. We prefer winking to shouting. We’re never condescending or exclusive—we always bring our customers in on the joke.
+3. **We are translators.** Only experts can make what is difficult look easy, and it is our job to demystify and educate. We try not to inundate the customer with industry terminology, and when we must, we ensure that it is well-defined.
 
 ## Tone
 
-Mailchimp’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Once you have an idea of their emotional state, you can adjust your tone accordingly.
+strongDM's tone is usually informal, but it is always more important to be clear and to be understood than to be entertaining. When you are writing, consider the reader's state of mind. Are they relieved to be finished with a launch? Are they confused and seeking our help on Twitter? Once you have an idea of the potential emotional state of the reader of a piece of content, you can adjust your tone accordingly.
 
-Mailchimp has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
+strongDM has a sense of humor, so feel free to be funny when it is appropriate and when it comes naturally to you. But do not go out of your way to make a joke. Forced humor is worse than none at all. If you are unsure, keep a straight face.
 
 ## Style tips
 
-Here are a few key elements of writing Mailchimp’s voice. For more, see the [Grammar and mechanics section](/04-grammar-and-mechanics.html.md).
+Here are a few key elements of writing strongDM's voice. For more, see the [Grammar and mechanics section](/04-grammar-and-mechanics.html.md).
 
 * [**Active voice**](/04-grammar-and-mechanics.html.md/#header-3-active-voice) Use active voice. Avoid passive voice.
 * [**Avoid slang and jargon**](/04-grammar-and-mechanics.html.md/#header-3-slang-and-jargon) Write in plain English.
 * [**Write positively**](/04-grammar-and-mechanics.html.md/#header-3-write-positively) Use positive language rather than negative language.
-
-## A note about Freddie
-
-Freddie has been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [brand assets](https://mailchimp.com/about/brand-assets/).

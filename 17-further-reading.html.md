@@ -9,7 +9,7 @@ We love these style guides:
 [Buzzfeed Style Guide](http://www.buzzfeed.com/emmyf/buzzfeed-style-guide)  
 [A List Apart Style Guide](http://alistapart.com/about/style-guide)   
 
-If you’re working on your own style guide, these resources were helpful to us:
+If you are working on your own style guide, these resources were helpful to us:
 
 [Accessibility Cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)   
 [18F Accessibility Guide](https://18f.github.io/accessibility/index.html)   

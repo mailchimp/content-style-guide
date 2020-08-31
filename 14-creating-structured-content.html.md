@@ -22,7 +22,7 @@ All educational content at Mailchimp relies heavily on content templates. We use
 
 ## Guidelines
 
-If you’re looking for a template for your structured content but can’t find one that meets your needs, you may want to create your own. There are 2 main ways to approach this.
+If you are looking for a template for your structured content but cannot find one that meets your needs, you may want to create your own. There are 2 main ways to approach this.
 
 ### Use a model
 
@@ -37,12 +37,12 @@ Common elements in templates are:
 - Body content (which can usually be broken apart into smaller elements)
 - Additional links
 
-Keep in mind that the template has to be reusable, so it's best to focus on the high-level goal of the content type, rather than the message of a particular piece.
+Keep in mind that the template has to be reusable, so it is best to focus on the high-level goal of the content type, rather than the message of a particular piece.
 
 ### Start from scratch
 
-If you like outlining before you write, that's a great way to start your template. This will give you an early look at the elements you’ll include in your final template and will help organize your writing process.
+If you like outlining before you write, that's a great way to start your template. This will give you an early look at the elements you'll include in your final template and will help organize your writing process.
 
-You may prefer to write a draft first, then outline later based on how the parts fit together. Read your draft closely and identify the important elements or patterns you've used. Looking for things like introductions, sections with headings, tables, images, and other elements that aren’t topic-specific. Write them out and describe how they inform the meaning or usability of the piece.
+You may prefer to write a draft first, then outline later based on how the parts fit together. Read your draft closely and identify the important elements or patterns you've used. Looking for things like introductions, sections with headings, tables, images, and other elements that aren't topic-specific. Write them out and describe how they inform the meaning or usability of the piece.
 
 Create your template by listing out the elements you identify in your outline or draft. Consider each element and what it contributes to the meaning of the piece. Is its purpose important enough that every content of this type should include it? If so, make it part of your template.

@@ -3,7 +3,7 @@ title: Writing for Accessibility
 layout: article
 ---
 
-We’re always working to make our content more accessible and usable to the widest possible audience. Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page. Depending on the audience and country, there may be laws governing the level of accessibility required. At minimum, an accessible version should be available. Accessibility includes users of all mental and physical capacities, whether situational (broken glasses!) or more permanent.
+We're always working to make our content more accessible and usable to the widest possible audience. Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page. Depending on the audience and country, there may be laws governing the level of accessibility required. At minimum, an accessible version should be available. Accessibility includes users of all mental and physical capacities, whether situational (broken glasses!) or more permanent.
 
 ## Basics
 
@@ -11,9 +11,9 @@ We write for a diverse audience of readers who all interact with our content in 
 
 As you write, consider the following:
 
-- Would this language make sense to someone who doesn’t work here?
+- Would this language make sense to someone who doesn't work here?
 - Could someone quickly scan this document and understand the material?
-- If someone can’t see the colors, images or video, is the message still clear?
+- If someone cannot see the colors, images or video, is the message still clear?
 - Is the markup clean and structured?
 - Mobile devices with accessibility features are increasingly becoming core communication tools, does this work well on them?
 
@@ -25,8 +25,8 @@ Many of the best practices for writing for accessibility echo those for [writing
 
 Avoid directional instructions and any language that requires the reader to see the layout or design of the page. This is helpful for many reasons, including layout changes on mobile.
 
-- Yes: “Select from these options,” (with the steps listed after the title)
-- No: “Select from the options in the right sidebar.”
+- Yes: "Select from these options," (with the steps listed after the title)
+- No: "Select from the options in the right sidebar."
 
 ### Use headers
 
@@ -46,7 +46,7 @@ Label inputs with clear names, and use appropriate tags. Think carefully about w
 
 ### Use descriptive links
 
-Links should provide information on the associated action or destination. Try to avoid “click here” or “learn more.”
+Links should provide information on the associated action or destination. Try to avoid "click here" or "learn more."
 
 ### Use plain language
 
@@ -56,9 +56,9 @@ Write short sentences and use familiar words. Avoid jargon and slang. If you nee
 
 The alt tag is the most basic form of image description, and it should be included on all images. The language will depend on the purpose of the image:
 
-- If it’s a creative photo or supports a story, describe the image in detail in a brief caption.
-- If the image is serving a specific function, describe what’s inside the image in detail. People who don’t see the image should come away with the same information as if they had.
-- If you’re sharing a chart or graph, include the data in the alt text so people have all the important information.
+- If it is a creative photo or supports a story, describe the image in detail in a brief caption.
+- If the image is serving a specific function, describe what's inside the image in detail. People who do not see the image should come away with the same information as if they had.
+- If you are sharing a chart or graph, include the data in the alt text so people have all the important information.
 
 Each browser handles alt tags differently. Supplement images with standard captions when possible.
 

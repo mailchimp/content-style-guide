@@ -2,7 +2,7 @@
 
 > This guide is a work in progress and is not currently in use in strongDM production content.
 
-This style guide is primarily for strongDM employees, but we hope it's helpful to other organizations as well.
+This style guide is primarily for strongDM employees, but we hope it is helpful to other organizations as well.
 
 This guide began as a fork of [Mailchimp's Content Style Guide](https://github.com/mailchimp/content-style-guide).
 
@@ -20,7 +20,7 @@ Markdown is handy because you can write your content without HTML tags. Here are
 
 ### Line Breaks
 
-If you want a line to break to the next line but don’t want to start a new paragraph, end the line with two spaces. This will render a `<br>` tag.
+If you want a line to break to the next line but do not want to start a new paragraph, end the line with two spaces. This will render a `<br>` tag.
 
 ### Widows
 

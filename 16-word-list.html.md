@@ -4,7 +4,7 @@ layout: article
 ---
 ## Standardized spellings
 
-These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).)
+These words can be slippery. Here's how we write them. (If it is not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).)
 
 - add-on (noun, adjective), add on (verb)
 - back end (noun), back-end (adjective)
@@ -54,7 +54,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - WiFi
 
 ## Words to use carefully
-We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you’re writing about marketing education and have have room to briefly define them.
+We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you are writing about marketing education and have have room to briefly define them.
 
 - buyer journey
 - conversion
@@ -70,9 +70,9 @@ We use plain language, which means avoiding industry jargon. But some jargon-adj
 
 ## Words to avoid
 
-- automagical (we used to say this a lot, and we’re embarrassed about it)
+- automagical (we used to say this a lot, and we're embarrassed about it)
 - funnel, incentivize, leverage, disruption, thought leader, learnings, or other fluffy corporate terms
-- internets, interwebs, or any other variation of the word “internet”
+- internets, interwebs, or any other variation of the word "internet"
 - ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
 - young, old, elderly, or any other word describing a person's age
 -  crushing it, killing it

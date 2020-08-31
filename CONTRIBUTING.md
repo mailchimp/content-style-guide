@@ -12,4 +12,4 @@ We welcome your feedback. To send us your suggestions, submit an issue in GitHub
 
 ### Creating Your Own Style Guide
 
-Feel free to fork the strongDM Content Style Guide to make your own. It’s available under a Creative Commons Attribution-NonCommercial 4.0 International License. We can’t wait to see what you do with it!
+Feel free to fork the strongDM Content Style Guide to make your own. It is available under a Creative Commons Attribution-NonCommercial 4.0 International License. We cannot wait to see what you do with it!
