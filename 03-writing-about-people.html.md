@@ -75,6 +75,10 @@ Don’t refer to a person’s mental or cognitive condition unless it’s releva
 
 Don’t describe a person as “mentally ill.” If a reference to a person’s mental or cognitive condition is warranted, use the same rules as writing about people with physical disabilities or medical conditions and emphasize the person first.
 
+### Race
+
+At Mailchimp, when we write about a culture or ethnicity, we capitalize the name. For example, we capitalize Black as it refers to Americans in the African diaspora while we keep white lowercase since white refers to the color of a person’s skin and not a group of people.
+
 ### Vision
 
 Use the adjective “blind” to describe a person who is unable to see. Use “low vision” to describe a person with limited vision.

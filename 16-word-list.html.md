@@ -58,7 +58,6 @@ We use plain language, which means avoiding industry jargon. But some jargon-adj
 
 - buyer journey
 - conversion
-- customer journey
 - customer lifecycle
 - integrated marketing
 - lead generation
