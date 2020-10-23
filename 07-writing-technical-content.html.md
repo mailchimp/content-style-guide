@@ -55,12 +55,16 @@ Technical content uses organization, capitalization, and other formatting to hel
 
 #### Headings
 
-Organize article content with H2s and H3s. Use H2s for higher-level topics or goals, and use H3s within each section for supporting information or tasks. Use sentence case for all headings other than H1 titles. Avoid the use of gerunds when starting headings where possible. As previously stated, you should be addressing the user. "Creating a gateway" is ambiguous. "Create a gateway" is an action, an instruction, and is addressed to the user.
+Organize article content with H2s and H3s. Use H2s for higher-level topics or goals, and use H3s within each section for supporting information or tasks. 
+
+* Use sentence case for all headings other than H1 titles.
+Avoid the use of gerunds when starting headings where possible. As previously stated, you should be addressing the user. "Creating a gateway" is ambiguous. "Create a gateway" is an action, an instruction, and is addressed to the user.
+* Refrain from the use of symbols (code markers, carets, brackets) in headings, and where possible, refrain from the use of any punctuation markings at all.
 
 #### Ordered Lists
 
-Only use ordered lists for step-by-step instructions. Separate steps into logical chunks, with no more than two related actions per step. When additional explanation or a screenshot is necessary, use a line break inside the list item.
+Only use ordered lists for step-by-step instructions. Separate steps into logical chunks, with no more than two related actions per step. When additional explanation or a screenshot is necessary, use a line break inside the list item. The line items should each follow on the subsequent line, and not have extraneous newlines between them. Ordered lists, in Markdown, should use the 1. 1. 1. formatting so that the numbers are generated on build.
 
 #### Unordered Lists
 
-Use unordered lists to display examples or multiple notes. If an unordered list comprises more than 10 items, use a table instead.
+Use unordered lists to display examples or multiple notes. If an unordered list comprises more than 10 items, use a table instead. The line items should each follow on the subsequent line, and not have extraneous newlines between them.
