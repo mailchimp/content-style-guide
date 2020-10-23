@@ -63,7 +63,7 @@ Do not capitalize random words in the middle of sentences. Here are some words t
 
 ### Contractions
 
-Generally avoid them, as they can create an atmosphere that is slightly too conversational, but this is a situational guideline.
+Guidance here is situational. In most cases, contractions are more in line with common speech, and provide a conversational atmosphere with little negative connotation. However, if the situation feels too informal or is more complicated by the use of a contraction, don't use it.
 
 ### Numbers
 
