@@ -28,7 +28,7 @@ If there is a chance your reader will not recognize an abbreviation or acronym, 
 - First use: Coordinated Universal Time (UTC)
 - Second use: UTC
 
-If the abbreviation or acronym is an extremely well-known industry term, like API or HTML, use it instead (and do not worry about spelling it out).
+If the abbreviation or acronym is an extremely well-known industry term, like API or HTML, use it instead (and do not worry about expanding it). But when in doubt, spell it out.
 
 ### Active voice
 
@@ -47,14 +47,14 @@ One exception is when you want to specifically emphasize the action over the sub
 
 ### Capitalization
 
-We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
+We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word. Typically, we use title case for document titles, and sentence case for other headings.
 
 When writing out an email address or website URL, use all lowercase.
 
 - example@strongdm.com
 - strongdm.com
 
-Do not capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
+Do not capitalize random words in the middle of sentences. Here are some words are often found capitalized in writing that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
 
 - website
 - internet
@@ -63,7 +63,7 @@ Do not capitalize random words in the middle of sentences. Here are some words t
 
 ### Contractions
 
-Guidance here is situational. In most cases, contractions are more in line with common speech, and provide a conversational atmosphere with little negative connotation. However, if the situation feels too informal or is more complicated by the use of a contraction, don't use it.
+Guidance on contractions is situational. In most cases, contractions are more in line with common speech, and provide a conversational atmosphere with little negative connotation. However, if the situation feels too informal or is more complicated by the use of a contraction, don't use it.
 
 ### Numbers
 
@@ -219,7 +219,7 @@ Ellipses (...) can be used to indicate that you are trailing off before the end 
 
 - "Where did all those donuts go?" Christy asked. Lain said, "I do not know..."
 
-Ellipses, in brackets, can also be used to show that you are omitting words in a quote.
+Ellipses, in brackets, can also be used to show that you are omitting words in a quote. This is the only use of ellipses that you would normally see in professional or technical writing.
 
 - "When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, [...] a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
 
@@ -281,7 +281,7 @@ When referring generally to a file extension type, use all uppercase without a p
 When referring to a specific file, the filename should be lowercase:
 
 - slowclap.gif
-- MCBenefits.pdf
+- mcbenefits.pdf
 - ben-twitter-profile.jpg
 - ilovedonuts.html
 
@@ -360,7 +360,7 @@ Refer to a company or product as "it" (not "they").
 
 ### Slang and jargon
 
-Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
+Write in plain English. If you need to use a technical term that could potentially be unknown to your audience, briefly define it so everyone can understand.
 
 - Next, add a datasource in the admin UI. A datasource is the entity in strongDM that is a combination of a database and the credentials used for it.
 
