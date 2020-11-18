@@ -44,17 +44,14 @@ Only request information that we need and intend to use. Don’t ask for informa
 
 ### Headings and subheadings
 
-Headings and subheadings organize content for readers. Be generous and descriptive.
+Headings and subheadings organize content for readers. They should include the most relevant keywords and cover/highlight the main point(s) of the page.
 
-Headings (H1) give people a taste of what they’re about to read. Use them for page and blog titles.
+Headings are written in title case. Avoid using end punctuation within headings except for questions marks or when a heading is two or more sentences.
 
-Subheadings (H2, H3, etc.) break articles into smaller, more specific sections. They give readers avenues into your content and make it more scannable.
+Organize headings and subheadings hierarchically, with headings first, followed by subheadings in order.. (An H2 will nestle under H1, an H3 under H2, and on down.)
 
-Headings and subheadings should be organized in a hierarchy, with heading first, followed by subheadings in order. (An H2 will nestle under H1, an H3 under H2, and on down.)
-
-Include the most relevant keywords in your headings and subheadings, and make sure you cover the main point of the content.
-
-Use title case, unless the heading is a punctuated sentence. If the heading is a punctuated sentence, use sentence case. Use sentence case for subheadings regardless of end punctuation.
+- Headings (H1) give people a taste of what they’re about to read. Use them for page and blog titles.
+- Subheadings (H2, H3, etc.) break articles into smaller, more specific sections. They give readers avenues into your content and make it more scannable.
 
 ### Links
 
@@ -97,11 +94,9 @@ If you can, avoid repeating links from the body text in related articles.
 
 ### Titles
 
-Titles organize pages and guide readers. A title appears at the beginning of a page or section and briefly describes the content that follows.
+Titles organize pages and guide readers. A title appears at the beginning of a page or section and briefly describes the content that follows. Titles also tell search engines what a page is about, and show up in search results.
 
-Titles are (you guessed it) in title case.
-
-Don’t use punctuation in a title unless the title is a question.
+Titles are written (you guessed it) in title case. Don’t use end punctuation in a title unless the title is a question.
 
 ## SEO
 
