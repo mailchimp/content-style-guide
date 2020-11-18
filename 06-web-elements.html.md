@@ -40,7 +40,7 @@ Use title case for form titles and sentence case for form fields.
 
 Keep forms as short as possible.
 
-Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender. If you need to ask for gender, provide a field the user can fill in on their own, not a drop-down menu. 
+Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender. If you need to ask for gender, provide a field the user can fill in on their own, not a drop-down menu.
 
 ### Headings and subheadings
 
@@ -73,7 +73,7 @@ Links should look different than regular copy, strong text, or emphasis text. Th
 
 ### Lists
 
-Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter. 
+Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter.
 
 If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don’t use punctuation, but do capitalize the first word of each item.
 
@@ -107,8 +107,6 @@ Don’t use punctuation in a title unless the title is a question.
 
 We write for humans, not machines. We don't use gross SEO techniques like keyword stuffing to bump search results. But we also want to make it easy for people and search engines to find and share our content. Here are some not-icky ways to do this:
 
-* Organize your page around one topic. Use clear, descriptive terms in titles and headings that relate to the topic at hand.
-
-* Use descriptive headings to structure your page and highlight important information.
-
-* Give every image descriptive alt text.
+- Organize your page around one topic. Use clear, descriptive terms in titles and headings that relate to the topic at hand.
+- Use descriptive headings to structure your page and highlight important information.
+- Give every image descriptive alt text.
