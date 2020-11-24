@@ -54,7 +54,8 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - WiFi
 
 ## Words to use carefully
-We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you’re writing about marketing education and have have room to briefly define them.
+
+We use plain language, which means avoiding industry jargon. But some jargon-adjacent words can be appropriate in educational contexts. Only use these if you’re writing about marketing education and have room to briefly define them.
 
 - buyer journey
 - conversion
