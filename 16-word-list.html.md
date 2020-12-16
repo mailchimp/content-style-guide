@@ -2,6 +2,7 @@
 title: Word List
 layout: article
 ---
+
 ## Standardized spellings
 
 These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).)
@@ -10,7 +11,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - back end (noun), back-end (adjective)
 - best seller (noun), best-selling (adjective)
 - beta
-- brick-and-mortar 
+- brick-and-mortar
 - checkbox
 - coworker
 - click-through rate (CTR)
@@ -46,7 +47,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 - product-market fit
 - signup (noun, adjective), sign up (verb)
 - sync
-- third party (noun), third-party (adjective) 
+- third party (noun), third-party (adjective)
 - tweet, retweet
 - username
 - URL
@@ -75,9 +76,8 @@ We use plain language, which means avoiding industry jargon. But some jargon-adj
 - internets, interwebs, or any other variation of the word “internet”
 - ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
 - young, old, elderly, or any other word describing a person's age
--  crushing it, killing it
--  crazy, insane, or similar words to describe people
--  best-in-breed
--  Silicon Valley cliches like rise and grind, or disruptor/disruption.
--  activation (when referring to our presence at an event)
-
+- crushing it, killing it
+- crazy, insane, or similar words to describe people
+- best-in-breed
+- Silicon Valley cliches like rise and grind, or disruptor/disruption.
+- activation (when referring to our presence at an event)
