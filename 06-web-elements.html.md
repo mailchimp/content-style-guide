@@ -46,7 +46,7 @@ Only request information that we need and intend to use. Don’t ask for informa
 
 Headings and subheadings organize content for readers. They should include the most relevant keywords and cover/highlight the main point(s) of the page.
 
-Headings are written in title case. Avoid using end punctuation within headings except for questions marks or when a heading is two or more sentences.
+Headings and subheadings are written in sentence case. Avoid using end punctuation except for question marks or when a heading is two or more sentences.
 
 Organize headings and subheadings hierarchically, with headings first, followed by subheadings in order.. (An H2 will nestle under H1, an H3 under H2, and on down.)
 
