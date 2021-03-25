@@ -6,7 +6,7 @@
 
 ---
 
-This style guide is primarily for strongDM employees, but we hope it is helpful to other organizations as well.
+This style guide is primarily for strongDM employees who work on the strongDM documentation, but we hope it is helpful to other organizations as well.
 
 This guide began as a fork of [Mailchimp's Content Style Guide](https://github.com/mailchimp/content-style-guide).
 
