@@ -3,6 +3,8 @@ title: Writing About People
 layout: article
 ---
 
+> Specific people do not come up often in the documentation world, but we are writers, who write content and represent a company, and it is a good thing to be aware of how to refer to people when and if the need arises, in or out of the docs.
+
 We write the same way we build apps: with a person-first perspective. Whether you are writing for an internal or external audience, it is important to write for and about other people in a way that is compassionate, inclusive, and respectful. Being aware of the impact of your language will help make strongDM a better place to work and a better steward of our values in the world. In this section we will lay out some guidelines for writing about people with compassion, and share some resources for further learning.
 
 ### As part of an audience
