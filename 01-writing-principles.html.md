@@ -21,6 +21,6 @@ In order to achieve those goals, we make sure our content is:
 
 * **Useful.** Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
 
-* **Friendly.** Write like a human. Do not be afraid to break a few rules if it makes your writing more relatable. All of our content, from splashy homepage copy to system alerts, should be warm and human.
+* **Friendly.** Write like a human. Do not be afraid to break a few rules if it makes your writing more relatable. All of our content should be professional, but informal.
 
 * **Appropriate.** Write in a way that suits the situation. Just like you do in face-to-face conversations, adapt your tone depending on who you are writing to and what you are writing about.
