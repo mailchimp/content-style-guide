@@ -7,17 +7,17 @@ One way we write empowering content is by being aware of our voice and our tone.
 
 What is the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you are out to dinner with your closest friends, and a different tone when you are in a meeting with your boss.
 
-Your tone also changes depending on the emotional state of the person you are addressing. You wouldn not want to use the same tone of voice with someone who is scared or upset as you would with someone who is laughing.
+Your tone also changes depending on the emotional state of the person you are addressing. You wouldn't want to use the same tone of voice with someone who is scared or upset as you would with someone who is laughing.
 
 The same is true for strongDM. Our voice does not change much from day to day, but our tone changes all the time.
 
 ## Voice
 
-At strongDM, we have walked in our customers' shoes, and we know that DevOps is a minefield of confusing terminology. That is why we speak like an experienced business partner, and not like a frilly sales pitch. 
+At strongDM, we have walked in our customers' shoes, and we know that DevOps is a minefield of confusing terminology. That is why we speak like an experienced business partner, and not like a frilly sales pitch.
 
-We treat every customer seriously. We want to educate people without patronizing or confusing them. 
+We treat every customer seriously. We want to educate people without patronizing or confusing them.
 
-Whether people know what they need from us or do not know the first thing about strongDM, every word we say informs and encourages. We impart our expertise with clarity, empathy, and wit. 
+Whether people know what they need from us or do not know the first thing about strongDM, every word we say informs and encourages. We impart our expertise with clarity, empathy, and wit.
 
 All of this means that when we write copy:
 
@@ -28,10 +28,7 @@ All of this means that when we write copy:
 3. **We are translators.** Only experts can make what is difficult look easy, and it is our job to demystify and educate. We try not to inundate the customer with industry terminology, and when we must, we ensure that it is well-defined.
 
 ## Tone
-
-strongDM's tone is usually informal, but it is always more important to be clear and to be understood than to be entertaining. When you are writing, consider the reader's state of mind. Are they relieved to be finished with a launch? Are they confused and seeking our help on Twitter? Once you have an idea of the potential emotional state of the reader of a piece of content, you can adjust your tone accordingly.
-
-strongDM has a sense of humor, so feel free to be funny when it is appropriate and when it comes naturally to you. But do not go out of your way to make a joke. Forced humor is worse than none at all. If you are unsure, keep a straight face.
+The tone we use for strongDM documenation is usually informal, but it is always more important to be clear and to be understood than to be entertaining. When you are writing, consider the reader's state of mind. Are they relieved to be finished with a launch? Are they confused and seeking our help on Twitter? Once you have an idea of the potential emotional state of the reader of a piece of content, you can adjust your tone accordingly.
 
 ## Style tips
 
