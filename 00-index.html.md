@@ -5,7 +5,7 @@ layout: article
 
 This style guide was created for strongDM employees, but we hope it is helpful for other content and communications teams too.
 
-## If you work at strongDM
+## If You Work at strongDM
 
 This is the style guide for the strongDM documentation. It helps us write clear and consistent content. Please use it as a reference when you are writing docs content for strongDM.
 
@@ -13,7 +13,7 @@ This guide goes beyond basic grammar and style points. It is not traditional in 
 
 We've divided the guide by topic based on the types of content we publish, so you can reference it as needed or browse in order.
 
-## If you work at another organization
+## If You Work at Another Organization
 
 We invite you to use and adapt this style guide as you see fit. It is completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit strongDM and the original creators.
 
