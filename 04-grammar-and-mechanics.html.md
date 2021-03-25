@@ -3,7 +3,7 @@ title: Grammar and Mechanics
 layout: article
 ---
 
-Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you are looking for something in particular.)
+Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our documentation content unless otherwise noted in this guide.
 
 ## Basics
 
@@ -41,13 +41,13 @@ In active voice, the subject of the sentence does the action. In passive voice, 
 
 Words like "was" and "by" may indicate that you are writing in passive voice. Scan for these words and rework sentences where they appear.
 
-One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
+One exception is when you want to specifically emphasize the action over the subject. In rare cases, this is fine.
 
 - Your account was flagged by our Abuse team.
 
 ### Capitalization
 
-We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word. Typically, we use title case for document titles, and sentence case for other headings.
+We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word. Typically, we use title case for document titles and H2s, and sentence case for other headings.
 
 When writing out an email address or website URL, use all lowercase.
 
@@ -67,11 +67,11 @@ Guidance on contractions is situational. In most cases, contractions are more in
 
 ### Numbers
 
-Spell out a number when it begins a sentence, if the number is less than 10. Otherwise, use the numeral. This includes ordinals.
+Spell out a number when it begins a sentence or if the number is less than 10. Otherwise, use the numeral. This includes ordinals.
 
 - Ten new employees started on Monday, and 13 start next week.
 - I ate three donuts at Coffee Hour.
-- There are 24 new tickets in the queue.
+- There are 10 new tickets in the queue.
 - Meg won first place in last year's Walktober contest.
 - We hosted a group of 12th graders who are learning to code.
 
@@ -82,6 +82,7 @@ Numbers over three digits get commas:
 - 999
 - 1,000
 - 150,000
+- 1,500,000
 
 Write out big numbers in full. Abbreviate them only if there are space restraints, as in a tweet or a chart: 1k, 150k.
 
@@ -178,8 +179,6 @@ The apostrophe's most common use is making a word possessive. If the word alread
 - The donut thief ate Chris's donut.
 - The donut thief ate the managers' donuts.
 
-Apostrophes can also be used to denote that you've dropped some letters from a word, usually for humor or emphasis. This is fine, but do it sparingly.
-
 #### Colons
 
 Use a colon (rather than an ellipsis, em dash, or comma) to offset a list.
@@ -206,12 +205,12 @@ Use a hyphen (-) without spaces on either side to link words into single phrase,
 - first-time user
 - Monday-Friday
 
-Use an em dash (—) without spaces on either side to offset an aside.
+Use an em dash (&mdash;) without spaces on either side to offset an aside.
 
-Use a true em dash, not hyphens (- or --).
+Use a true em dash (`&mdash;`), not hyphens (- or --).
 
-- Multivariate testing—just one of our new Pro features—can help you grow your business.
-- Austin thought Brad was the donut thief, but he was wrong—it was Lain.
+- Multivariate testing&mdash;just one of our new Pro features&mdash;can help you grow your business.
+- Austin thought Brad was the donut thief, but he was wrong&mdash;it was Lain.
 
 #### Ellipses
 
@@ -249,7 +248,7 @@ Never use exclamation points in failure messages or alerts. When in doubt, avoid
 
 Use quotes to refer to words and letters, titles of short works (like articles and poems), and direct quotations.
 
-Periods, commas, and question marks within quotes follow logic—if the question mark is part of the quotation, it goes within. If you are asking a question that ends with a quote, it goes outside the quote.
+Periods, commas, and question marks within quotes follow logic&mdash;if the question mark is part of the quotation, it goes within. If you are asking a question that ends with a quote, it goes outside the quote.
 
 Use single quotation marks for quotes within quotes.
 
@@ -258,7 +257,7 @@ Use single quotation marks for quotes within quotes.
 
 #### Semicolons
 
-Go easy on semicolons. They usually support long, complicated sentences that could easily be simplified. Try an em dash (—) instead, or simply start a new sentence.
+Go easy on semicolons. They usually support long, complicated sentences that could easily be simplified. Try an em dash (&mdash;) instead, or simply start a new sentence.
 
 #### Ampersands
 
@@ -338,7 +337,7 @@ Avoid spelling out URLs, but when you need to, leave off the http://www.
 
 Our trade name is "strongDM". Use "strongDM" or "SDM" as an abbreviation.
 
-Always lowercase the "strong" and capitalize the first "DM" in strongDM.
+Always lowercase the "strong" and capitalize the "DM" in strongDM.
 
 Refer to strongDM, the entity, as "we", not "it".
 
@@ -362,7 +361,7 @@ Refer to a company or product as "it" (not "they").
 
 Write in plain English. If you need to use a technical term that could potentially be unknown to your audience, briefly define it so everyone can understand.
 
-- Next, add a datasource in the admin UI. A datasource is the entity in strongDM that is a combination of a database and the credentials used for it.
+- Next, add a datasource in the admin UI. A datasource is the entity in strongDM that represents a combination of a database and the credentials used to access it.
 
 ### Text formatting
 
@@ -390,4 +389,4 @@ Use positive language rather than negative language. One way to detect negative 
 
 ### Combination Words
 
-When using words that are written multiple ways in common usage, such as "login/log in", "signup/sign up", "backend/back end", use the conjoined term. If there is a verb form of the word as well, use the separated form where possible ("log in" or "sign up").
+When using words that are written multiple ways in common usage, such as "login/log in", "signup/sign up", "backend/back end", use the conjoined term when using as a noun. If there is a verb form of the word as well, use the separated form where possible ("log in" or "sign up").
