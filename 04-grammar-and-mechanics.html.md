@@ -180,7 +180,7 @@ When referring to decades more than 100 years ago, be more specific:
 
 #### Apostrophes
 
-The apostrophe’s most common use is making a word possessive. If the word already ends in an s and it’s singular, you also add an ‘s. If the word ends in an s and is plural, just add an apostrophe.
+The apostrophe’s most common use is making a word possessive. If the word already ends in an s and it’s singular, you also add an ’s. If the word ends in an s and is plural, just add an apostrophe.
 
 - The donut thief ate Sam’s donut.
 - The donut thief ate Chris’s donut.
