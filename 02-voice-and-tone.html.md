@@ -21,11 +21,11 @@ Whether people know what they need from us or do not know the first thing about 
 
 All of this means that when we write copy:
 
-1. **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. Because businesses come to strongDM to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion. We have a product that fills a need; you have the need. You do not need to be sold with pretty words, but rather impressed with what we can actually do.
+- **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. Because businesses come to strongDM to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion. We have a product that fills a need; you have the need. You do not need to be sold with pretty words, but rather impressed with what we can actually do.
 
-2. **We are genuine.** We get small businesses because we are one. That means we relate to customers' challenges and passions and speak to them in a familiar, warm, and accessible way. 
+- **We are genuine.** We get small businesses because we are one. That means we relate to customers' challenges and passions and speak to them in a familiar, warm, and accessible way. 
 
-3. **We are translators.** Only experts can make what is difficult look easy, and it is our job to demystify and educate. We try not to inundate the customer with industry terminology, and when we must, we ensure that it is well-defined.
+- **We are translators.** Only experts can make what is difficult look easy, and it is our job to demystify and educate. We try not to inundate the customer with industry terminology, and when we must, we ensure that it is well-defined.
 
 ## Tone
 The tone we use for strongDM documentation is usually informal, but it is always more important to be clear and to be understood than to be entertaining. When you are writing, consider the reader's state of mind. Are they relieved to be finished with a launch? Are they confused and seeking our help on Twitter? Once you have an idea of the potential emotional state of the reader of a piece of content, you can adjust your tone accordingly.
