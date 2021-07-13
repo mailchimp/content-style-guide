@@ -17,7 +17,7 @@ Some social media platforms have a character limit; others do not. But for the m
 - Facebook: No limit, but aim for 1-2 short sentences.
 - Instagram: No limit, but try to keep it to 1 sentence or a short phrase. Feel free to throw in an emoji.
 
-To write short, simplify your ideas or reduce the amount of information you are sharing—but not by altering the spelling or punctuation of the words themselves. It is fine to use the shorter version of some words, like "info" for "information". But do not use numbers and letters in place of words, like "4" instead of "for" or "u" instead of "you".
+To write short, simplify your ideas or reduce the amount of information you are sharing—but not by altering the spelling or punctuation of the words themselves. It is fine to use the shorter version of some words, like "info" for "information." But do not use numbers and letters in place of words, like "4" instead of "for" or "u" instead of "you".
 
 ### Engagement
 
