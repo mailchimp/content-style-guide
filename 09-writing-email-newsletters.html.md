@@ -43,7 +43,7 @@ All campaigns should include an unsubscribe link, mailing address, and permissio
 
 ### Consider your perspective
 
-When sending an email newsletter from strongDM, use the third person "we". When sending a newsletter as an individual, use the first person.
+When sending an email newsletter from strongDM, use the third person "we." When sending a newsletter as an individual, use the first person.
 
 ### Use a hierarchy
 
@@ -69,4 +69,4 @@ Once you have selected an audience, adjust the language to fit their needs. For 
 
 ### Test your campaigns
 
-Inspect your newsletter in different email clients. Read your campaign out loud to yourself, then send a test to a coworker for a second look.
+Inspect your newsletter in different email clients. Read your campaign out loud to yourself, and then send a test to a coworker for a second look.
