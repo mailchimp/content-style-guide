@@ -47,7 +47,19 @@ One exception is when you want to specifically emphasize the action over the sub
 
 ### Capitalization
 
-We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word. Typically, we use title case for document titles and H2s, and sentence case for other headings.
+We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions that are two or three characters long, and conjunctions. Typically, we use title case for document titles (H1s) and H2s.
+
+- Temporary Access Integrations
+- Run the Import
+
+Sentence case capitalizes the first letter of the first word. We use sentence case for headings that are not H1s or H2s.
+
+- Create new files
+- Set up a public/private key pair
+
+Capitalize names that may appear in headings, regardless of the type of heading.
+
+- Create the new Dockerfile
 
 When writing out an email address or website URL, use all lowercase.
 
@@ -63,19 +75,36 @@ Do not capitalize random words in the middle of sentences. Here are some words a
 
 ### Contractions
 
-Guidance on contractions is situational. In most cases, contractions are more in line with common speech, and provide a conversational atmosphere with little negative connotation. However, if the situation feels too informal or is more complicated by the use of a contraction, don't use it.
+Guidance on contractions is situational. In most cases, contractions are more in line with common speech and provide a conversational atmosphere with little negative connotation. However, if the situation feels too informal or is more complicated by the use of a contraction, don't use it.
 
 ### Numbers
 
-Spell out a number when it begins a sentence or if the number is less than 10. Otherwise, use the numeral. This includes ordinals.
-
+- Spell out a number when it begins a sentence or if the number is less than 10. Otherwise, use the numeral. This includes ordinals.
 - Ten new employees started on Monday, and 13 start next week.
 - I ate three donuts at Coffee Hour.
 - There are 10 new tickets in the queue.
 - Meg won first place in last year's Walktober contest.
 - We hosted a group of 12th graders who are learning to code.
+- In the Admin UI you are able to render and download any session from the last 100 days as long as those sessions were not encrypted.
+
+If a sentence contains numbers that are both lower than 10 and higher than 10, the numeric digits are used throughout the sentence, for consistency.
+
+- The Admin UI will display Web Logs from the last 7 days, and all other logs are available via the CLI for a period of 13 months.
 
 Sometimes it feels weird to use these rules. If it is an expression that, in common usage, uses either spelled-out numbers or  numerals, leave them that way.
+
+#### In Blog headings
+
+In web content, like blogs, it’s acceptable to use numerals in headings or “listicles” (where the headings are used to section off list items), as the numerals are used for SEO purposes and they reduce the character count in headings.
+
+- 4 Barriers to Implementing Zero Trust Network Access (ZTNA)
+- 1. Complex Infrastructure and Hybrid Environments
+- 2. Trying to Operationalize Zero Trust with A Hodgepodge of Tools
+
+#### In Documentation headings
+Use all the rules that are described in the Numbers section of this guide (except for the rules given for blog headings).
+
+#### Punctuation
 
 Numbers over three digits get commas:
 
@@ -84,7 +113,10 @@ Numbers over three digits get commas:
 - 150,000
 - 1,500,000
 
-Write out big numbers in full. Abbreviate them only if there are space restraints, as in a tweet or a chart: 1k, 150k.
+Write out big numbers in full. Abbreviate them only if there are space restraints, as in a Tweet or a chart:
+
+- 1k
+- 150k
 
 #### Dates
 
@@ -93,24 +125,56 @@ Generally, spell out the day of the week and the month. Abbreviate only if space
 - Saturday, January 24
 - Sat., Jan. 24
 
-#### Decimals and fractions
+#### Seasons
+In running text, the name of the season is spelled out in lowercase letters.
+
+- We will launch the new feature this summer.
+
+When citing a source, such as a journal issue or report, the name of the season is initial-capped.
+- There’s a spotlight on strongDM in the Spring 2020 Cool Products Report.
+
+#### Fractions
 
 Spell out fractions.
 
 - Yes: two-thirds
 - No: 2/3
 
+#### Decimals
+
 Use decimal points when a number cannot be easily written out as a fraction, like 1.375 or 47.2.
+
+#### Inline Equations
+
+Use numeric values in inline equations. Don’t spell out the number.
+
+People accept that 2 + 2 = 4.
+
+#### Part Titles
+
+When referring to part or chapter numbers, the element (e.g., “part” or “chapter” or “section”) is lowercase and the number that follows is a numeral.
+
+- In part 1 of the article, they discussed some common mistakes.
+- See section 23 of the User Guide.
 
 #### Percentages
 
-Use the % symbol instead of spelling out "percent".
+Use the % symbol instead of spelling out "percent.”
+
+There is no space between the value and the % symbol.
+
+- Have some 2% milk.
+
+When expressing a percentage range, use only one % symbol.
+
+- Approximately 10-15% of your time will be spent in meetings.
 
 #### Ranges and spans
 
-Use a hyphen (-) to indicate a range or span of numbers.
+Use a hyphen (-) or “to” to indicate a range or span of numbers.
 
 - It takes 20-30 days.
+- We surveyed 50 to 75 devOps professionals.
 
 #### Money
 
@@ -148,6 +212,15 @@ Use a hyphen between times to indicate a time period.
 
 - 7 a.m.–10:30 p.m.
 
+Use only one a.m. or p.m. when expressing a time period that’s all morning or all afternoon/evening.
+
+- 8:30-11:30 a.m.
+- 3-5 p.m.
+
+When a.m. or p.m. appear at the end of the sentence, there is no extra period.
+
+- I plan on working from home today from 2:30-5 p.m.
+
 Specify time zones when writing about an event or something else people would need to schedule. We default to PT.
 
 Abbreviate time zones within the continental United States as follows:
@@ -183,9 +256,9 @@ The apostrophe's most common use is making a word possessive. If the word alread
 
 Use a colon (rather than an ellipsis, em dash, or comma) to offset a list.
 
-- Erin ordered 3 kinds of donuts: glazed, chocolate, and pumpkin.
+- Erin ordered three kinds of donuts: glazed, chocolate, and pumpkin.
 
-You can also use a colon to join 2 related phrases. If a complete sentence follows the colon, capitalize the 1st word.
+You can also use a colon to join two related phrases. If a complete sentence follows the colon, capitalize the first word.
 
 - I was faced with a dilemma: I wanted a donut, but I had just eaten a bagel.
 
@@ -200,7 +273,7 @@ Otherwise, use common sense. If you are unsure, read the sentence out loud. Wher
 
 #### Dashes and hyphens
 
-Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range.
+Use a hyphen (-) without spaces on either side to link words into a single phrase or to indicate a span or range.
 
 - first-time user
 - Monday-Friday
@@ -216,11 +289,50 @@ Use a true em dash (`&mdash;`), not hyphens (- or --).
 
 Ellipses (...) can be used to indicate that you are trailing off before the end of a thought. Use them sparingly. Do not use them for emphasis or drama, and do not use them in titles or headers.
 
-- "Where did all those donuts go?" Christy asked. Lain said, "I do not know..."
+- "Where did all those donuts go?" Christy asked. Lain said, "I do not know...."
 
 Ellipses, in brackets, can also be used to show that you are omitting words in a quote. This is the only use of ellipses that you would normally see in professional or technical writing.
 
 - "When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, [...] a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
+
+#### Parentheses
+Parentheses can be used around nonessential or less important information, asides, minor digressions, short explanations, and examples.
+
+Use parentheses after introducing an abbreviation after a spelled-out term. The abbreviation is always roman, even if the term is italic.
+
+- You will learn how to manage access to an Azure Kubernetes Service (AKS) cluster.
+
+If a comma or semicolon follows a spelled-out term and its abbreviation, the punctuation goes after the parenthetical element.
+
+- Type in a name for the server (e.g., “aks-sandbox”); this name will show up in the Admin UI.
+- Scroll up and enter a value of 600 (seconds), for a 10-minute grace period.
+- Paste the server certificate (plaintext or Base64-encoded), or import a PEM file. 
+
+When giving a synonym for a term, either parentheses or commas can be used.
+
+- Nodes, the Gateways and Relays that make up your strongDM network, proxy connections from your users to your resources.
+- Nodes (the Gateways and Relays that make up your strongDM network) proxy connections from your users to your resources.
+
+If the text enclosed within the parentheses forms a complete sentence and it’s set outside of a complete sentence, capitalize the first word and place the final punctuation within the parentheses.
+
+- You should now see a new Gateway in this section. (If you don’t see it, wait a few minutes and refresh the page.)
+
+If the text enclosed within the parentheses forms a complete sentence and it’s set inside of a complete sentence, don’t capitalize the first word or use final punctuation within the parentheses.
+
+- Copy the SDM app to the Applications folder in your home directory (if there is no Applications folder, you can create one).
+
+If the text inside the parentheses is not a complete sentence, don’t capitalize the first word or use ending punctuation.
+
+- Select a TCP port (default 5000) for the service to listen on.
+
+When using a parenthetical to provide an example in a sentence, use the abbreviated form “e.g.,” instead of saying, “for example.”
+
+- Enter the hostname or IP address of the API server (e.g., “api.aks.example.com”).
+
+When using a parenthetical to provide further description in a sentence, use the abbreviated form “i.e.,” instead of saying, “that is.”
+
+- Select the availability zone where you want the load balancer to be hosted (i.e., where the public subnet resides).
+- Choose where the credentials for this cluster will be stored (i.e., strongDM, AWS Secrets Manager, Vault Secret Store, or GCP Secrets Manager).
 
 #### Periods
 
@@ -230,7 +342,13 @@ Periods go inside quotation marks if they're part of the quote, outside parenthe
 - I ate a donut (and I ate a bagel, too).
 - I ate a donut and a bagel. (The donut was Sam's.)
 
-Leave a single space between sentences. 
+Leave a single space between sentences.
+
+#### Prefixes
+
+Many words that begin with prefixes like “multi,” “non,” or “auto” are not hyphenated. In general, prefixes should not be attached to words with hyphens unless the hyphenated word appears on the strongDM Word List or the hyphenated word is a product feature name.
+
+The strongDM Word List is our authority for prefixes. If the word in question is not shown in the Word List, consult **Merriam-Webster**. If the word is not shown in the dictionary, lean toward hyphenating it, and discuss the desired spelling with the Education team.
 
 #### Question marks
 
@@ -248,12 +366,17 @@ Never use exclamation points in failure messages or alerts. When in doubt, avoid
 
 Use quotes to refer to words and letters, titles of short works (like articles and poems), and direct quotations.
 
-Periods, commas, and question marks within quotes follow logic&mdash;if the question mark is part of the quotation, it goes within. If you are asking a question that ends with a quote, it goes outside the quote.
+Periods, commas, and question marks within quotes follow logic—if the question mark is part of the quotation, it goes within. If you are asking a question that ends with a quote, it goes outside the quote.
 
 Use single quotation marks for quotes within quotes.
 
 - Who was it that said, "A fool and his donut are easily parted"?
 - Brad said, "A wise man once told me, ‘A fool and his donut are easily parted.'"
+
+Use straight quotes for code examples. You can strip the formatting by copying quotes, pasting them into a plain text editor, and pasting them back into your document.
+
+- Yes: "SDM_ACCESS_KEY"
+- No: “SDM_ACCESS_KEY”
 
 #### Semicolons
 
@@ -270,7 +393,7 @@ Do not use ampersands unless one is part of a company or brand name.
 
 #### File extensions
 
-When referring generally to a file extension type, use all uppercase without a period. Add a lowercase s to make plural.
+When referring generally to a file extension type, use all uppercase without a period. Add a lowercase **s** to make plural.
 
 - GIF
 - PDF
@@ -286,7 +409,7 @@ When referring to a specific file, the filename should be lowercase:
 
 #### Pronouns
 
-If your subject's gender is unknown or irrelevant, use "they", "them", and "their" as a singular pronoun. Use "he/him/his" and "she/her/her" pronouns as appropriate. Do not use "one" as a pronoun.
+If your subject's gender is unknown or irrelevant, use "they," "them," and "their" as a singular pronoun. Use "he/him/his" and "she/her/her" pronouns as appropriate. Do not use "one" as a pronoun.
 
 For more on writing about gender, see [Writing about people](/03-writing-about-people.html.md).
 
@@ -305,12 +428,12 @@ Capitalize the names of departments and teams (but not the word "team" or "depar
 - Marketing team
 - Support department
 
-Capitalize individual job titles when referencing to a specific role. Do not capitalize when referring to the role in general terms.
+Capitalize individual job titles when referencing a specific role. Do not capitalize when referring to the role in general terms.
 
 - Our new Marketing Manager starts today.
 - All the managers ate donuts. 
 
-Do not refer to someone as a "ninja", "rockstar", or "wizard" unless they literally are one.
+Do not refer to someone as a "ninja," "rockstar," or "wizard" unless they literally are one.
 
 #### Schools
 
@@ -323,9 +446,9 @@ The first time you mention a school, college, or university in a piece of writin
 
 Spell out all city and state names. Do not abbreviate city names.
 
-All cities should be accompanied by their state, with the exception of: Atlanta, Baltimore, Boston, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Honolulu, Houston, Indianapolis, Las Vegas, Los Angeles, Miami, Milwaukee, Minneapolis, New Orleans, New York, Oklahoma City, Philadelphia, Phoenix, Pittsburgh, St. Louis, Salt Lake City, San Antonio, San Diego, San Francisco, Seattle, Washington.
+All cities should be accompanied by their state, with the exception of: Atlanta, Baltimore, Boston, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Honolulu, Houston, Indianapolis, Las Vegas, Los Angeles, Miami, Milwaukee, Minneapolis, New Orleans, New York, Oklahoma City, Philadelphia, Phoenix, Pittsburgh, St. Louis, Salt Lake City, San Antonio, San Diego, San Francisco, Seattle, and Washington.
 
-On first mention, write out United States. On subsequent mentions, US is fine. The same rule applies to any other country or federation with a common abbreviation (European Union, EU; United Kingdom, UK).
+On first mention, write out "United States." On subsequent mentions, "US" is fine. The same rule applies to any other country or federation with a common abbreviation (European Union, EU; United Kingdom, UK).
 
 #### URLs and websites
 
@@ -335,17 +458,17 @@ Avoid spelling out URLs, but when you need to, leave off the http://www.
 
 #### Writing about strongDM
 
-Our trade name is "strongDM". Use "strongDM" or "SDM" as an abbreviation.
+Our trade name is "strongDM".
 
 Always lowercase the "strong" and capitalize the "DM" in strongDM.
 
-Refer to strongDM, the entity, as "we", not "it".
+Refer to strongDM, the entity, as "we" not "it."
 
-Do not capitalize descriptive product or feature names, like gateway, relay, or datasource. 
+Capitalize descriptive product or feature names, like "Gateway," "Relay," or "Datasource." 
 
-- gateways
-- strongDM client
-- Add a datasource to your admin UI.
+- Gateways
+- strongDM Vlient
+- Add a Datasource to your Admin UI.
 
 #### Writing about other companies
 
@@ -361,7 +484,7 @@ Refer to a company or product as "it" (not "they").
 
 Write in plain English. If you need to use a technical term that could potentially be unknown to your audience, briefly define it so everyone can understand.
 
-- Next, add a datasource in the admin UI. A datasource is the entity in strongDM that represents a combination of a database and the credentials used to access it.
+- Next, add a datasource in the Admin UI. A datasource is the entity in strongDM that represents a combination of a database and the credentials used to access it.
 
 ### Text formatting
 
@@ -369,24 +492,29 @@ Use italics to indicate the title of a long work (like a book, movie, or album).
 
 - *Dunston Checks In*
 
-Use bold when citing an example of an in-app strongDM element, or referencing button and navigation labels in step-by-step instructions:
+Use bold when citing an example of an in-app strongDM element, or when referencing button and navigation labels in step-by-step instructions:
 
 - Open the **Datasources** tab.
 - Click **add datasource**, and then fill in the **Display Name** field. Then, choose a **Datasource Type** from the list.
 
+#### Underlines
+
 Do not use underline formatting, and do not use any combination of italic, bold, caps, and underline.
+
+#### Alignment
 
 Left-align text, never center or right-aligned.
 
+#### Spaces
 Leave one space between sentences, never two.
 
 ### Write positively
 
-Use positive language rather than negative language. One way to detect negative language is to look for words like "cannot", "do not", etc.
+Use positive language rather than negative language. One way to detect negative language is to look for words like "cannot," "do not," etc.
 
 - Yes: To get a donut, stand in line.
 - No: You cannot get a donut if you do not stand in line.
 
 ### Combination Words
 
-When using words that are written multiple ways in common usage, such as "login/log in", "signup/sign up", "backend/back end", use the conjoined term when using as a noun. If there is a verb form of the word as well, use the separated form where possible ("log in" or "sign up").
+When using words that are written multiple ways in common usage, such as "login/log in," "signup/sign up," "backend/back end," use the conjoined term when using it as a noun. If there is a verb form of the word as well, use the separated form where possible ("log in" or "sign up").
