@@ -46,13 +46,13 @@ Use title case for menu names and sentence case for menu items.
 * Subheadings (H2, H3, etc.) break articles into smaller, more specific sections. They give readers avenues into your content and make it more scannable.
 * Headings and subheadings should be organized in a hierarchy, with heading first, followed by subheadings in order. (An H2 will nestle under H1, an H3 under H2, and on down.)
 * Include the most relevant keywords in your headings and subheadings, and make sure you cover the main point of the content.
-* Use sentence for headings other than H1s.
+* Use sentence case for headings other than H1s and H2s.
 
 ### Links
 
 Provide a link whenever you are referring to something on an external website. Use links to point users to relevant content and trusted external resources.
 
-Do not include preceding articles (a, an, the, our) when you link text. For example:
+Do not include preceding articles (a, an, the) when you link text. For example:
 
 - Yes: Read the [automation guide](#) for details.
 - No: Read [the automation guide](#) for details.
@@ -65,7 +65,16 @@ Links should look different than regular copy, strong text, or emphasis text. Th
 
 ### Lists
 
-Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you are describing steps of a process. Do not use numbers when the list's order does not matter.
+Use lists to present steps, groups, or sets of information. Give context for the list with a brief introductory paragraph. The introductory paragraph should explain the purpose of the list.
+
+In procedures, it’s acceptable to introduce list items with a fragment. For example:
+
+In the cluster settings, set:
+1. **Display Name**: Type in a name for the server (e.g., “aks-sandbox”); this name will show up in the Admin UI.
+2. **Cluster Type**: Select **AKS**. 
+3. **Hostname**: Enter the hostname or IP address of the API server (e.g., “api.aks.example.com”).
+
+Number lists when the order is important, like when you are describing steps of a process. Do not use numbers when the list's order does not matter.
 
 If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, do not use punctuation, but do capitalize the first word of each item.
 
@@ -98,3 +107,4 @@ We write for humans, not machines. We do not use gross SEO techniques like keywo
 * Organize your page around one topic. Use clear, descriptive terms in titles and headings that relate to the topic at hand.
 * Use descriptive headings to structure your page and highlight important information.
 * Give every image descriptive alt text.
+* When it makes grammatical sense to do so, in page titles and headings, put the SEO-heavy terms as far left as possible.
