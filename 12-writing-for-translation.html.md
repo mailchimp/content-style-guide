@@ -3,13 +3,13 @@ title: Writing for Translation
 layout: article
 ---
 
-strongDM serves international customes, not just the United States. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
+strongDM serves international customers, not just the United States. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
 
 We call the process of writing copy for translation "internationalization." This section will address things you can do to help international audiences, including translators, better comprehend your text.
 
 ## Basics
 
-Our Technical Content is currently only available to customers in English, but that could and likely will change in the future.
+Our technical content is currently only available to customers in English, but that could and likely will change in the future.
 
 We try to write all of our content in standard, straightforward English that can be understood by users with limited English proficiency. It is also much easier for a translator to clearly communicate ideas written in straightforward, uncomplicated sentences.
 
@@ -57,9 +57,9 @@ Many words, parts of speech, and grammar mechanics we do not think twice about h
 
 In English, many different types of words end in -ing: nouns, adjectives, progressive verbs, etc. But a translator who is a non-native English speaker may not be able to recognize the distinctions and may try to translate them all in the same way.
 
-Because of this, we want to avoid -ing words when possible. One exception to this rule is words like "graphing calculator" and "riding lawnmower", where the -ing word is part of a noun's name and cannot be worked around.
+Because of this, we want to avoid -ing words when possible. One exception to this rule is words like "graphing calculator" and "riding lawnmower," where the -ing word is part of a noun's name and cannot be worked around.
 
-Here are some other cases where you might see -ing words, and suggestions for how to edit around them.
+Here are some other cases where you might see -ing words and suggestions for how to edit around them.
 
 #### Gerunds
 
@@ -92,7 +92,7 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 * Double negatives
 * Synonyms, generally. Do not use a lot of different words for the same thing in a single piece of writing. Instead of mixing it up with "campaign," "newsletter," "bulletin," etc., pick one term and stick with it.
 
-### Beware words with multiple meanings
+### Beware of words with multiple meanings
 
 * **"Once"** (could mean "one time," "after," "in the past," or "when")
 * **"Right"** (could mean "correct," "the opposite of left," "politically conservative," etc.)
