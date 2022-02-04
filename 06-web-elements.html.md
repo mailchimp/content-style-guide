@@ -15,7 +15,7 @@ For more on how and why we use alt text, read the [Accessibility](/12-writing-fo
 
 ### Buttons
 
-Buttons should always contain actions. The language should be clear and concise. Capitalize every word, including articles. It’s OK to use an ampersand in button copy.
+Button copy should always include verbs. Keep things clear and concise, and use sentence case. It’s OK to use an ampersand in button copy.
 
 Standard website buttons include:
 
