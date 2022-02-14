@@ -19,10 +19,10 @@ Button copy should always include verbs. Keep things clear and concise, and use 
 
 Standard website buttons include:
 
-- Log In
-- Sign Up Free
+- Log in
+- Sign up free
 - Subscribe
-- Email Us
+- Email us
 
 ### Checkboxes
 
