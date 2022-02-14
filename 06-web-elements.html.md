@@ -19,10 +19,10 @@ Buttons should always contain actions. The language should be clear and concise.
 
 Standard website buttons include:
 
-- Log In
-- Sign Up Free
+- Log in
+- Sign up free
 - Subscribe
-- Email Us
+- Email us
 
 ### Checkboxes
 
