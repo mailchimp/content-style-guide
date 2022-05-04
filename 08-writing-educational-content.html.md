@@ -3,7 +3,7 @@ title: How to Write Educational Content
 layout: article
 ---
 
-At Mailchimp, educational content appears within our [Help Center](https://mailchimp.com/help/), as well as within our [Help Center](https://mailchimp.com/workshops/), certain marketing materials, and internal training documents. This section lays out the guiding principles for writing educational content, and discusses the main types of educational content that exist at Mailchimp.
+At Mailchimp, educational content appears within our [Help Center](https://mailchimp.com/help/), as well as within our [workshops](https://mailchimp.com/workshops/), certain marketing materials, and internal training documents. This section lays out the guiding principles for writing educational content, and discusses the main types of educational content that exist at Mailchimp.
 
 ## Basics
 
