@@ -1,94 +1,83 @@
 ---
-title: Writing Technical Content
+title: How to Write Educational Content
 layout: article
 ---
 
-At Mailchimp, technical content appears primarily in our [guides and tutorials](https://mailchimp.com/help/). This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+At Mailchimp, educational content appears within our [Help Center](https://mailchimp.com/help/), as well as within our [Help Center](https://mailchimp.com/workshops/), certain marketing materials, and internal training documents. This section lays out the guiding principles for writing educational content, and discusses the main types of educational content that exist at Mailchimp.
 
 ## Basics
 
-Someone reading technical content is usually looking to answer a specific question. That question might be broad or narrowly focused, but either way our goal is to provide answers without distraction.
+Someone taking in educational content is usually looking to answer a specific question. That question might be broad or narrowly focused, but either way our goal is to provide answers without distraction.
 
 For each project, consider your audience’s background, goal, and current mood. Ask these questions:
 
-- Is the reader a prospective user, a new user, or an experienced user?
-- What is the goal of the user? To complete a task? To research a topic?
-- Is the user in the middle of a task? Are they in a hurry? Could they be frustrated?
+- Who is your audience? Are they Mailchimp employees, a Mailchimp user, a developer?
+- What is this person’s goal? To complete a task? To research a topic?
+- What is this person’s mindset? Are they in the middle of a task, or in a hurry? Could they be frustrated or feeling overwhelmed?
 
-We don’t want to overload our audience with unnecessary information, choices, or complex ideas or phrases when we don’t have to. This is particularly critical when a user may be new and/or frustrated. 
+We don’t want to overload our audience with unnecessary information, choices, or complex ideas or phrases. This is particularly important since we always consider the [neurodiversity of our audience](/12-writing-for-accessibility.html.md/), and that learning something new can often feel overwhelming.
 
-When relevant, provide a brief outline of an article’s focus in an introductory paragraph or section, and stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
+When writing educational content, remember to stick to the topic at hand. Keep sentences, paragraphs, and procedural steps focused and concise.
 
-## Types of technical content
+## Types of educational content
 
-Technical content articles vary in target audience, goal, and tone. Mailchimp technical content is built from templates, which serve different purposes and readers. Templates should be considered guidelines and are not intended to be prescriptive. We may deviate from or combine elements of different templates to best serve the reader.
+We create educational content to serve various channels and audiences. We need to not only educate our customers, but also inform our partners and staff around when and how to use our products and features.
 
-Here are some examples of article templates we use. 
+Educational content at Mailchimp can include:
 
-| **Article Template** | **User Type**                  | **Goal**                                                                        |
-| -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
-| Pathfinder           | prospective, new, intermediate | **Orientation.** Bundle topics and provide links to relevant tutorials or general reference.         |
-| General Reference    | prospective, new, intermediate | **Introduction.** Provide a high-level explanation of what the feature is, how it works, and its benefit to the user. Include links to relevant tutorials.         |
-| Troubleshooting      | new, intermediate, advanced    | **Support.** Outline expected behavior and include potential causes of unexpected behavior. Group by cause or topic. |
-| Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task. Provide a roadmap and prerequisites, and clear step-by-step instructions. |
-
+- [Help Center](https://mailchimp.com/help/) articles, guides, tutorials and troubleshooting advice
+- Tutorial videos published to our website and YouTube
+- [Webinars and workshops](https://mailchimp.com/workshops/) presented live and published to our website and YouTube
+- Instagram reels and other how-to social content
+- [API documentation](https://mailchimp.com/developer/marketing/api/) and developer resources
+- Release notes
+- Staff training materials, courses, and resources
+- Partner training materials, courses, and resources
+- Marketing Library articles and resources
 
 ## Guidelines
 
-### Writing technical content
+### Writing educational content
 
-When writing technical content, follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some other goals and pointers to keep in mind.
+When writing educational content, be sure to follow the style points outlined in the [Voice and Tone](/02-voice-and-tone.html.md) and [Grammar and Mechanics](/04-grammar-and-mechanics.html.md) sections. In addition, here are some education-specific goals and pointers to keep in mind.
 
-#### Stay relevant to the title
+#### Stay relevant to the topic
 
-When a user clicks the title of an article, they expect to find the answer they want. Don’t stray too far from the title or topic at hand. Use links to make related content available. If you find you’re getting too far from the intended topic, then you may need to create a separate but related article.
+When a reader or viewer clicks on a link to educational content, they expect to find the answer they want. Don’t stray too far from the title or topic at hand. Use links to make related content available. If you find you’re getting too far from the intended topic, then you may need to create a related video, article, or deck.
 
 #### Keep headlines and paragraphs short and scannable
 
-Focused users often scan an article for the part that will answer their particular question. Be sure headlines are short, descriptive, and parallel, to facilitate scanning.
+Readers often scan a page for info that will answer their particular question. When writing educational content, be sure your headlines are short, descriptive, and parallel to help with scanning.
 
-#### Use second person and describe actions to a user
-
-Technical content talks to users when support agents can’t.
+When writing video scripts, describe the outcome before doing the action so viewers feel confident they’re watching content that will answer their question.
 
 #### Strive for simplicity and clarity
 
-Be as clear as possible. Use simple words and phrases, avoid gerunds and hard-to-translate idioms or words, focus on the specific task, limit the number of sentences per paragraph. If you must include edge cases or tangentially related information, set it aside in a Before You Start list or Notes field.
+Be as clear as possible. Use simple words and phrases while avoiding gerunds and hard-to-translate words or idioms. Focus on the specific task, and limit the number of sentences per paragraph. Aim to keep your sentences at 25 words or less.
+
+Video scripts should include clear transitional language and cues that introduce a specific visual element or emphasize where the user should focus their attention.
+E.g. "To do this," or “I see here, there are some suggestions..."
 
 #### Provide context through embedded screenshots, videos, and GIFs
 
-Screenshots, videos, and GIFs may not be necessary for every article or process, but can be helpful to orient new users. Crop screenshots tightly around the action to focus attention.
+Screenshots, videos, and GIFs make content more scannable and accessible, especially in  written guides, tutorials, and training materials. Keep each visual focused on the action or meaning it conveys. Always crop screenshots tightly around the action.
 
-### Formatting technical content
+### Formatting educational content
 
-Technical content uses organization, capitalization, and other formatting to help convey meaning. Although articles are organized differently, some formatting tips are consistent throughout all technical content.
+Educational content often uses formatting to help convey meaning. Although various forms of educational content are organized differently, the formatting tips are consistent.
 
 #### Capitalization
 
-Capitalize proper names of Mailchimp products, features, pages, tools, and teams when directly mentioned. In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the app.
+Capitalize proper names of Mailchimp products, features, pages, tools, and teams when directly mentioned.
 
-- Mailchimp
-- Compliance Team, Billing Team
+- Creative Assistant
+- Pre-Built Customer Journeys
+- Compliance team, Billing team
+
+#### Bolding
+
+In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the app.
+
 - Navigate to the **Reports** page.
 - Click **Create**.
 
-#### Headings
-
-Organize article content with H2s and H3s. Use H2s for higher-level topics or goals, and use H3s within each section for supporting information or tasks.
-
-Article title: About Landing Pages
-
- - H2: How landing pages work in Mailchimp
- - H2: How to use landing pages
- - H2: Resources
-   - H3: Get inspired and learn best practices
-   - H3: Create a landing page
-   - H3: Learn about reports
-
-#### Ordered Lists
-
-Only use ordered lists for step-by-step instructions. Separate steps into logical chunks, with no more than 2 related actions per step. When additional explanation or a screenshot is necessary, use a line break inside the list item.
-
-#### Unordered Lists
-
-Use unordered lists to display examples or multiple notes. If an unordered list comprises more than 10 items, use a table instead.
